@@ -42,18 +42,20 @@ jobs:
               head: `${context.repo.owner}:l10n_crowdin_translations`,
             });
             if (pullRequests.length > 0) {
-              core.setOutput("result", pullRequests[0].number);
+              console.log("Found PR number:", pullRequests[0].number);
+              return pullRequests[0].number;  // 直接返回数字
             } else {
               core.setFailed("No pull request found for the l10n_crowdin_translations branch.");
+              return null;
             }
 
       - name: Merge Pull Request
-        if: success()  # 如果上一步骤成功才继续
+        if: steps.get_pr.outputs.result != ''  # 确保有 PR 编号才执行
         uses: actions/github-script@v6
         with:
           github-token: ${{ secrets.GH_TOKEN }}
           script: |
-            const pullNumber = parseInt(process.env.PULL_REQUEST_NUMBER, 10);
+            const pullNumber = ${{ steps.get_pr.outputs.result }};  // 直接使用数字
             console.log("Pull Request Number:", pullNumber);
             if (!pullNumber) {
               throw new Error("Pull Request number is not defined");
@@ -65,5 +67,3 @@ jobs:
               commit_title: '[skip-upload] Auto-merge Crowdin translations',
               merge_method: 'squash'
             });
-        env:
-          PULL_REQUEST_NUMBER: ${{ steps.get_pr.outputs.result }}
