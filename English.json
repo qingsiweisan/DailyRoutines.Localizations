@@ -1333,7 +1333,5 @@
     "Module": "Module",
     "ReloadModules": "Reload Modules",
     "LocalModules": "Local Modules",
-    "Path": "Path",
-    "Settings-AddLocalModuleHelp": "Enter your local module's absolute path (.dll)",
-    "Settings-CheckPathValidity": "Validate path"
+    "Path": "Path"
 }

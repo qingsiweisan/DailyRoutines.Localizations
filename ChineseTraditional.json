@@ -1333,7 +1333,5 @@
     "Module": "模塊",
     "ReloadModules": "重載模塊",
     "LocalModules": "本地模塊",
-    "Path": "路徑",
-    "Settings-AddLocalModuleHelp": "請填寫目標本地模塊的絕對路徑 (以 .dll 結尾)",
-    "Settings-CheckPathValidity": "檢測路徑有效性"
+    "Path": "路徑"
 }

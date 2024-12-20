@@ -453,6 +453,7 @@
     "AutoSplitStacksTitle": "アイテムを自動で分割する",
     "Execute": "実行する",
     "Item": "アイテム",
+    "AutoLogin-AddCommandHelp": "1.{0} <キャラクター>\n    現在のサーバで指定されたキャラクターにログインする\n2.{1} <サーバー> <キャラクター>\n    指定されたサーバで指定されたキャラクターにログインする",
     "AutoSplitStacks-FastSplit": "クイック分割",
     "Ward": "住宅エリア",
     "AutoLeaveDuty-AddCurrentHighEnd": "現バージョンの高難易度コンテンツを追加する",
