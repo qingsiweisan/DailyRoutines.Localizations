@@ -56,7 +56,7 @@ jobs:
             await github.rest.pulls.merge({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              pull_number: ${{ steps.get_pr.outputs.result }},
+              pull_number: parseInt(steps.get_pr.outputs.result, 10),
               commit_title: '[skip-upload] Auto-merge Crowdin translations',
-              merge_method: 'squash',
+              merge_method: 'squash'
             });
