@@ -46,17 +46,24 @@ jobs:
             } else {
               core.setFailed("No pull request found for the l10n_crowdin_translations branch.");
             }
-        
+
       - name: Merge Pull Request
         if: success()  # 如果上一步骤成功才继续
         uses: actions/github-script@v6
         with:
           github-token: ${{ secrets.GH_TOKEN }}
           script: |
+            const pullNumber = parseInt(process.env.PULL_REQUEST_NUMBER, 10);
+            console.log("Pull Request Number:", pullNumber);
+            if (!pullNumber) {
+              throw new Error("Pull Request number is not defined");
+            }
             await github.rest.pulls.merge({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              pull_number: parseInt(steps.get_pr.outputs.result, 10),
+              pull_number: pullNumber,
               commit_title: '[skip-upload] Auto-merge Crowdin translations',
               merge_method: 'squash'
             });
+        env:
+          PULL_REQUEST_NUMBER: ${{ steps.get_pr.outputs.result }}
