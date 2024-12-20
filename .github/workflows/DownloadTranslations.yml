@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  download-from-crowdin:
+  download-and-merge:
     runs-on: ubuntu-latest
 
     steps:
@@ -28,3 +28,33 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
           CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
+
+      - name: Get Pull Request Number
+        id: get_pr
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const { data: pullRequests } = await github.pulls.list({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              head: `${context.repo.owner}:l10n_crowdin_translations`,
+            });
+            if (pullRequests.length > 0) {
+              return pullRequests[0].number;
+            } else {
+              core.setFailed("No pull request found for the l10n_crowdin_translations branch.");
+            }
+          result-encoding: string
+
+      - name: Merge Pull Request
+        uses: actions/github-script@v6
+        with:
+          script: |
+            await github.pulls.merge({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: ${{ steps.get_pr.outputs.result }},
+              commit_title: '[skip-upload] Auto-merge Crowdin translations',
+              merge_method: 'squash'
+            });
