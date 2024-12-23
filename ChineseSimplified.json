@@ -1345,5 +1345,7 @@
     "AutoRecordSubTimeLeft-LastRecordTime": "上次记录",
     "AutoRecordSubTimeLeft-TimeTill": "剩余时间",
     "AutoRecordSubTimeLeft-ExpireTime": "过期时间",
-    "AutoRecordSubTimeLeft-NoData": "暂无数据, 请重新登陆游戏以记录"
+    "AutoRecordSubTimeLeft-NoData": "暂无数据, 请重新登陆游戏以记录",
+    "AutoVerEasyQuestBattleTitle": "自动任务战斗非常简单",
+    "AutoVerEasyQuestBattleDescription": "在进入单人任务战斗时, 自动将其难度修改为 非常简单"
 }
