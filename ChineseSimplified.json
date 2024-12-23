@@ -1341,12 +1341,6 @@
     "AutoPeloton-DisableInWalk":"行走模式下自动禁用",
     "FixedPetPositionTitle":"固定召唤物位置",
     "FixedPetPositionDescription":"进入八人副本后，若当前场上存在自身召唤物，则自动将召唤物固定于指定位置",
-    "FixedPetPosition-PositionX":"X 坐标",
-    "FixedPetPosition-PositionY":"Y 坐标",
-    "FixedPetPosition-DutyId":"副本ID",
     "FixedPetPosition-Delay":"进入战斗后生效 (秒)",
-    "FixedPetPosition-Operation":"操作",
-    "FixedPetPosition-Config":"配置副本与召唤物移动时间点：",
-    "FixedPetPosition-Delete": "删除",
-    "FixedPetPosition-CurrentTerritoryTypeID": "当前区域ID："
+    "FixedPetPosition-Config":"配置副本与召唤物移动时间点："
 }
