@@ -1348,9 +1348,9 @@
     "AutoRecordSubTimeLeft-NoData": "暂无数据, 请重新登陆游戏以记录",
     "AutoVerEasyQuestBattleTitle": "自动任务战斗非常简单",
     "AutoVerEasyQuestBattleDescription": "在进入单人任务战斗时, 自动将其难度修改为 非常简单",
-    "FixedPetPositionTitle":"固定召唤物位置",
-    "FixedPetPositionDescription":"进入八人副本后, 若当前场上存在自身召唤物, 则自动将召唤物固定于指定位置",
-    "FixedPetPosition-Delay":"延迟生效 (秒)",
-    "FixedPetPosition-GetCurrent":"获取玩家当前位置",
-    "FixedPetPosition-GetMouse":"请用鼠标指向目标位置, 然后按 Ctrl + Alt 确定"
+    "AutoMovePetPositionTitle":"自动移动召唤物位置",
+    "AutoMovePetPositionDescription":"配置完成并进入八人副本后，若当前场上存在自身召唤物，则根据设定时间轴自动将召唤物移动至指定位置",
+    "AutoMovePetPosition-Delay":"战斗开始后时间",
+    "AutoMovePetPosition-GetCurrent":"获取玩家当前位置",
+    "AutoMovePetPosition-GetMouseHelp":"单击后, 请用鼠标指向目标位置，按 Ctrl + Alt 确定"
 }
