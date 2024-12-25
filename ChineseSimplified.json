@@ -1352,5 +1352,17 @@
     "AutoMovePetPositionDescription":"配置完成并进入八人副本后, 若当前场上存在自身召唤物, 则根据设定时间轴自动将召唤物移动至指定位置",
     "AutoMovePetPosition-Delay":"战斗开始后时间",
     "AutoMovePetPosition-GetCurrent":"获取玩家当前位置",
-    "AutoMovePetPosition-GetMouseHelp":"单击后, 请用鼠标指向目标位置, 按 Ctrl + Alt 确定"
+    "AutoMovePetPosition-GetMouseHelp":"单击后, 请用鼠标指向目标位置，按 Ctrl + Alt 确定",
+    "AutoSortItemsTitle":"自动整理物品",
+    "AutoSortItemsDescription":"切换地图自动整理物品，包括兵装库",
+    "Asc":"升序",
+    "Desc":"降序",
+    "Gear":"兵装",
+    "Tab":"分页",
+    "UnTab":"不分页",
+    "AutoSortItems-ArmouryCategoryDesc":"降序的话，生产在前，战职在后",
+    "AutoSortItems-InventoryCategoryDesc":"降序的话，生产素材会在石头之前，食物和药会在烟花幻卡之前",
+    "AutoSortItems-InventoryTabDesc":"分页的话，装备会在第一页，其他物品会在后面几页",
+    "AutoSortItems-SendSortMessage":"是否发送物品整理通知",
+    "AutoSortItems-SortMessage":"自动整理物品完成"
 }
