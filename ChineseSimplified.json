@@ -1353,8 +1353,6 @@
     "FixedPetPosition-Delay":"延迟生效 (秒)",
     "FixedPetPosition-GetCurrent":"获取玩家当前位置",
     "FixedPetPosition-GetMouse":"请用鼠标指向目标位置，然后按 Ctrl + Alt 确定",
-    "FixedPetPosition-Delay":"进入战斗后生效 (秒)",
-    "FixedPetPosition-Config":"配置副本与召唤物移动时间点：",
     "ASTHelperTitle": "占星技能优化",
     "ASTHelperDescription": "根据预设的一系列规则重定向发卡和单体治疗技能目标",
     "ASTHelper-AutoPlayCardTitle": "重定向发卡目标",
