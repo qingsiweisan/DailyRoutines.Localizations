@@ -1352,6 +1352,7 @@
     "FixedPetPositionDescription": "進入八人副本後，若當前場上存在自身召喚物，則自動將召喚物固定於指定位置",
     "FixedPetPosition-Delay": "進入戰鬥後生效 (秒)",
     "FixedPetPosition-Config": "配置副本與召喚物移動時間點：",
+    "FixedPetPosition-Delay": "進入戰鬥後生效 (秒)",
     "AutoSortItemsTitle":"自動整理物品",
     "AutoSortItemsDescription":"切換地圖時自動整理物品，包括兵裝庫",
     "Asc":"升序",
