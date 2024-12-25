@@ -1347,8 +1347,5 @@
     "AutoRecordSubTimeLeft-ExpireTime": "過期時間",
     "AutoRecordSubTimeLeft-NoData": "暫無數據, 請重新登陸遊戲以記錄",
     "AutoVerEasyQuestBattleTitle": "自動任務戰鬥非常簡單",
-    "AutoVerEasyQuestBattleDescription": "在進入單人任務戰鬥時, 自動將其難度修改為 非常簡單",
-    "FixedPetPositionTitle": "固定召喚物位置",
-    "FixedPetPositionDescription": "進入八人副本後，若當前場上存在自身召喚物，則自動將召喚物固定於指定位置",
-    "FixedPetPosition-Delay": "進入戰鬥後生效 (秒)"
+    "AutoVerEasyQuestBattleDescription": "在進入單人任務戰鬥時, 自動將其難度修改為 非常簡單"
 }

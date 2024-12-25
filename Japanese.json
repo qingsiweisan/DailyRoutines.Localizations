@@ -443,6 +443,7 @@
     "AutoSwitchIMEWhenInput-InadequateIMEHelp": "オペレーティングシステムに2つ以上の異なる言語の入力方法がインストールされている場合にのみ有効です",
     "None": "なし",
     "AutoLeveQuests-NoLevesHelp": "現在のエリアには利用可能なリーヴがありません",
+    "AutoCheckFoodUsage-SendNotice": "",
     "Food": "調理品",
     "Settings-ModuleConfiguration": "モジュール設定",
     "Settings-ResetModule": "モジュールリセット",
