@@ -1382,5 +1382,8 @@
     "ASTHelper-EasyHeal-HealThreshold": "治疗阈值",
     "ASTHelper-EasyHeal-HealThresholdHelp": "若不存在 HP 低于该百分比的成员, 则会阻止相关技能释放",
     "ASTHelper-EasyHeal-OverhealWarning": "警告: 当前阈值设定过高, 可能出现过量治疗",
-    "ASTHealer-EasyHeal-Message": "治疗目标 {0} ({1} {2})"
+    "ASTHealer-EasyHeal-Message": "治疗目标 {0} ({1} {2})",
+    "Notification": "通知",
+    "Show": "显示",
+    "Mark": "标记"
 }
