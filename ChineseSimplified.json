@@ -1382,5 +1382,9 @@
     "ASTHelper-EasyHeal-HealThreshold": "治疗阈值",
     "ASTHelper-EasyHeal-HealThresholdHelp": "若不存在 HP 低于该百分比的成员, 则会阻止相关技能释放",
     "ASTHelper-EasyHeal-OverhealWarning": "警告: 当前阈值设定过高, 可能出现过量治疗",
-    "ASTHealer-EasyHeal-Message": "治疗目标 {0} ({1} {2})"
+    "ASTHealer-EasyHeal-Message": "治疗目标 {0} ({1} {2})",
+    "FriendlistTeleporterTitle": "好友列表右键传送",
+    "FriendlistTeleporterDescription": "允许右键好友列表中同服好友, 传送到好友所在区域",
+    "FriendlistTeleporter-MenuItemTeleport": "传送到好友所在区域",
+    "FriendlistTeleporter-MenuItemCrossWorld": "传送到好友所在服务器"
 }
