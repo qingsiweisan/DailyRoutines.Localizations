@@ -1389,5 +1389,7 @@
     "FriendlistTeleporter-MenuItemCrossWorld": "传送到好友所在服务器",
     "Notification": "通知",
     "Show": "显示",
-    "Mark": "标记"
+    "Mark": "标记",
+    "IgnoreTurnAndLookAtWaitTitle": "自动取消 NPC 转身及视线调整等待",
+    "IgnoreTurnAndLookAtWaitDescription": "自动取消交互 NPC 时, 若不在其正面一定角度范围内, 则需要等待其转身及调整视线的等待时间"
 }
