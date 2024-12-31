@@ -1391,5 +1391,6 @@
     "Show": "显示",
     "Mark": "标记",
     "IgnoreTurnAndLookAtWaitTitle": "自动取消 NPC 转身及视线调整等待",
-    "IgnoreTurnAndLookAtWaitDescription": "自动取消交互 NPC 时, 若不在其正面一定角度范围内, 则会触发的转身及调整视线的等待时间"
+    "IgnoreTurnAndLookAtWaitDescription": "自动取消交互 NPC 时, 若不在其正面一定角度范围内, 则会触发的转身及调整视线的等待时间",
+    "RealQueuePosition-ETA": "当前等待时间: {0} / 预计剩余时间: {1}"
 }
