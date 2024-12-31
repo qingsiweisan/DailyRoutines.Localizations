@@ -1371,7 +1371,7 @@
     "Common": "常规",
     "Advance": "高级",
     "ASTHelper-AutoPlayCard-CommonDescription": "根据目前版本的职业输出能力高低",
-    "ASTHelper-AutoPlayCard-AdvanceDescription": "根据小队成员 FFLogs 记录的 rDPS 高低",
+    "ASTHelper-AutoPlayCard-AdvanceDescription": "根据小队成员 FFLogs 记录的 nDPS 高低",
     "ASTHealer-AutoPlayCard-AdvanceFallback": "无法连接到 FFLogs，回退到常规模式",
     "ASTHelper-AutoPlayCard-Message-Melee": "近战卡 → {0} ({1} {2})",
     "ASTHelper-AutoPlayCard-Message-Range": "远程卡 → {0} ({1} {2})",
@@ -1391,5 +1391,5 @@
     "Show": "显示",
     "Mark": "标记",
     "IgnoreTurnAndLookAtWaitTitle": "自动取消 NPC 转身及视线调整等待",
-    "IgnoreTurnAndLookAtWaitDescription": "自动取消交互 NPC 时, 若不在其正面一定角度范围内, 则需要等待其转身及调整视线的等待时间"
+    "IgnoreTurnAndLookAtWaitDescription": "自动取消交互 NPC 时, 若不在其正面一定角度范围内, 则会触发的转身及调整视线的等待时间"
 }
