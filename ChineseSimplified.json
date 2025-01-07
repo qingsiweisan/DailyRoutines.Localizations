@@ -1399,5 +1399,7 @@
     "IgnoreTurnAndLookAtWaitDescription": "自动取消交互 NPC 时, 若不在其正面一定角度范围内, 则会触发的转身及调整视线的等待时间",
     "RealQueuePosition-ETA": "当前等待时间: {0} / 预计剩余时间: {1}",
     "IgnoreTransparencyWaitTitle": "自动取消 NPC 淡入淡出等待",
-    "IgnoreTransparencyWaitDescription": "自动取消与 NPC 对话时, 对方因淡入淡出演出所产生的等待时间"
+    "IgnoreTransparencyWaitDescription": "自动取消与 NPC 对话时, 对方因淡入淡出演出所产生的等待时间",
+    "AutoCancelNPCEmoteTitle": "自动取消 NPC 情感动作播放",
+    "AutoCancelNPCEmoteDescription": "自动取消交互与过场剧情播放时, NPC 的情感动作播放及其产生的等待时间"
 }
