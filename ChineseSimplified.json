@@ -1401,5 +1401,6 @@
     "IgnoreTransparencyWaitTitle": "自动取消 NPC 淡入淡出等待",
     "IgnoreTransparencyWaitDescription": "自动取消与 NPC 对话时, 对方因淡入淡出演出所产生的等待时间",
     "AutoCancelNPCEmoteTitle": "自动取消 NPC 情感动作播放",
-    "AutoCancelNPCEmoteDescription": "自动取消交互与过场剧情播放时, NPC 的情感动作播放及其产生的等待时间"
+    "AutoCancelNPCEmoteDescription": "自动取消交互与过场剧情播放时, NPC 的情感动作播放及其产生的等待时间",
+    "Settings-TrayOverlay": "托盘悬浮窗"
 }
