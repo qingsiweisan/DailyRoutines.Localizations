@@ -1407,5 +1407,8 @@
     "AutoCancelNPCEmoteTitle": "自动取消 NPC 情感动作播放",
     "AutoCancelNPCEmoteDescription": "自动取消交互与过场剧情播放时, NPC 的情感动作播放及其产生的等待时间",
     "Settings-TrayOverlay": "托盘悬浮窗",
-    "Commands-CommandHelp-ReloadAll":  "重载全部模块"
+    "Commands-CommandHelp-ReloadAll":  "重载全部模块",
+    "BetterStatusTimeDisplayTitle": "更好的状态效果时间显示",
+    "BetterStatusTimeDisplayDescription": "配置完成后, 使用选定的格式显示长时间状态效果的具体剩余时间",
+    "BetterStatusTimeDisplay-ChooseTimeFormat": "时间格式"
 }
