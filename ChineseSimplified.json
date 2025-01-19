@@ -1404,8 +1404,7 @@
     "AutoCancelNPCEmoteDescription": "自动取消交互与过场剧情播放时, NPC 的情感动作播放及其产生的等待时间",
     "Settings-TrayOverlay": "托盘悬浮窗",
     "Commands-CommandHelp-ReloadAll":  "重载全部模块",
-    "ShowStatusRemainingTimeTitle": "更好的增益效果持续时间展示",
-    "ShowStatusRemainingTimeDescription": "配置后, 使用指定的时间格式展示长时间增益效果的具体持续时间",
-    "ShowStatusRemainingTime-ChooseTimeFormat": "选择展示的时间格式",
-    "ShowStatusRemainingTime-FormatExample": "格式预览"
+    "BetterStatusTimeDisplayTitle": "更好的状态效果时间显示",
+    "BetterStatusTimeDisplayDescription": "配置完成后, 使用选定的格式显示长时间状态效果的具体剩余时间",
+    "BetterStatusTimeDisplay-ChooseTimeFormat": "时间格式"
 }
