@@ -1406,5 +1406,9 @@
     "Commands-CommandHelp-ReloadAll":  "重载全部模块",
     "BetterStatusTimeDisplayTitle": "更好的状态效果时间显示",
     "BetterStatusTimeDisplayDescription": "配置完成后, 使用选定的格式显示长时间状态效果的具体剩余时间",
-    "BetterStatusTimeDisplay-ChooseTimeFormat": "时间格式"
+    "BetterStatusTimeDisplay-ChooseTimeFormat": "时间格式",
+    "AutoAddTextToChatTitle": "自动添加文本到聊天",
+    "AutoAddTextToChatDescription": "自动添加预设置的文本到待发送的聊天文本中，不影响指令或者宏",
+    "Prefix": "前缀",
+    "Suffix": "后缀"
 }
