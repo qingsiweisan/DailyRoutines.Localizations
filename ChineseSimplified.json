@@ -1119,6 +1119,7 @@
     "FastTeleportPanel-Abort": "放弃传送",
     "FastTeleportPanel-CommandHelp-Abort": "放弃当前所有的传送任务",
     "FastTeleportPanel-CommandHelp-Ground": "尝试检测上下方地面, 并传送至地面所在位置",
+    "FastTeleportPanel-CommandHelp-Aetheryte": "尝试交互附近可用的任一以太之光或城内以太之晶",
     "AutoMarksFinder-RelayInstanceDisplay": "{0} 线",
     "DailyModuleBase-Exported": "已成功导出配置至剪贴板",
     "DailyModuleBase-ExportError": "尝试导出配置至剪贴板时发生错误",
