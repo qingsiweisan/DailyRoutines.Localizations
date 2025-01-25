@@ -1415,5 +1415,7 @@
     "AutoAddChatPrefixSuffixDescription": "配置完毕后, 在发送普通聊天消息时自动为其加上特定的前缀或后缀",
     "Prefix": "前缀",
     "Suffix": "后缀",
-    "Range": "范围"
+    "Range": "范围",
+    "FastBLUSpellbookSearchBarTitle": "快捷青魔法书搜索框",
+    "FastBLUSpellbookSearchBarDescription": "为青魔法书界面左上角新增一个快捷搜索悬浮窗, 用于根据技能名称执行即时搜索"
 }
