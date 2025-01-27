@@ -1420,5 +1420,9 @@
     "FastBLUSpellbookSearchBarDescription": "为青魔法书界面左上角新增一个快捷搜索悬浮窗, 用于根据技能名称执行即时搜索",
     "ChineseNumericalNotationTitle": "中文风格数字显示模式",
     "ChineseNumericalNotationDescription": "按照中文习惯以 万、亿 为基本单位显示游戏内数字, 并将剩余数字由千分位分隔改为万分位分隔",
-    "ChineseNumericalNotation-NoChineseUnit": "不使用中文单位"
+    "ChineseNumericalNotation-NoChineseUnit": "不使用中文单位",
+    "Dye": "染色",
+    "ChineseNumericalNotation-ColorMinus": "负号颜色",
+    "ChineseNumericalNotation-ColorUnit": "单位颜色",
+    "ChineseNumericalNotation-ColorTable": "参考颜色表"
 }
