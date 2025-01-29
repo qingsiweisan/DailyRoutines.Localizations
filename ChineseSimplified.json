@@ -1426,5 +1426,7 @@
     "ChineseNumericalNotation-ColorUnit": "单位颜色",
     "ChineseNumericalNotation-ColorTable": "参考颜色表",
     "AutoRemoveWalkableCastingActionSpeedPenaltyTitle": "自动移除步行咏唱技能移速惩罚",
-    "AutoRemoveWalkableCastingActionSpeedPenaltyDescription": "在发动允许咏唱过程中步行移动的技能时, 自动移除其带来的移动速度降低惩罚"
+    "AutoRemoveWalkableCastingActionSpeedPenaltyDescription": "在发动允许咏唱过程中步行移动的技能时, 自动移除其带来的移动速度降低惩罚",
+    "AutoBlockMisdirectionStateTitle": "自动屏蔽方向错乱状态效果",
+    "AutoBlockMisdirectionStateDescription": "自动屏蔽会令本机陷入方向控制受限的状态效果 (如: 旋转移动、精神错乱等), 并使相关处理逻辑无效化"
 }
