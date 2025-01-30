@@ -1432,5 +1432,7 @@
     "AutoImmunizeJumpRestrictionTitle": "自动免疫禁止跳跃限制",
     "AutoImmunizeJumpRestrictionDescription": "当自身被状态效果或场地等赋予禁止跳跃限制时, 自动免疫其效果并移除相关限制",
     "AutoImmunizeThinIceTitle": "自动免疫冰面移动状态",
-    "AutoImmunizeThinIceDescription": "当自身被状态效果或场地等赋予了类似冰面的移动状态时, 自动免疫并移除其效果"
+    "AutoImmunizeThinIceDescription": "当自身被状态效果或场地等赋予了类似冰面的移动状态时, 自动免疫并移除其效果",
+    "AutoRemoveStatusSpeedPenaltyTitle": "自动免疫状态效果移速惩罚",
+    "AutoRemoveStatusSpeedPenaltyDescription": "当获得会降低自身移动速度的状态效果时, 自动免疫其带来的移动速度降低惩罚"
 }
