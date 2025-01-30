@@ -1430,5 +1430,7 @@
     "AutoBlockMisdirectionStateTitle": "自动屏蔽方向错乱状态效果",
     "AutoBlockMisdirectionStateDescription": "自动屏蔽会令本机陷入方向控制受限的状态效果 (如: 旋转移动、精神错乱等), 并使相关处理逻辑无效化",
     "AutoImmunizeJumpRestrictionTitle": "自动免疫禁止跳跃限制",
-    "AutoImmunizeJumpRestrictionDescription": "当被状态效果或场地等赋予禁止跳跃限制时, 自动免疫其效果并移除相关限制"
+    "AutoImmunizeJumpRestrictionDescription": "当自身被状态效果或场地等赋予禁止跳跃限制时, 自动免疫其效果并移除相关限制",
+    "AutoImmunizeThinIceTitle": "自动免疫冰面移动状态",
+    "AutoImmunizeThinIceDescription": "当自身被状态效果或场地等赋予了类似冰面的移动状态时, 自动免疫并移除其效果"
 }
