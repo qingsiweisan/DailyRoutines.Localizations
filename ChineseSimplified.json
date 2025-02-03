@@ -493,7 +493,6 @@
     "AutoCheckFoodUsage-NoticeMessage": "自动食用了 {0} ({1})",
     "AutoCheckFoodUsage-RefreshThreshold": "刷新阈值 (秒)",
     "AutoCheckFoodUsage-RefreshThresholdHelp": "当无 进食 状态或其剩余时间低于刷新阈值时, 则自动食用一次食物",
-    "AutoCheckFoodUsage-SendNotice": "发送提示信息",
     "AutoCheckFoodUsage-ZoneRestrictions": "区域限制",
     "PartyFinderFilterTitle": "招募过滤器",
     "PartyFinderFilterDescription": "根据正则预设检测招募人名称或招募描述以过滤特定招募, 并自动排除重复招募。招募页处于带密码分类时则不生效",
@@ -901,6 +900,7 @@
     "Command": "命令",
     "SendChat": "发送聊天信息",
     "SendNotification": "发送通知",
+    "SendTTS": "发送语音信息",
     "OnlineStatus": "在线状态",
     "CurrentTime": "当前时间",
     "Edit": "编辑",
@@ -1441,5 +1441,9 @@
     "FrontlinePlayerRadarDescription": "进入纷争前线后, 自动在屏幕上显示并标注当前可接收到的周围所有玩家的位置信息",
     "FrontlinePlayerRadar-DotRaidus": "点半径",
     "FrontlinePlayerRadar-ValidOutsideFrontline": "纷争前线外仍显示",
-    "FrontlinePlayerRadar-TransparentWhenUntargetable": "无法选中时变为半透明"
+    "FrontlinePlayerRadar-TransparentWhenUntargetable": "无法选中时变为半透明",
+    "AutoNotifyBonusFateTitle": "自动通知额外奖励临危受命出现",
+    "AutoNotifyBonusFateDescription": "进入 4.0 及以上版本的野外区域后, 当有额外奖励的临危受命任务出现时, 自动发送通知信息提醒",
+    "AutoNotifyBonusFate-Notification": "额外奖励临危受命任务出现:\n{0} (进度: {1}%)",
+    "AutoNotifyBonusFate-Chat": "额外奖励临危受命任务出现:\n {0} (进度: {1}% / 坐标: {2})"
 }
