@@ -42,24 +42,22 @@ jobs:
               head: `${context.repo.owner}:l10n_crowdin_translations`,
             });
             if (pullRequests.length > 0) {
-              console.log("Found PR number:", pullRequests[0].number);
-              return pullRequests[0].number;  // 直接返回数字
+              const prNumber = pullRequests[0].number;
+              console.log("Found PR number:", prNumber);
+              core.setOutput('pr_number', prNumber.toString());
             } else {
-              core.setFailed("No pull request found for the l10n_crowdin_translations branch.");
-              return null;
+              console.log("No open PR found. No changes to merge.");
+              core.setOutput('pr_number', '');
             }
 
       - name: Merge Pull Request
-        if: steps.get_pr.outputs.result != ''  # 确保有 PR 编号才执行
+        if: ${{ steps.get_pr.outputs.pr_number != '' }}
         uses: actions/github-script@v6
         with:
           github-token: ${{ secrets.GH_TOKEN }}
           script: |
-            const pullNumber = ${{ steps.get_pr.outputs.result }};  // 直接使用数字
+            const pullNumber = parseInt('${{ steps.get_pr.outputs.pr_number }}');
             console.log("Pull Request Number:", pullNumber);
-            if (!pullNumber) {
-              throw new Error("Pull Request number is not defined");
-            }
             await github.rest.pulls.merge({
               owner: context.repo.owner,
               repo: context.repo.repo,
