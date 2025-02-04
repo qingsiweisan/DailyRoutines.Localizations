@@ -85,7 +85,7 @@
     "AutoMT-InterruptNotice": "注: 仅支持在两场游戏间打断, 若要在游戏过程中打断, 请手动卸载模块",
     "AutoMTDescription": "交互游戏机后, 自动开始重复游玩怪物投篮",
     "AutoMTTitle": "自动游玩怪物投篮",
-    "AutoNotifyCutSceneEnd-NotificationMessage": "所有队友的过场动画均已结束",
+    "AutoNotifyCutSceneEnd-NotificationMessage": "所有队友的过场动画均已结束 (已等待: {0} 秒)",
     "AutoNotifyCutSceneEndDescription": "在副本内, 如若队友观看过场剧情超过五秒, 则在全部队友的过场剧情都已结束时, 自动发送通知信息提醒",
     "AutoNotifyCutSceneEndTitle": "自动通知过场剧情结束",
     "AutoNotifyDutyConfirm-NoticeMessage": "任务: {0}",
