@@ -255,8 +255,6 @@
     "QuickChatPanel-GameItems": "游戏物品",
     "AutoHolmgangSelfDescription": "使用战士技能死斗时, 强制令自身为技能目标",
     "AutoHolmgangSelfTitle": "自动死斗自身",
-    "NoAttackWrongMandragorasDescription": "在宝物库内, 若场上存在蔓德拉战队, 则禁止选中不符合当前击杀顺序的蔓德拉",
-    "NoAttackWrongMandragorasTitle": "强制按顺序击杀蔓德拉战队",
     "ClipboardMultiLineToOneLineDescription": "在游戏内粘贴文本时, 强制将多行文本转成单行, 以方便游戏内编辑发送",
     "ClipboardMultiLineToOneLineTitle": "强制粘贴多行转单行",
     "BetterFollowTitle": "更好的自动跟随",
