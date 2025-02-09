@@ -1440,5 +1440,12 @@
     "AutoNotifyBonusFateDescription": "进入 4.0 及以上版本的野外区域后, 当有额外奖励的临危受命任务出现时, 自动发送通知信息提醒",
     "AutoNotifyBonusFate-Notification": "额外奖励临危受命任务出现:\n{0} (进度: {1}%)",
     "AutoNotifyBonusFate-Chat": "额外奖励临危受命任务出现:\n {0} (进度: {1}% / 坐标: {2})",
-    "Settings-MultiMessagesReceived": "收到了 {0} 条新消息"
+    "Settings-MultiMessagesReceived": "收到了 {0} 条新消息",
+    "OptimiziedEnemyListTitle": "游戏敌对列表界面优化",
+    "OptimiziedEnemyListDescription": "对敌对列表界面进行优化, 使其能够以游戏原生元素的方式显示对应敌对目标的体力、仇恨与咏唱的具体信息",
+    "OptimiziedEnemyList-UseCustomGeneralInfo": "使用自定义文本信息",
+    "OptimiziedEnemyList-UseCustomColor": "使用自定义文本颜色",
+    "Color": "颜色",
+    "EdgeColor": "描边颜色",
+    "BackgroundColor": "背景颜色"
 }
