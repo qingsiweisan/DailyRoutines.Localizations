@@ -757,6 +757,7 @@
     "AutoPlayerCommend-BlockBlacklistPlayers": "自动忽略黑名单内玩家",
     "AutoPlayerCommend-AssignPlayerCommend": "指定为最优队员",
     "AutoPlayerCommend-AssignPlayerCommendMessage": "已指定 {0}@{1} 为本局最优队员",
+    "AutoPlayerCommend-ErrorWhenGiveCommendationMessage": "未能完成自动最优队员推荐, 游戏数据存在错误或损坏",
     "ExpandPlayerMenuSearch-SearchLalachievements": "搜索: Lalachievements",
     "ExpandItemMenuSearch-SearchLodestoneDB": "搜索: Lodestone",
     "ExpandItemMenuSearch-SearchGamerEscapeWiki": "搜索: Gamer Escape Wiki (英)",
