@@ -1447,5 +1447,7 @@
     "OptimiziedEnemyList-UseCustomColor": "使用自定义文本颜色",
     "Color": "颜色",
     "EdgeColor": "描边颜色",
-    "BackgroundColor": "背景颜色"
+    "BackgroundColor": "背景颜色",
+    "AutoBlockShutdownFromLobbyErrorTitle": "自动防止大厅错误关闭游戏",
+    "AutoBlockShutdownFromLobbyErrorDescription": "在游戏遭遇大厅服务器错误时, 自动阻止相关逻辑关闭游戏, 并使游戏回到登录主界面"
 }
