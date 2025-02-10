@@ -538,7 +538,6 @@
     "AutoConfirmMateriaWorkDescription": "自动确认魔晶石镶嵌/回收/镶嵌委托, 并取消镶嵌魔晶石时的前后摇限制",
     "AutoConfirmMateriaWorkTitle": "自动确认镶嵌回收魔晶石",
     "Settings-DefaultHomePage": "默认页面",
-    "Settings-InterfaceFontSize": "界面字号",
     "DisableGroundActionAutoFaceDescription": "在使用地面类技能(如庇护所, 地星等)时将不会再更改当前面向",
     "DisableGroundActionAutoFaceTitle": "禁止地面类技能改变面向",
     "InstantLogoutDescription": "解除所有登出/退出游戏限制, 强制返回至标题界面/退出游戏",
@@ -575,7 +574,6 @@
     "Enabled": "已启用",
     "AutoJoinExitDuty-AlreadyInParty": "组队状态下禁止使用",
     "AutoRetainerWork-PriceAdjust-CreateNewBaseOnExisted": "以此为基础创建新配置",
-    "Settings-FontSelect": "界面字体",
     "Settings-UnknownFont": "未知字体",
     "Settings-LeftTabWidth": "左侧边栏宽度",
     "AutoLeveQuests-NoDelayHelp": "注: 模块运行时自动屏蔽目标选择、模型旋转数据上传服务器, 故没有任何延迟调整选项",
@@ -1449,5 +1447,7 @@
     "EdgeColor": "描边颜色",
     "BackgroundColor": "背景颜色",
     "AutoBlockShutdownFromLobbyErrorTitle": "自动防止大厅错误关闭游戏",
-    "AutoBlockShutdownFromLobbyErrorDescription": "在游戏遭遇大厅服务器错误时, 自动阻止相关逻辑关闭游戏, 并使游戏回到登录主界面"
+    "AutoBlockShutdownFromLobbyErrorDescription": "在游戏遭遇大厅服务器错误时, 自动阻止相关逻辑关闭游戏, 并使游戏回到登录主界面",
+    "FontSize": "字号",
+    "Font": "字体"
 }
