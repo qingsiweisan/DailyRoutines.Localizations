@@ -1449,5 +1449,6 @@
     "AutoBlockShutdownFromLobbyErrorTitle": "自动防止大厅错误关闭游戏",
     "AutoBlockShutdownFromLobbyErrorDescription": "在游戏遭遇大厅服务器错误时, 自动阻止相关逻辑关闭游戏, 并使游戏回到登录主界面",
     "FontSize": "字号",
-    "Font": "字体"
+    "Font": "字体",
+    "Style": "样式"
 }
