@@ -1456,5 +1456,7 @@
     "AutoOpenTreasuresTitle": "自动开启宝箱",
     "AutoOpenTreasuresDescription": "进入副本后, 自动尝试开启周围所有可用的宝箱",
     "HullbreakerIsleHelperTitle": "财宝传说破舰岛助手",
-    "HullbreakerIsleHelperDescription": "进入副本 财宝传说破舰岛 后, 自动标记地面所有的捕兽夹与需要开启的假宝箱"
+    "HullbreakerIsleHelperDescription": "进入副本 财宝传说破舰岛 后, 自动标记地面所有的捕兽夹与需要开启的假宝箱",
+    "BrayfloxsLongstopHelperTitle": "休养胜地布雷福洛克斯野营地助手",
+    "BrayfloxsLongstopHelperDescription": "进入副本 休养胜地布雷福洛克斯野营地 后, 自动与 哥布林寻路人 对话获取 避难地正门的钥匙"
 }
