@@ -1466,5 +1466,7 @@
     "AutoRestoreFurniture-StoredToInventory": "仓库 → 背包",
     "SastashaHelperTitle": "天然要害沙斯塔夏溶洞助手",
     "SastashaHelperDescription": "进入副本 天然要害沙斯塔夏溶洞 后, 自动检测发送正确的珊瑚信息, 并高亮显示对应珊瑚机关物体",
-    "SastashaHelper-Message": "正确的珊瑚机关: {0}"
+    "SastashaHelper-Message": "正确的珊瑚机关: {0}",
+    "NeverreapHelperTitle": "空中神域不获岛助手",
+    "NeverreapHelperDescription": "进入副本 空中神域不获岛 后, 自动与 托努瓦努 对话获取 云卵石"
 }
