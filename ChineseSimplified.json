@@ -1450,5 +1450,9 @@
     "AutoBlockShutdownFromLobbyErrorDescription": "在游戏遭遇大厅服务器错误时, 自动阻止相关逻辑关闭游戏, 并使游戏回到登录主界面",
     "FontSize": "字号",
     "Font": "字体",
-    "Style": "样式"
+    "Style": "样式",
+    "Assist": "辅助",
+    "OnlyValidWhenSolo": "仅在单人状态下生效",
+    "AutoOpenTreasuresTitle": "自动开启宝箱",
+    "AutoOpenTreasuresDescription": "进入副本后, 自动尝试开启周围所有可用的宝箱"
 }
