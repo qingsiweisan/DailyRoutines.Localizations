@@ -1463,5 +1463,8 @@
     "Outdoors": "室外",
     "AutoRestoreFurniture-PlacedToStoreRoom": "已布置 → 仓库",
     "AutoRestoreFurniture-PlacedToInventory": "已布置 → 背包",
-    "AutoRestoreFurniture-StoredToInventory": "仓库 → 背包"
+    "AutoRestoreFurniture-StoredToInventory": "仓库 → 背包",
+    "SastashaHelperTitle": "天然要害沙斯塔夏溶洞助手",
+    "SastashaHelperDescription": "进入副本 天然要害沙斯塔夏溶洞 后, 自动检测发送正确的珊瑚信息, 并高亮显示对应珊瑚机关物体",
+    "SastashaHelper-Message": "正确的珊瑚机关: {0}"
 }
