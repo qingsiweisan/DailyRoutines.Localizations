@@ -1454,5 +1454,7 @@
     "Assist": "辅助",
     "OnlyValidWhenSolo": "仅在单人状态下生效",
     "AutoOpenTreasuresTitle": "自动开启宝箱",
-    "AutoOpenTreasuresDescription": "进入副本后, 自动尝试开启周围所有可用的宝箱"
+    "AutoOpenTreasuresDescription": "进入副本后, 自动尝试开启周围所有可用的宝箱",
+    "HullbreakerIsleHelperTitle": "财宝传说破舰岛助手",
+    "HullbreakerIsleHelperDescription": "进入副本 财宝传说破舰岛 后, 自动标记地面所有的捕兽夹与需要开启的假宝箱"
 }
