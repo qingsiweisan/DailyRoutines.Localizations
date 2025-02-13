@@ -1077,7 +1077,7 @@
     "ExpandTargetRadius-ExpandRange": "扩大范围",
     "ExpandTargetRadiusDescription": "配置完成后, 令目标半径在原有基础上扩大指定的范围",
     "ExpandTargetRadiusTitle": "更大的目标半径",
-    "NoFallDamageDescription": "摔落时, 令本应判定的伤害无效化\n(启用后, 游戏人物跳跃与摔落动画都将消失)",
+    "NoFallDamageDescription": "摔落时, 令本应判定的伤害无效化",
     "NoFallDamageTitle": "无摔落伤害",
     "Settings-Auth-ExpireNotification": "凭证类型: {0}\n过期时间: {1}\n剩余时间: {2} 天",
     "Settings-Auth-FailContactingServer": "获取在线验证信息失败, 请检查你的本地网络设置",
