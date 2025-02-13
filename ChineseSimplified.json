@@ -1049,8 +1049,8 @@
     "AutoMarksFinder-SwitchMarkAlive": "切换存活状态",
     "AutoMarksFinder-SetFlagMapMarkerSucceed": "标点成功: {0} {1}",
     "Sort": "排序",
-    "AutoMarksFinder-CurrentZone": "当前区域:",
-    "AutoMarksFinder-ScanPoints": "扫描点:",
+    "CurrentZone": "当前区域",
+    "AutoMarksFinder-ScanPoints": "扫描点",
     "AutoMarksFinder-UpdateSpawnPointsRet": "已更新 {0} 个扫描点位",
     "AutoMarksFinder-DetectPowerfulMark": "发现 {0} 级恶名精英: {1} 于 {2:F2}",
     "InstantDismount-Notice-NoGroundDetect": "未在下方检测到任何可降落地面",
@@ -1458,5 +1458,7 @@
     "HullbreakerIsleHelperTitle": "财宝传说破舰岛助手",
     "HullbreakerIsleHelperDescription": "进入副本 财宝传说破舰岛 后, 自动标记地面所有的捕兽夹与需要开启的假宝箱",
     "BrayfloxsLongstopHelperTitle": "休养胜地布雷福洛克斯野营地助手",
-    "BrayfloxsLongstopHelperDescription": "进入副本 休养胜地布雷福洛克斯野营地 后, 自动与 哥布林寻路人 对话获取 避难地正门的钥匙"
+    "BrayfloxsLongstopHelperDescription": "进入副本 休养胜地布雷福洛克斯野营地 后, 自动与 哥布林寻路人 对话获取 避难地正门的钥匙",
+    "Indoors": "室内",
+    "Outdoors": "室外"
 }
