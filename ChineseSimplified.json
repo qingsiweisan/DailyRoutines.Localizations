@@ -1285,7 +1285,7 @@
     "DoL": "采集",
     "FSH": "捕鱼",
     "FastCustomDeliveriesInfoTitle": "快捷老主顾任务情报界面",
-    "FastCustomDeliveriesInfoDescription": "优化任务情报内的老主顾界面, 使其能够显示本周报酬增加的老主顾, 并为其添加传送等快捷操作项",
+    "FastCustomDeliveriesInfoDescription": "优化任务情报内的老主顾界面, 为其添加传送等快捷操作项",
     "AutoRequestFriendsOnlineStatusTitle": "自动请求好友在线状态",
     "AutoRequestFriendsOnlineStatusDescription": "打开好友列表时, 自动请求所有好友的在线状态情况",
     "AutoCancelGatherAnimation-CompactMode": "简易采集兼容模式",
