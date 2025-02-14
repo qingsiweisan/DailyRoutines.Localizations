@@ -339,8 +339,6 @@
     "AutoFCWSDeliverTitle": "自动部队合建交纳素材",
     "QuickChatPanel-SystemSound": "系统音",
     "QuickChatPanel-SystemSoundHelp": "左键试听, 右键发送",
-    "AutoCutsceneSkip-ProhibitSkippingUnseenCutscene": "禁止跳过未观看过的过场动画",
-    "AutoCutsceneSkip-ProhibitSkippingUnseenCutsceneHelp": "客户端仅会记录少部分过场剧情的观看历史, 因此该功能准确性较低",
     "Example": "例",
     "Job": "职业",
     "Level": "等级",
