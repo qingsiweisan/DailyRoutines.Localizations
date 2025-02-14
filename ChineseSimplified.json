@@ -1470,5 +1470,7 @@
     "NeverreapHelperTitle": "空中神域不获岛助手",
     "NeverreapHelperDescription": "进入副本 空中神域不获岛 后, 自动与 托努瓦努 对话获取 云卵石",
     "AutoMovePetCenterTitle": "自动移动召唤物至场地中心",
-    "AutoMovePetCenterDescription":"当自身召唤物出现时，自动移动召唤物至场地中心"
+    "AutoMovePetCenterDescription":"当自身召唤物出现时，自动移动召唤物至场地中心",
+    "ShopDisplayRealItemIconTitle": "商店显示物品真实图标",
+    "ShopDisplayRealItemIconDescription": "打开各类商店界面时, 自动将物品前显示的类别图标转为其真实物品图标"
 }
