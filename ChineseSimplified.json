@@ -1470,5 +1470,7 @@
     "AutoMovePetCenterTitle": "自动移动召唤物至场地中心",
     "AutoMovePetCenterDescription":"当自身召唤物出现时，自动移动召唤物至场地中心",
     "ShopDisplayRealItemIconTitle": "商店显示物品真实图标",
-    "ShopDisplayRealItemIconDescription": "打开各类商店界面时, 自动将物品前显示的类别图标转为其真实物品图标"
+    "ShopDisplayRealItemIconDescription": "打开各类商店界面时, 自动将物品前显示的类别图标转为其真实物品图标",
+    "AutoSkipBuddyFeedSceneTitle": "自动跳过陆行鸟喂食动画",
+    "AutoSkipBuddyFeedSceneDescription": "在喂食寄养在鸟房中的专属陆行鸟时, 自动跳过其动画立刻完成喂食操作"
 }
