@@ -1459,11 +1459,11 @@
     "SastashaHelper-Message": "正確的珊瑚機關: {0}",
     "NeverreapHelperTitle": "空中神域不獲島助手",
     "NeverreapHelperDescription": "進入副本 空中神域不獲島 後, 自動與 托努瓦努 對話獲取 雲卵石",
-    "AutoMovePetCenterTitle": "自动移动召唤物至场地中心",
-    "AutoMovePetCenterDescription":"自身在副本内召唤召唤物/副本开始时, 自动将召唤物移动至场地中心",
-    "ShopDisplayRealItemIconTitle": "商店显示物品真实图标",
-    "ShopDisplayRealItemIconDescription": "打开各类商店界面时, 自动将物品前显示的类别图标转为其真实物品图标",
-    "AutoSkipBuddyFeedSceneTitle": "自动跳过陆行鸟喂食动画",
-    "AutoSkipBuddyFeedSceneDescription": "在喂食寄养在鸟房中的专属陆行鸟时, 自动跳过其动画立刻完成喂食操作",
-    "HoldCtrlToDelete": "删除 (按住 Ctrl)"
+    "AutoMovePetCenterTitle": "自動移動召喚物至場地中心",
+    "AutoMovePetCenterDescription":"自身在副本內召喚召喚物/副本開始時, 自動將召喚物移動至場地中心",
+    "ShopDisplayRealItemIconTitle": "商店顯示物品真實圖示",
+    "ShopDisplayRealItemIconDescription": "打開各類商店界面時, 自動將物品前顯示的類別圖示轉為其真實物品圖示",
+    "AutoSkipBuddyFeedSceneTitle": "自動跳過陸行鳥餵食動畫",
+    "AutoSkipBuddyFeedSceneDescription": "在餵食寄養在鳥房中的專屬陸行鳥時, 自動跳過其動畫立刻完成餵食操作",
+    "HoldCtrlToDelete": "刪除 (按住 Ctrl)"
 }
