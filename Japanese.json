@@ -1465,5 +1465,5 @@
     "ShopDisplayRealItemIconDescription": "各種ショップのUIを開いた際、対象アイテムのカテゴリアイコンではなく、実際のアイテムアイコンに置き換えます。",
     "AutoSkipBuddyFeedSceneTitle": "チョコボの餌やりアニメーションをスキップ",
     "AutoSkipBuddyFeedSceneDescription": "厩舎に預けた専用チョコボに餌を与える際、アニメーションを自動でスキップし、即座に給餌を完了させます。",
-    "HoldCtrlToDelete": "删除 (按住 Ctrl)"
+    "HoldCtrlToDelete": "削除(Ctrlキーを押しながら)"
 }
