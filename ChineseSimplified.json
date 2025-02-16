@@ -195,7 +195,6 @@
     "FastObjectInteract-MaxDisplayAmount": "最多同时显示个数",
     "FastObjectInteract-MinButtonWidth": "最短按钮长度",
     "FastObjectInteract-OnlyDisplayInViewRange": "仅显示在视线范围内的物体",
-    "FastObjectInteract-Remove": "删除",
     "FastObjectInteract-SelectedObjectKinds": "待显示目标类型",
     "FastObjectInteract-SelectedObjectKindsAmount": "已选择 {0} 种目标类型",
     "FastObjectInteract-WindowInvisibleWhenInteract": "交互时隐藏窗口",
@@ -302,7 +301,6 @@
     "AutoPlayerCommend-BlacklistContentsAmount": "已存在 {0} 条副本数据",
     "AutoDiscard-AddNewGroupInputNameHelp": "请输入新配置组名称, 不可重复",
     "AutoDiscard-CommandHelp": "<配置组名称> 运行指定的自动丢弃模块配置组",
-    "AutoDiscard-DeleteWhenHoldCtrl": "删除 (按住 Ctrl)",
     "AutoDiscard-Discard": "丢弃",
     "AutoDiscard-ItemsOverview": "物品概览",
     "AutoDiscard-NoItemInGroupHelp": "无物品, 前去添加",
@@ -414,7 +412,6 @@
     "AutoLeveQuests-ObtainHelp": "待获取 (选中目标后点击左侧按钮)",
     "InstantReturnDescription": "令返回功能无需咏唱等待, 并且不再进入冷却",
     "InstantReturnTitle": "即刻返回",
-    "CustomizeGameObject-HoldCtrlToDelete": "按住 Ctrl 以删除",
     "CustomizeGameObject-ScaleVFX": "缩放特效",
     "ExportToClipboard": "导出至剪贴板",
     "ImportFromClipboard": "从剪贴板导入",
@@ -503,7 +500,6 @@
     "Settings-ModuleInfoCategory": "分类",
     "Whitelist": "白名单",
     "AutoSplitStacks-CommandHelp": "<物品 ID>/<物品名称> 执行保存的指定物品配置组",
-    "AutoSplitStacks-HoldCtrlToDelete": "删除 (按住 Ctrl)",
     "AutoSplitStacks-Notification-FullInventory": "物品栏已满, 停止拆分",
     "AutoSplitStacks-Notification-ItemNoFound": "未找到对应物品, 停止拆分",
     "AutoSplitStacks-SplitAmount": "拆分数量",
@@ -1468,5 +1464,6 @@
     "ShopDisplayRealItemIconTitle": "商店显示物品真实图标",
     "ShopDisplayRealItemIconDescription": "打开各类商店界面时, 自动将物品前显示的类别图标转为其真实物品图标",
     "AutoSkipBuddyFeedSceneTitle": "自动跳过陆行鸟喂食动画",
-    "AutoSkipBuddyFeedSceneDescription": "在喂食寄养在鸟房中的专属陆行鸟时, 自动跳过其动画立刻完成喂食操作"
+    "AutoSkipBuddyFeedSceneDescription": "在喂食寄养在鸟房中的专属陆行鸟时, 自动跳过其动画立刻完成喂食操作",
+    "HoldCtrlToDelete": "删除 (按住 Ctrl)"
 }
