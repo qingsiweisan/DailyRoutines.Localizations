@@ -592,7 +592,7 @@
     "All": "すべて",
     "Control": "コントロール",
     "FastTeleportPanel-CurrentYPos": "現在のY軸",
-    "FastTeleportPanel-FlagTeleport": "Flag転送",
+    "FastTeleportPanel-FlagTeleport": "Flagの位置にワープ",
     "FastTeleportPanel-InaccurateYPosHelp": "目的地のY座標が不正確な場合があり、転送後に手動で調整が必要な場合があります",
     "FastTeleportPanel-PosOffset": "座標のオフセット",
     "FastTeleportPanel-QuestTeleport": "クエスト転送",
