@@ -606,7 +606,7 @@
     "Position": "座標",
     "Radius": "半径",
     "Settings-NeedAuth": "認証",
-    "Teleport": "テレポ",
+    "Teleport": "ワープ",
     "FastTeleportPanel-Weight": "ウェイト",
     "FastTeleportPanel-WeightHelp": "重みが大きいほど、並び順が前に来る",
     "AutoSoulsowDescription": "現在のジョブがリーパーの時、コンテンツ突入時、リスタート時、戦闘終了後にソウルソウを自動的に使用する",
