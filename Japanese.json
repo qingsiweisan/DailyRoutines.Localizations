@@ -316,7 +316,7 @@
     "Operation": "操作",
     "Run": "スタート",
     "AutoRetainerWork-EntrustDups-Title": "自動でアイテム一括受け渡し",
-    "AutoRetainerWork-PriceAdjust-CommonItemPreset": "通用アイテム配置",
+    "AutoRetainerWork-PriceAdjust-CommonItemPreset": "アイテム汎用設定",
     "AutoRetainerWork-PriceAdjust-ConductAbortBehavior": "設定されたロジックを実行中: {0}",
     "AutoRetainerWork-PriceAdjust-DetectAbortCondition": "予期以外の事態が検出されました: {2}\nアイテム: {0}\nリテイナー: {1}",
     "AutoRetainerWork-PriceAdjust-ObtainBuyingPrice": "買い取り価格を取得する",
