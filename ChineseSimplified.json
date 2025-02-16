@@ -29,6 +29,7 @@
     "AutoDismountDescription": "当骑乘坐骑时, 若尝试使用可用技能, 则自动下坐骑并使用技能",
     "AutoDismountTitle": "自动下坐骑",
     "AutoExpertDelivery-SkipHQ": "跳过 HQ 物品",
+    "AutoExpertDelivery-SkipMaterias": "跳过镶嵌魔晶石的物品",
     "AutoExpertDeliveryDescription": "打开筹备任务界面, 并点击开始后, 自动上交装备兑换军票",
     "AutoExpertDeliveryTitle": "自动筹备稀有品",
     "AutoGardensWork-AutoFertilize": "自动施肥",
