@@ -887,7 +887,7 @@
     "Edit": "Edit",
     "Settings-AuthToken": "Token",
     "Settings-PremiumCredentialHelp": "This feature is an internal testing channel, unrelated to sponsorship, and not open to the public",
-    "Settings-Auth-Notice-RefreshingAuthCloud": "Refreshing cloud information. You may be temporarily redirected to the user agreement page; please wait for up to 15 seconds.  \nIf it remains ineffective after refreshing, please check your local network settings.",
+    "Settings-Auth-Notice-RefreshingAuthCloud": "Refreshing cloud information. You may be temporarily redirected to the user agreement page; please wait up to 15 seconds.  \nIf it remains ineffective after refreshing, please check your local network settings.",
     "Settings-Auth-Notice-UploadingTOU": "Uploading TOU result. Please wait for up to 15 seconds.  \nIf you are still stuck on the user agreement page after waiting, please check your local network settings.",
     "InstantSprintDescription": "Remove Sprint Cooldown",
     "InstantSprintTitle": "Instant Sprint",
