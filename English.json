@@ -1468,5 +1468,6 @@
     "ShopDisplayRealItemIconDescription": "The category icons in front of entries will automatically be replaced by actual item icons in shop interfaces.",
     "AutoSkipBuddyFeedSceneTitle": "Auto skip cutscenes of feeding Chocobo",
     "AutoSkipBuddyFeedSceneDescription": "While feeding your companion in the Chocobo stable, automatically skip the cutscenes and complete the feeding immediately.",
-    "HoldCtrlToDelete": "删除 (按住 Ctrl)"
+    "HoldCtrlToDelete": "删除 (按住 Ctrl)",
+    "Settings-Changelog": "更新日志"
 }
