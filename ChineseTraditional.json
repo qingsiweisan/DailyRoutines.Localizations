@@ -658,8 +658,8 @@
     "AutoNumericInputMax-AdjustMaxHelp": "啟用後, 將單次購買上限為 99 的物品修改至 999",
     "Auth": "驗證",
     "Settings-HelpTranslate": "協助翻譯",
-    "Settings-UpdateTranslation": "更新翻译",
-    "Settings-TranslationUpdatedMessage": "已从云端下载并刷新本地化文本",
+    "Settings-UpdateTranslation": "更新翻譯",
+    "Settings-TranslationUpdatedMessage": "已從雲端下載並刷新本地化文本",
     "Settings-ExpiredTime": "過期時間",
     "Settings-Needed": "需要",
     "Settings-NotNeeded": "不需要",
@@ -1469,5 +1469,5 @@
     "AutoSkipBuddyFeedSceneTitle": "自動跳過陸行鳥餵食動畫",
     "AutoSkipBuddyFeedSceneDescription": "在餵食寄養在鳥房中的專屬陸行鳥時, 自動跳過其動畫立刻完成餵食操作",
     "HoldCtrlToDelete": "刪除 (按住 Ctrl)",
-    "Settings-Changelog": "更新日志"
+    "Settings-Changelog": "更新日誌"
 }
