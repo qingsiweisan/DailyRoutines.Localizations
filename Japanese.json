@@ -659,7 +659,7 @@
     "Auth": "認証",
     "Settings-HelpTranslate": "翻訳支援",
     "Settings-UpdateTranslation": "翻訳を更新",
-    "Settings-TranslationUpdatedMessage": "クラウドからダウンロードし、ローカライズテキストを更新しました。",
+    "Settings-TranslationUpdatedMessage": "クラウドから翻訳ファイルをダウンロードし、更新しました。",
     "Settings-ExpiredTime": "有効期限",
     "Settings-Needed": "必要",
     "Settings-NotNeeded": "不要",
