@@ -658,8 +658,8 @@
     "AutoNumericInputMax-AdjustMaxHelp": "一括購入数の上限が99のアイテムを999に変更されます",
     "Auth": "認証",
     "Settings-HelpTranslate": "翻訳支援",
-    "Settings-UpdateTranslation": "更新翻译",
-    "Settings-TranslationUpdatedMessage": "已从云端下载并刷新本地化文本",
+    "Settings-UpdateTranslation": "翻訳を更新",
+    "Settings-TranslationUpdatedMessage": "クラウドからダウンロードし、ローカライズテキストを更新しました。",
     "Settings-ExpiredTime": "有効期限",
     "Settings-Needed": "必要",
     "Settings-NotNeeded": "不要",
@@ -1468,5 +1468,6 @@
     "ShopDisplayRealItemIconDescription": "各種ショップのUIを開いた際、対象アイテムのカテゴリアイコンではなく、実際のアイテムアイコンに置き換えます。",
     "AutoSkipBuddyFeedSceneTitle": "チョコボの餌やりアニメーションをスキップ",
     "AutoSkipBuddyFeedSceneDescription": "厩舎に預けた専用チョコボに餌を与える際、アニメーションを自動でスキップし、即座に給餌を完了させます。",
-    "HoldCtrlToDelete": "削除(Ctrlキーを押しながら)"
+    "HoldCtrlToDelete": "削除(Ctrlキーを押しながら)",
+    "Settings-Changelog": "更新日志"
 }
