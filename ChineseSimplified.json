@@ -658,6 +658,8 @@
     "AutoNumericInputMax-AdjustMaxHelp": "启用后, 将单次购买上限为 99 的物品修改至 999",
     "Auth": "验证",
     "Settings-HelpTranslate": "帮忙翻译",
+    "Settings-UpdateTranslation": "更新翻译",
+    "Settings-TranslationUpdatedMessage": "已从云端下载并刷新本地化文本",
     "Settings-ExpiredTime": "过期时间",
     "Settings-Needed": "需要",
     "Settings-NotNeeded": "不需要",
