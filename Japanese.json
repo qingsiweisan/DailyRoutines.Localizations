@@ -658,6 +658,8 @@
     "AutoNumericInputMax-AdjustMaxHelp": "一括購入数の上限が99のアイテムを999に変更されます",
     "Auth": "認証",
     "Settings-HelpTranslate": "翻訳支援",
+    "Settings-UpdateTranslation": "更新翻译",
+    "Settings-TranslationUpdatedMessage": "已从云端下载并刷新本地化文本",
     "Settings-ExpiredTime": "有効期限",
     "Settings-Needed": "必要",
     "Settings-NotNeeded": "不要",
