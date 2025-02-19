@@ -1469,5 +1469,8 @@
     "AutoSkipBuddyFeedSceneTitle": "自动跳过陆行鸟喂食动画",
     "AutoSkipBuddyFeedSceneDescription": "在喂食寄养在鸟房中的专属陆行鸟时, 自动跳过其动画立刻完成喂食操作",
     "HoldCtrlToDelete": "删除 (按住 Ctrl)",
-    "Settings-Changelog": "更新日志"
+    "Settings-Changelog": "更新日志",
+    "AutoConfirmPortraitUpdateTitle": "自动确认肖像更新",
+    "AutoConfirmPortraitUpdateDescription": "肖像更新预览界面出现时, 自动点击确认以更新肖像至最新装备状态",
+    "AutoConfirmPortraitUpdate-Notification": "已更新肖像至最新装备状态"
 }
