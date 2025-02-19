@@ -658,7 +658,7 @@
     "AutoNumericInputMax-AdjustMaxHelp": "Once enabled, the item limit of 99 is changed to 999",
     "Auth": "Auth",
     "Settings-HelpTranslate": "Help Us Translate",
-    "Settings-UpdateTranslation": "更新翻译",
+    "Settings-UpdateTranslation": "Update translations",
     "Settings-TranslationUpdatedMessage": "已从云端下载并刷新本地化文本",
     "Settings-ExpiredTime": "Expired Time",
     "Settings-Needed": "Required",
