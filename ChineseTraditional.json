@@ -1469,5 +1469,8 @@
     "AutoSkipBuddyFeedSceneTitle": "自動跳過陸行鳥餵食動畫",
     "AutoSkipBuddyFeedSceneDescription": "在餵食寄養在鳥房中的專屬陸行鳥時, 自動跳過其動畫立刻完成餵食操作",
     "HoldCtrlToDelete": "刪除 (按住 Ctrl)",
-    "Settings-Changelog": "更新日誌"
+    "Settings-Changelog": "更新日誌",
+    "AutoConfirmPortraitUpdateTitle": "自动确认肖像更新",
+    "AutoConfirmPortraitUpdateDescription": "肖像更新预览界面出现时, 自动点击确认以更新肖像至最新装备状态",
+    "AutoConfirmPortraitUpdate-Notification": "已更新肖像至最新装备状态"
 }
