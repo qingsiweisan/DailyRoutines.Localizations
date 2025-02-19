@@ -29,7 +29,7 @@
     "AutoDismountDescription": "Auto dismount when you are trying to use available actions on mount.",
     "AutoDismountTitle": "Auto Dismount",
     "AutoExpertDelivery-SkipHQ": "Skip HQ items",
-    "AutoExpertDelivery-SkipMaterias": "跳过镶嵌魔晶石的物品",
+    "AutoExpertDelivery-SkipMaterias": "Ignore items with Materia",
     "AutoExpertDeliveryDescription": "Auto finish expert delivery after click start on the supply and provisioning missions interface.",
     "AutoExpertDeliveryTitle": "Auto Expert Delivery",
     "AutoGardensWork-AutoFertilize": "Auto Fertilize",
