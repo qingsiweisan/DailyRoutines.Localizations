@@ -1469,5 +1469,8 @@
     "AutoSkipBuddyFeedSceneTitle": "チョコボの餌やりアニメーションをスキップ",
     "AutoSkipBuddyFeedSceneDescription": "厩舎に預けた専用チョコボに餌を与える際、アニメーションを自動でスキップし、即座に給餌を完了させます。",
     "HoldCtrlToDelete": "削除(Ctrlキーを押しながら)",
-    "Settings-Changelog": "更新履歴"
+    "Settings-Changelog": "更新履歴",
+    "AutoConfirmPortraitUpdateTitle": "自动确认肖像更新",
+    "AutoConfirmPortraitUpdateDescription": "肖像更新预览界面出现时, 自动点击确认以更新肖像至最新装备状态",
+    "AutoConfirmPortraitUpdate-Notification": "已更新肖像至最新装备状态"
 }
