@@ -1472,5 +1472,11 @@
     "Settings-Changelog": "更新日志",
     "AutoConfirmPortraitUpdateTitle": "自动确认肖像更新",
     "AutoConfirmPortraitUpdateDescription": "肖像更新预览界面出现时, 自动点击确认以更新肖像至最新装备状态",
-    "AutoConfirmPortraitUpdate-Notification": "已更新肖像至最新装备状态"
+    "AutoConfirmPortraitUpdate-Notification": "已更新肖像至最新装备状态",
+    "Commands-InvalidArgs": "{0}: 无效的命令参数 ({1})",
+    "Type": "类型",
+    "AutoFaceCameraDirection-GroundDirection": "场地方向",
+    "AutoFaceCameraDirection-CharacterRotation": "人物面向",
+    "AutoFaceCameraDirection-CameraRotation": "镜头面向",
+    "AutoFaceCameraDirection-CommandHelp": "<类型> <值> 调整并锁定当前人物的面向, 直至手动取消\n{0} off → 取消面向锁定"
 }
