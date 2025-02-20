@@ -1473,10 +1473,10 @@
     "AutoConfirmPortraitUpdateTitle": "ポートレート更新の自動確認",
     "AutoConfirmPortraitUpdateDescription": "ポートレートプレビューが表示されたら、自動的に現在の装備状態で更新する。",
     "AutoConfirmPortraitUpdate-Notification": "ポートレートを現在の装備状態に更新しました。",
-    "Commands-InvalidArgs": "{0}: 无效的命令参数 ({1})",
-    "Type": "类型",
-    "AutoFaceCameraDirection-GroundDirection": "场地方向",
-    "AutoFaceCameraDirection-CharacterRotation": "人物面向",
-    "AutoFaceCameraDirection-CameraRotation": "镜头面向",
-    "AutoFaceCameraDirection-CommandHelp": "<类型> <值> 调整并锁定当前人物的面向, 直至手动取消\n{0} off → 取消面向锁定"
+    "Commands-InvalidArgs": "{0}：無効なコマンドパラメータ（{1}）",
+    "Type": "タイプ",
+    "AutoFaceCameraDirection-GroundDirection": "フィールドの方向",
+    "AutoFaceCameraDirection-CharacterRotation": "キャラの向き",
+    "AutoFaceCameraDirection-CameraRotation": "カメラの向き",
+    "AutoFaceCameraDirection-CommandHelp": "<タイプ> <値> に基づいて現在のキャラクターの向きを調整・固定し、手動で解除するまで維持\n{0} off → 向きの固定を解除"
 }
