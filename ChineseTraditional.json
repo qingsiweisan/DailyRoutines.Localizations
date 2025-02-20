@@ -1470,13 +1470,13 @@
     "AutoSkipBuddyFeedSceneDescription": "在餵食寄養在鳥房中的專屬陸行鳥時, 自動跳過其動畫立刻完成餵食操作",
     "HoldCtrlToDelete": "刪除 (按住 Ctrl)",
     "Settings-Changelog": "更新日誌",
-    "AutoConfirmPortraitUpdateTitle": "自动确认肖像更新",
-    "AutoConfirmPortraitUpdateDescription": "肖像更新预览界面出现时, 自动点击确认以更新肖像至最新装备状态",
-    "AutoConfirmPortraitUpdate-Notification": "已更新肖像至最新装备状态",
-    "Commands-InvalidArgs": "{0}: 无效的命令参数 ({1})",
-    "Type": "类型",
-    "AutoFaceCameraDirection-GroundDirection": "场地方向",
+    "AutoConfirmPortraitUpdateTitle": "自動確認肖像更新",
+    "AutoConfirmPortraitUpdateDescription": "肖像更新預覽界面出現時, 自動點擊確認以更新肖像至最新裝備狀態",
+    "AutoConfirmPortraitUpdate-Notification": "已更新肖像至最新裝備狀態",
+    "Commands-InvalidArgs": "{0}: 無效的命令參數 ({1})",
+    "Type": "類型",
+    "AutoFaceCameraDirection-GroundDirection": "場地方向",
     "AutoFaceCameraDirection-CharacterRotation": "人物面向",
-    "AutoFaceCameraDirection-CameraRotation": "镜头面向",
-    "AutoFaceCameraDirection-CommandHelp": "<类型> <值> 调整并锁定当前人物的面向, 直至手动取消\n{0} off → 取消面向锁定"
+    "AutoFaceCameraDirection-CameraRotation": "鏡頭面向",
+    "AutoFaceCameraDirection-CommandHelp": "<類型> <值> 調整並鎖定當前人物的面向, 直至手動取消\n{0} off → 取消面向鎖定"
 }
