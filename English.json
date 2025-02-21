@@ -1475,8 +1475,8 @@
     "AutoConfirmPortraitUpdate-Notification": "已更新肖像至最新装备状态",
     "Commands-InvalidArgs": "{0}: 无效的命令参数 ({1})",
     "Type": "Type",
-    "AutoFaceCameraDirection-GroundDirection": "场地方向",
-    "AutoFaceCameraDirection-CharacterRotation": "人物面向",
-    "AutoFaceCameraDirection-CameraRotation": "镜头面向",
-    "AutoFaceCameraDirection-CommandHelp": "<类型> <值> 调整并锁定当前人物的面向, 直至手动取消\n{0} off → 取消面向锁定"
+    "AutoFaceCameraDirection-GroundDirection": "Field direction",
+    "AutoFaceCameraDirection-CharacterRotation": "Character orientation",
+    "AutoFaceCameraDirection-CameraRotation": "Camera orientation",
+    "AutoFaceCameraDirection-CommandHelp": "<Type> <Value> Adjust and lock the current character's orientation until manually canceled\n{0} off → cancel facing lock"
 }
