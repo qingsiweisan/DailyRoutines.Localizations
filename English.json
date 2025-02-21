@@ -1478,5 +1478,5 @@
     "AutoFaceCameraDirection-GroundDirection": "Field direction",
     "AutoFaceCameraDirection-CharacterRotation": "Character orientation",
     "AutoFaceCameraDirection-CameraRotation": "Camera orientation",
-    "AutoFaceCameraDirection-CommandHelp": "<Type> <Value> Adjust and lock the current character's orientation until manually canceled\n{0} off → cancel facing lock"
+    "AutoFaceCameraDirection-CommandHelp": "< Type > < Value > Adjust and lock the current character's orientation until manually canceled\n{0} off → cancel facing lock"
 }
