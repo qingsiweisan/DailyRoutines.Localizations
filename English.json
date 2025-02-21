@@ -1351,7 +1351,7 @@
     "AutoSortItems-InventoryTabDesc": "分页情况下: 装备单独成页, 其他物品单独成页",
     "AutoSortItems-SortMessage": "Inventory sorting has been completed.",
     "AutoSortItems-Splited": "Column",
-    "AutoSortItems-Merged": "不分栏",
+    "AutoSortItems-Merged": "No columns",
     "ASTHelperTitle": "Astrologian Helper",
     "ASTHelperDescription": "After configurations, if the current job is Astrologer, some actions would be optimized according to the settings.",
     "ASTHelper-AutoPlayCardTitle": "重定向出卡目标",
