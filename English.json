@@ -1445,7 +1445,7 @@
     "Font": "Font",
     "Style": "Style",
     "Assist": "Assistance",
-    "OnlyValidWhenSolo": "仅在单人状态下生效",
+    "OnlyValidWhenSolo": "Enable only when alone",
     "AutoOpenTreasuresTitle": "Auto Open Treasure Coffers",
     "AutoOpenTreasuresDescription": "After entering a duty, try to open all the available treasure coffers around automatically.",
     "HullbreakerIsleHelperTitle": "Hullbreaker Isle Helper",
