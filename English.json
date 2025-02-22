@@ -30,6 +30,7 @@
     "AutoDismountTitle": "Auto Dismount",
     "AutoExpertDelivery-SkipHQ": "Skip HQ items",
     "AutoExpertDelivery-SkipMaterias": "Ignore items with Materia",
+    "AutoExpertDelivery-ReachdSealCap": "军票数量即将超出上限, 停止提交",
     "AutoExpertDeliveryDescription": "Auto finish expert delivery after click start on the supply and provisioning missions interface.",
     "AutoExpertDeliveryTitle": "Auto Expert Delivery",
     "AutoGardensWork-AutoFertilize": "Auto Fertilize",
