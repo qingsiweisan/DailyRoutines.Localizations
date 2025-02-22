@@ -30,7 +30,7 @@
     "AutoDismountTitle": "自動下坐騎",
     "AutoExpertDelivery-SkipHQ": "跳過 HQ 物品",
     "AutoExpertDelivery-SkipMaterias": "跳過鑲嵌魔晶石的物品",
-    "AutoExpertDelivery-ReachdSealCap": "军票数量即将超出上限, 停止提交",
+    "AutoExpertDelivery-ReachdSealCap": "軍票數量即將超出上限, 停止提交",
     "AutoExpertDeliveryDescription": "打開籌備任務界面, 並點擊開始後, 自動上交裝備兌換軍票",
     "AutoExpertDeliveryTitle": "自動籌備稀有品",
     "AutoGardensWork-AutoFertilize": "自動施肥",
@@ -1480,9 +1480,9 @@
     "AutoFaceCameraDirection-CharacterRotation": "人物面向",
     "AutoFaceCameraDirection-CameraRotation": "鏡頭面向",
     "AutoFaceCameraDirection-CommandHelp": "<類型> <值> 調整並鎖定當前人物的面向, 直至手動取消\n{0} off → 取消面向鎖定",
-    "AutoAttireItemsTitle": "自动处理套装物品",
-    "AutoAttireItemsDescription": "打开投影台并点击开始后, 自动取出投影台内所有可以存储为套装的物品, 并在 套装幻影化 界面出现时自动选择可用装备并存为套装",
-    "AutoAttireItems-OnlyTakeOutCompleteSet": "仅取出已成套的装备",
-    "AutoAttireItems-SkipWhenDyed": "忽略已染色的装备",
-    "AutoAttireItems-Message": "已取出套装: {0} ({1}/{2})"
+    "AutoAttireItemsTitle": "自動處理套裝物品",
+    "AutoAttireItemsDescription": "打開投影台並點擊開始後, 自動取出投影台內所有可以儲存為套裝的物品, 並在 套裝幻影化 界面出現時自動選擇可用裝備並存為套裝",
+    "AutoAttireItems-OnlyTakeOutCompleteSet": "僅取出已成套的裝備",
+    "AutoAttireItems-SkipWhenDyed": "忽略已染色的裝備",
+    "AutoAttireItems-Message": "已取出套裝: {0} ({1}/{2})"
 }
