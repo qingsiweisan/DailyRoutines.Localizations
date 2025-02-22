@@ -30,6 +30,7 @@
     "AutoDismountTitle": "自動マウント解除",
     "AutoExpertDelivery-SkipHQ": "HQアイテムを納品しない",
     "AutoExpertDelivery-SkipMaterias": "マテリアが装着されている装備をスキップ",
+    "AutoExpertDelivery-ReachdSealCap": "军票数量即将超出上限, 停止提交",
     "AutoExpertDeliveryDescription": "稀少品調達を開き、スタートをクリックすると自動的に装備を軍票に変えます",
     "AutoExpertDeliveryTitle": "自動稀少品調達",
     "AutoGardensWork-AutoFertilize": "自動肥料やり",
