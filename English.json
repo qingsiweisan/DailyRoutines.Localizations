@@ -748,7 +748,7 @@
     "WorldTravelCommand-Notice-WorldNoFound": "No World Found for {0}",
     "AutoPlayerCommend-BlockBlacklistPlayers": "Ignore players in the blacklist",
     "AutoPlayerCommend-AssignPlayerCommend": "Always assign commendations",
-    "AutoPlayerCommend-AssignPlayerCommendMessage": "已指定 {0}@{1} 为本局最优队员",
+    "AutoPlayerCommend-AssignPlayerCommendMessage": "{0}@{1} has been designated as the best player in this round",
     "AutoPlayerCommend-ErrorWhenGiveCommendationMessage": "Unable to auto give commendation, game data is incorrect or corrupted",
     "ExpandPlayerMenuSearch-SearchLalachievements": "Search: Lalachievements",
     "ExpandItemMenuSearch-SearchLodestoneDB": "Search: Lodestone",
