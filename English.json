@@ -1347,7 +1347,7 @@
     "AutoSortItemsDescription": "After configurations, the items in the inventory and armoury will be automatically sorted according to the preset rules while switching zones.",
     "Ascending": "Ascending",
     "Descending": "Descending",
-    "AutoSortItems-ArmouryCategoryDesc": "降序情况下: 生产采集装备在前, 战斗装备在后",
+    "AutoSortItems-ArmouryCategoryDesc": "In descending order: crafter and gatherer equipment first, combat equipment last",
     "AutoSortItems-InventoryCategoryDesc": "降序情况下: 生产采集素材 > 魔晶石 > 食药 > 杂货",
     "AutoSortItems-InventoryTabDesc": "分页情况下: 装备单独成页, 其他物品单独成页",
     "AutoSortItems-SortMessage": "Inventory sorting has been completed.",
