@@ -1361,7 +1361,7 @@
     "Common": "Common",
     "Advance": "Advance",
     "ASTHelper-AutoPlayCard-CommonDescription": "Based on the DPS abilities of the job in the current version",
-    "ASTHelper-AutoPlayCard-AdvanceDescription": "根据小队成员 FFLogs 记录的 nDPS 高低",
+    "ASTHelper-AutoPlayCard-AdvanceDescription": "Based on nDPS values ​​recorded by Party members in FFLogs",
     "ASTHealer-AutoPlayCard-AdvanceFallback": "无法连接到 FFLogs, 回退到常规模式",
     "ASTHelper-AutoPlayCard-Message-Melee": "Melee card → {0} ({1} {2})",
     "ASTHelper-AutoPlayCard-Message-Range": "Ranged card → {0} ({1} {2})",
