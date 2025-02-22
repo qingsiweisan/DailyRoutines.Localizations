@@ -1103,7 +1103,7 @@
     "FastTeleportPanel-Abort": "Abort Teleport",
     "FastTeleportPanel-CommandHelp-Abort": "Abort all queued teleport tasks",
     "FastTeleportPanel-CommandHelp-Ground": "Try detecting the ground above and below, and teleport to the ground position",
-    "FastTeleportPanel-CommandHelp-Aetheryte": "尝试交互附近可用的任一以太之光或城内以太之晶",
+    "FastTeleportPanel-CommandHelp-Aetheryte": "Attune to interact with any nearby available Aetheryte or Aethernet within the city",
     "AutoMarksFinder-RelayInstanceDisplay": "{0} Ins.",
     "DailyModuleBase-Exported": "Configuration has been successfully exported to the clipboard.",
     "DailyModuleBase-ExportError": "Failed to export config to the clipboard",
