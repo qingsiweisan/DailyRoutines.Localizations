@@ -1356,7 +1356,7 @@
     "ASTHelperTitle": "Astrologian Helper",
     "ASTHelperDescription": "After configurations, if the current job is Astrologer, some actions would be optimized according to the settings.",
     "ASTHelper-AutoPlayCardTitle": "Change card issuance target",
-    "ASTHelper-AutoPlayCardDescription": "使用技能 {0} 时, 若当前目标为空或敌方时, 根据规则自动重定向技能释放对象",
+    "ASTHelper-AutoPlayCardDescription": "When using skill {0}, if the current target is the sky or an enemy, the skill will be automatically redirected according to the rules.",
     "Disable": "Disable",
     "Common": "Common",
     "Advance": "Advance",
