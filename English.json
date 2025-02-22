@@ -1349,7 +1349,7 @@
     "Descending": "Descending",
     "AutoSortItems-ArmouryCategoryDesc": "In descending order: crafter and gatherer equipment first, combat equipment last",
     "AutoSortItems-InventoryCategoryDesc": "In descending order: craft and gather of materials > materia > medicines and meals > miscellany",
-    "AutoSortItems-InventoryTabDesc": "分页情况下: 装备单独成页, 其他物品单独成页",
+    "AutoSortItems-InventoryTabDesc": "In the case of paging: equipment is on a separate page, and other items are on a separate page",
     "AutoSortItems-SortMessage": "Inventory sorting has been completed.",
     "AutoSortItems-Splited": "Column",
     "AutoSortItems-Merged": "No columns",
