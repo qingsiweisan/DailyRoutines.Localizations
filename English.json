@@ -659,7 +659,7 @@
     "Auth": "Auth",
     "Settings-HelpTranslate": "Help Us Translate",
     "Settings-UpdateTranslation": "Update Translations",
-    "Settings-TranslationUpdatedMessage": "已从云端下载并刷新本地化文本",
+    "Settings-TranslationUpdatedMessage": "Downloaded the translated text from the cloud and updated it",
     "Settings-ExpiredTime": "Expired Time",
     "Settings-Needed": "Required",
     "Settings-NotNeeded": "Not Required",
