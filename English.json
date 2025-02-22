@@ -1368,7 +1368,7 @@
     "ASTHelper-LogsApi-Status": "API Key Status",
     "ASTHelper-EasyHealTitle": "Healing target redirection",
     "ASTHelper-EasyHealDescription": "Redirect your single healing skill to a valid target according to the rule, if the current target is empty or an enemy.",
-    "ASTHelper-EasyHeal-EnableDescription": "根据小队成员 HP 百分比高低",
+    "ASTHelper-EasyHeal-EnableDescription": "Based on the HP percentage of party members",
     "ASTHelper-EasyHeal-HealThreshold": "Healing threshold",
     "ASTHelper-EasyHeal-HealThresholdHelp": "If no teammate's HP is below the threshold, casting of the according skill will be blocked. ",
     "ASTHelper-EasyHeal-OverhealWarning": "Warning: Current threshold is too high which may lead to overheal.",
