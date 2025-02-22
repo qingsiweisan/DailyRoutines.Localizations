@@ -1479,5 +1479,10 @@
     "AutoFaceCameraDirection-GroundDirection": "フィールドの方向",
     "AutoFaceCameraDirection-CharacterRotation": "キャラの向き",
     "AutoFaceCameraDirection-CameraRotation": "カメラの向き",
-    "AutoFaceCameraDirection-CommandHelp": "<タイプ> <値> に基づいて現在のキャラクターの向きを調整・固定し、手動で解除するまで維持\n{0} off → 向きの固定を解除"
+    "AutoFaceCameraDirection-CommandHelp": "<タイプ> <値> に基づいて現在のキャラクターの向きを調整・固定し、手動で解除するまで維持\n{0} off → 向きの固定を解除",
+    "AutoAttireItemsTitle": "自动处理套装物品",
+    "AutoAttireItemsDescription": "打开投影台并点击开始后, 自动取出投影台内所有可以存储为套装的物品, 并在 套装幻影化 界面出现时自动选择可用装备并存为套装",
+    "AutoAttireItems-OnlyTakeOutCompleteSet": "仅取出已成套的装备",
+    "AutoAttireItems-SkipWhenDyed": "忽略已染色的装备",
+    "AutoAttireItems-Message": "已取出套装: {0} ({1}/{2})"
 }
