@@ -1342,7 +1342,7 @@
     "AutoMovePetPositionDescription": "After configuring and entering an eight-player duty, if there is a Pet summoned by the user, the Pet will automatically move according to the positions set in the timeline.",
     "AutoMovePetPosition-Delay": "Time since battle started",
     "AutoMovePetPosition-GetCurrent": "Fetch player's current position",
-    "AutoMovePetPosition-GetMouseHelp": "单击后, 请用鼠标指向目标位置，按 Ctrl + Alt 确定",
+    "AutoMovePetPosition-GetMouseHelp": "After clicking, move the mouse to the target position and confirm with Ctrl + Alt.",
     "AutoSortItemsTitle": "Auto Sort Items",
     "AutoSortItemsDescription": "After configurations, the items in the inventory and armoury will be automatically sorted according to the preset rules while switching zones.",
     "Ascending": "Ascending",
