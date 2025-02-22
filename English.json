@@ -1471,7 +1471,7 @@
     "AutoSkipBuddyFeedSceneDescription": "While feeding your companion in the Chocobo stable, automatically skip the cutscenes and complete the feeding immediately.",
     "HoldCtrlToDelete": "Delete (hold Ctrl)",
     "Settings-Changelog": "Change log",
-    "AutoConfirmPortraitUpdateTitle": "自动确认肖像更新",
+    "AutoConfirmPortraitUpdateTitle": "Automatically confirm portrait updates",
     "AutoConfirmPortraitUpdateDescription": "肖像更新预览界面出现时, 自动点击确认以更新肖像至最新装备状态",
     "AutoConfirmPortraitUpdate-Notification": "已更新肖像至最新装备状态",
     "Commands-InvalidArgs": "{0}: 无效的命令参数 ({1})",
