@@ -29,7 +29,7 @@
     "AutoDismountDescription": "マウント騎乗時にスキルを使うとすると、自動的にマウントから降り、スキルを使用します。",
     "AutoDismountTitle": "自動マウント解除",
     "AutoExpertDelivery-SkipHQ": "HQアイテムを納品しない",
-    "AutoExpertDelivery-SkipMaterias": "マテリアが装着されている装備をスキップ",
+    "AutoExpertDelivery-SkipMaterias": "マテリアが装着された装備をスキップ",
     "AutoExpertDelivery-ReachdSealCap": "軍票の数が上限を超える場合は納品を停止",
     "AutoExpertDeliveryDescription": "稀少品調達を開き、スタートをクリックすると自動的に装備を軍票に変えます",
     "AutoExpertDeliveryTitle": "自動稀少品調達",
@@ -1481,7 +1481,7 @@
     "AutoFaceCameraDirection-CameraRotation": "カメラの向き",
     "AutoFaceCameraDirection-CommandHelp": "<タイプ> <値> に基づいて現在のキャラクターの向きを調整・固定し、手動で解除するまで維持\n{0} off → 向きの固定を解除",
     "AutoAttireItemsTitle": "設定された項目の自動処理",
-    "AutoAttireItemsDescription": "ミラージュドレッサーを開いて「開始」をクリックすると、ドレッサー内の「まとめて幻影化」できるすべてのアイテムが自動的に取り出され、「まとめて幻影化」の保存UIが表示されると、使用可能な装備が自動的に選択され、「まとめて幻影化」して保存されます。",
+    "AutoAttireItemsDescription": "ミラージュドレッサーを開いて「スタート」をクリックすると、ドレッサー内の「装備一式」に登録できるアイテムを自動で取り出し、「まとめて幻影化」のUIが表示されると、登録可能な装備が自動で選択され、「装備一式」で幻影化されます。",
     "AutoAttireItems-OnlyTakeOutCompleteSet": "既に「まとめて幻影化」された装備を取り出す",
     "AutoAttireItems-SkipWhenDyed": "染色された装備を無視する",
     "AutoAttireItems-Message": "取り出された装備一式: {0} ({1}/{2})"
