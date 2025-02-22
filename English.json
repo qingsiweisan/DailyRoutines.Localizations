@@ -1348,7 +1348,7 @@
     "Ascending": "Ascending",
     "Descending": "Descending",
     "AutoSortItems-ArmouryCategoryDesc": "In descending order: crafter and gatherer equipment first, combat equipment last",
-    "AutoSortItems-InventoryCategoryDesc": "降序情况下: 生产采集素材 > 魔晶石 > 食药 > 杂货",
+    "AutoSortItems-InventoryCategoryDesc": "In descending order: craft and gather of materials > materia > medicines and meals > miscellany",
     "AutoSortItems-InventoryTabDesc": "分页情况下: 装备单独成页, 其他物品单独成页",
     "AutoSortItems-SortMessage": "Inventory sorting has been completed.",
     "AutoSortItems-Splited": "Column",
