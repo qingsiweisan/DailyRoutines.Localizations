@@ -30,6 +30,7 @@
     "AutoDismountTitle": "自动下坐骑",
     "AutoExpertDelivery-SkipHQ": "跳过 HQ 物品",
     "AutoExpertDelivery-SkipMaterias": "跳过镶嵌魔晶石的物品",
+    "AutoExpertDelivery-ReachdSealCap": "军票数量即将超出上限, 停止提交",
     "AutoExpertDeliveryDescription": "打开筹备任务界面, 并点击开始后, 自动上交装备兑换军票",
     "AutoExpertDeliveryTitle": "自动筹备稀有品",
     "AutoGardensWork-AutoFertilize": "自动施肥",
