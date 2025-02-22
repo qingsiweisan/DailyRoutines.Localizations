@@ -1482,7 +1482,7 @@
     "AutoFaceCameraDirection-CommandHelp": "<タイプ> <値> に基づいて現在のキャラクターの向きを調整・固定し、手動で解除するまで維持\n{0} off → 向きの固定を解除",
     "AutoAttireItemsTitle": "設定された項目の自動処理",
     "AutoAttireItemsDescription": "ミラージュドレッサーを開いて「開始」をクリックすると、ドレッサー内の「まとめて幻影化」できるすべてのアイテムが自動的に取り出され、「まとめて幻影化」の保存UIが表示されると、使用可能な装備が自動的に選択され、「まとめて幻影化」して保存されます。",
-    "AutoAttireItems-OnlyTakeOutCompleteSet": "仅取出已成套的装备",
+    "AutoAttireItems-OnlyTakeOutCompleteSet": "既に「まとめて幻影化」された装備を取り出す",
     "AutoAttireItems-SkipWhenDyed": "染色された装備を無視する",
     "AutoAttireItems-Message": "取り出された装備一式: {0} ({1}/{2})"
 }
