@@ -961,7 +961,7 @@
     "AutoOpenMapLinks-AlreadyAddedChannelCount": "{0} 種のメッセージタイプを選択しました",
     "AutoOpenMapLinks-AlreadyExistedInList": "すでにそのプレイヤーの情報は追加されています",
     "AutoOpenMapLinks-WhitelistChannels": "ターゲットメッセージタイプ",
-    "AutoReplaceActionLowLevelDescription": "レベルシンクによって一部の高レベルスキルが使用できなくなった場合、自動的にそれらを対応する低レベルスキルに置き換えます",
+    "AutoReplaceActionLowLevelDescription": "レベルシンクによって一部の高レベルスキルが使用できなくなった場合、自動的にそれらを対応する低レベルスキルに置き換える",
     "AutoReplaceActionLowLevelTitle": "自動的に低レベルスキルへ置き換える",
     "IgnoreActionTargetBlockedDescription": "スキルを発動する際、スキルターゲットが遮られているためにスキル使用が禁止される検出機構を無視する",
     "IgnoreActionTargetBlockedTitle": "スキルターゲットの遮蔽状態を無視する",
@@ -1466,7 +1466,7 @@
     "AutoMovePetCenterTitle": "召喚したカーバンクル/エオスをフィールド中央へ配置",
     "AutoMovePetCenterDescription":"カーバンクル/エオスを召喚したらフィールドの中央へ自動的に移動させます。",
     "ShopDisplayRealItemIconTitle": "ショップでアイテムアイコンを表示",
-    "ShopDisplayRealItemIconDescription": "各種ショップのUIを開いた際、対象アイテムのカテゴリアイコンではなく、実際のアイテムアイコンに置き換えます。",
+    "ShopDisplayRealItemIconDescription": "各種ショップのUIを開いた際、対象アイテムのカテゴリアイコンではなく、実際のアイテムアイコンに置き換える",
     "AutoSkipBuddyFeedSceneTitle": "チョコボの餌やりアニメーションをスキップ",
     "AutoSkipBuddyFeedSceneDescription": "厩舎に預けた専用チョコボに餌を与える際、アニメーションを自動でスキップし、即座に給餌を完了させます。",
     "HoldCtrlToDelete": "削除(Ctrlキーを押しながら)",
@@ -1492,5 +1492,5 @@
     "AutoUseCrafterGathererManualDescription": "クラフター/ギャザラーで、レベルが最大でなく、有効なサバイバルマニュアルまたはエンジニアマニュアルを所持し、経験値ボーナスがない場合、自動で使用する。",
     "AutoUseCrafterGathererManual-Notification": "マニュアルを自動で使用しました: {0}",
     "AutoReplaceLowBlowWithInterjectTitle": "【タンク】詠唱中断スキルへの置き換え",
-    "AutoReplaceLowBlowWithInterjectDescription": "現在のターゲットが中断可能なスキルをキャストしていて、インタージェクトが使用可能な場合は、ホットバーのロウブロウをインタージェクトに置き換えます。"
+    "AutoReplaceLowBlowWithInterjectDescription": "現在のターゲットが中断可能なスキルをキャストしていて、インタージェクトが使用可能な場合は、ホットバーのロウブロウをインタージェクトに置き換える"
 }
