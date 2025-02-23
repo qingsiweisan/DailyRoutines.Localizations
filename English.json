@@ -1472,7 +1472,7 @@
     "HoldCtrlToDelete": "Delete (hold Ctrl)",
     "Settings-Changelog": "Change log",
     "AutoConfirmPortraitUpdateTitle": "Automatically confirm portrait updates",
-    "AutoConfirmPortraitUpdateDescription": "肖像更新预览界面出现时, 自动点击确认以更新肖像至最新装备状态",
+    "AutoConfirmPortraitUpdateDescription": "When the portrait update preview interface appears, click OK automatically to update the portrait to the latest equipment status.",
     "AutoConfirmPortraitUpdate-Notification": "已更新肖像至最新装备状态",
     "Commands-InvalidArgs": "{0}: 无效的命令参数 ({1})",
     "Type": "Type",
