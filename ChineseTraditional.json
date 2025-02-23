@@ -1487,5 +1487,8 @@
     "AutoAttireItems-Message": "已取出套裝: {0} ({1}/{2})",
     "AutoGysahlGreensTitle": "自動使用基薩爾野菜",
     "AutoGysahlGreensDescription": "若當前在野外區域, 且自身陸行鳥搭檔尚未被召喚/剩餘時間低於 5 分鐘, 則自動使用基薩爾野菜",
-    "AutoGysahlGreens-NotificationMessage": "基薩爾野菜數量不足, 請及時補充"
+    "AutoGysahlGreens-NotificationMessage": "基薩爾野菜數量不足, 請及時補充",
+    "AutoUseCrafterGathererManualTitle": "自動使用生產採集指南",
+    "AutoUseCrafterGathererManualDescription": "若當前職業為生產採集、並未滿級、持有任一有效的生存學/工程學指南, 且並無對應的經驗加成增益效果, 則自動使用對應的指南物品",
+    "AutoUseCrafterGathererManual-Notification": "已自动使用指南物品: {0}"
 }
