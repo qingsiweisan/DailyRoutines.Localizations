@@ -962,7 +962,7 @@
     "AutoOpenMapLinks-AlreadyExistedInList": "すでにそのプレイヤーの情報は追加されています",
     "AutoOpenMapLinks-WhitelistChannels": "ターゲットメッセージタイプ",
     "AutoReplaceActionLowLevelDescription": "レベルシンクによって一部の高レベルスキルが使用できなくなった場合、自動的にそれらを対応する低レベルスキルに置き換える",
-    "AutoReplaceActionLowLevelTitle": "自動的に低レベルスキルへ置き換える",
+    "AutoReplaceActionLowLevelTitle": "自動的に低レベルスキルへ置き換え",
     "IgnoreActionTargetBlockedDescription": "スキルを発動する際、スキルターゲットが遮られているためにスキル使用が禁止される検出機構を無視する",
     "IgnoreActionTargetBlockedTitle": "スキルターゲットの遮蔽状態を無視する",
     "InstantPlaceLocationActionDescription": "GTアクションを使用する際、マウスカーソルの位置で自動的に発動する為、再確認する必要はありません。",
