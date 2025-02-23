@@ -1491,6 +1491,6 @@
     "AutoUseCrafterGathererManualTitle": "自動使用生產採集指南",
     "AutoUseCrafterGathererManualDescription": "若當前職業為生產採集、並未滿級、持有任一有效的生存學/工程學指南, 且並無對應的經驗加成增益效果, 則自動使用對應的指南物品",
     "AutoUseCrafterGathererManual-Notification": "已自動使用指南物品: {0}",
-    "AutoReplaceLowBlowWithInterjectTitle": "自动插言替换下踢",
-    "AutoReplaceLowBlowWithInterjectDescription": "若当前目标正在咏唱可打断的技能, 且 插言 处于可用状态, 则在热键栏中用 插言 替换 下踢"
+    "AutoReplaceLowBlowWithInterjectTitle": "自動插言替換下踢",
+    "AutoReplaceLowBlowWithInterjectDescription": "若當前目標正在詠唱可打斷的技能, 且 插言 處於可用狀態, 則在快速鍵欄中用 插言 替換 下踢"
 }
