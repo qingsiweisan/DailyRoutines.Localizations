@@ -1490,5 +1490,7 @@
     "AutoGysahlGreens-NotificationMessage": "基萨尔野菜数量不足, 请及时补充",
     "AutoUseCrafterGathererManualTitle": "自动使用生产采集指南",
     "AutoUseCrafterGathererManualDescription": "若当前职业为生产采集、并未满级、持有任一有效的生存学/工程学指南, 且并无对应的经验加成增益效果, 则自动使用对应的指南物品",
-    "AutoUseCrafterGathererManual-Notification": "已自动使用指南物品: {0}"
+    "AutoUseCrafterGathererManual-Notification": "已自动使用指南物品: {0}",
+    "AutoReplaceLowBlowWithInterjectTitle": "自动插言替换下踢",
+    "AutoReplaceLowBlowWithInterjectDescription": "若当前目标正在咏唱可打断的技能, 且 插言 处于可用状态, 则在热键栏中用 插言 替换 下踢"
 }
