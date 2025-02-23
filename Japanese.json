@@ -1491,6 +1491,6 @@
     "AutoUseCrafterGathererManualTitle": "クラフター/ギャザラー用マニュアル自動使用",
     "AutoUseCrafterGathererManualDescription": "クラフター/ギャザラーで、レベルが最大でなく、有効なサバイバルマニュアルまたはエンジニアマニュアルを所持し、経験値ボーナスがない場合、自動で使用する。",
     "AutoUseCrafterGathererManual-Notification": "マニュアルを自動で使用しました: {0}",
-    "AutoReplaceLowBlowWithInterjectTitle": "詠唱中断スキルへの置き換え",
-    "AutoReplaceLowBlowWithInterjectDescription": "現在のターゲットが中断可能なスキルをキャストしていて、インタージェクトが有効になっている場合は、ホットバーでロウブロウをインタージェクトに置き換えます。"
+    "AutoReplaceLowBlowWithInterjectTitle": "【タンク】詠唱中断スキルへの置き換え",
+    "AutoReplaceLowBlowWithInterjectDescription": "現在のターゲットが中断可能なスキルをキャストしていて、インタージェクトが使用可能な場合は、ホットバーのロウブロウをインタージェクトに置き換えます。"
 }
