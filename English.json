@@ -1487,5 +1487,8 @@
     "AutoAttireItems-Message": "Outfits taken out: {0} ({1}/{2})",
     "AutoGysahlGreensTitle": "自动使用基萨尔野菜",
     "AutoGysahlGreensDescription": "若当前在野外区域, 且自身陆行鸟搭档尚未被召唤/剩余时间低于 5 分钟, 则自动使用基萨尔野菜",
-    "AutoGysahlGreens-NotificationMessage": "基萨尔野菜数量不足, 请及时补充"
+    "AutoGysahlGreens-NotificationMessage": "基萨尔野菜数量不足, 请及时补充",
+    "AutoUseCrafterGathererManualTitle": "自动使用生产采集指南",
+    "AutoUseCrafterGathererManualDescription": "若当前职业为生产采集、并未满级、持有任一有效的生存学/工程学指南, 且并无对应的经验加成增益效果, 则自动使用对应的指南物品",
+    "AutoUseCrafterGathererManual-Notification": "已自动使用指南物品: {0}"
 }
