@@ -1484,5 +1484,8 @@
     "AutoAttireItemsDescription": "打開投影台並點擊開始後, 自動取出投影台內所有可以儲存為套裝的物品, 並在 套裝幻影化 界面出現時自動選擇可用裝備並存為套裝",
     "AutoAttireItems-OnlyTakeOutCompleteSet": "僅取出已成套的裝備",
     "AutoAttireItems-SkipWhenDyed": "忽略已染色的裝備",
-    "AutoAttireItems-Message": "已取出套裝: {0} ({1}/{2})"
+    "AutoAttireItems-Message": "已取出套裝: {0} ({1}/{2})",
+    "AutoGysahlGreensTitle": "自动使用基萨尔野菜",
+    "AutoGysahlGreensDescription": "若当前在野外区域, 且自身陆行鸟搭档尚未被召唤/剩余时间低于 5 分钟, 则自动使用基萨尔野菜",
+    "AutoGysahlGreens-NotificationMessage": "基萨尔野菜数量不足, 请及时补充"
 }
