@@ -1481,8 +1481,8 @@
     "AutoFaceCameraDirection-CameraRotation": "Camera orientation",
     "AutoFaceCameraDirection-CommandHelp": "< Type > < Value > Adjust and lock the current character's orientation until manually canceled\n{0} off → cancel facing lock",
     "AutoAttireItemsTitle": "Automatically process set items",
-    "AutoAttireItemsDescription": "打开投影台并点击开始后, 自动取出投影台内所有可以存储为套装的物品, 并在 套装幻影化 界面出现时自动选择可用装备并存为套装",
-    "AutoAttireItems-OnlyTakeOutCompleteSet": "仅取出已成套的装备",
-    "AutoAttireItems-SkipWhenDyed": "忽略已染色的装备",
-    "AutoAttireItems-Message": "已取出套装: {0} ({1}/{2})"
+    "AutoAttireItemsDescription": "After opening the Glamour Dresser and clicking Start, all items in the Glamour Dresser that can be stored as a set will be automatically taken out, and when the Outfit Glamour interface appears, the available equipment will be automatically selected and saved as a set.",
+    "AutoAttireItems-OnlyTakeOutCompleteSet": "Only take out Outfits equipment",
+    "AutoAttireItems-SkipWhenDyed": "Ignore dyed gear",
+    "AutoAttireItems-Message": "Outfits taken out: {0} ({1}/{2})"
 }
