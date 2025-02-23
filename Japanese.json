@@ -1480,7 +1480,7 @@
     "AutoFaceCameraDirection-CharacterRotation": "キャラの向き",
     "AutoFaceCameraDirection-CameraRotation": "カメラの向き",
     "AutoFaceCameraDirection-CommandHelp": "<タイプ> <値> に基づいて現在のキャラクターの向きを調整・固定し、手動で解除するまで維持\n{0} off → 向きの固定を解除",
-    "AutoAttireItemsTitle": "装備一式化の自動処理",
+    "AutoAttireItemsTitle": "「装備一式」化の自動処理",
     "AutoAttireItemsDescription": "ミラージュドレッサーを開いて「スタート」をクリックすると、ドレッサー内の「装備一式」で登録できるアイテムを自動で取り出し、「まとめて幻影化」のUIが表示されると、登録可能な装備が自動で選択され、「装備一式」で幻影化されます。",
     "AutoAttireItems-OnlyTakeOutCompleteSet": "既に「まとめて幻影化」された装備を取り出す",
     "AutoAttireItems-SkipWhenDyed": "染色された装備をスキップする",
