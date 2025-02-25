@@ -1493,5 +1493,7 @@
     "AutoUseCrafterGathererManual-Notification": "已自动使用指南物品: {0}",
     "AutoReplaceLowBlowWithInterjectTitle": "自动插言替换下踢",
     "AutoReplaceLowBlowWithInterjectDescription": "若当前目标正在咏唱可打断的技能, 且 插言 处于可用状态, 则在热键栏中用 插言 替换 下踢",
-    "AutoGysahlGreens-NotBattleJobUsingGys": "非战斗职业下仍使用基萨尔野菜"
+    "AutoGysahlGreens-NotBattleJobUsingGys": "非战斗职业下仍使用基萨尔野菜",
+    "TargetDashActionNoMoveTitle": "目标冲锋技能不位移",
+    "TargetDashActionNoMoveDescription": "在发动需要以任一敌方为目标的位移技能时, 自动移除其产生的位移效果"
 }
