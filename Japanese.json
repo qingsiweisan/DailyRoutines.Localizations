@@ -1493,6 +1493,5 @@
     "AutoUseCrafterGathererManual-Notification": "マニュアルを自動で使用しました: {0}",
     "AutoReplaceLowBlowWithInterjectTitle": "【タンク】詠唱中断スキルへの置き換え",
     "AutoReplaceLowBlowWithInterjectDescription": "現在のターゲットが中断可能なスキルをキャストしていて、インタージェクトが使用可能な場合は、ホットバーのロウブロウをインタージェクトに置き換える",
-    "AutoGysahlGreens-NotBattleJobUsingGys": "非戦闘ジョブでギサールの野菜を使用",
-    "AutoGysahlGreens-NotBattleJobUsingGysTooltipHover": "非戦闘ジョブでも自動的にギサールの野菜を使用します。"
+    "AutoGysahlGreens-NotBattleJobUsingGys": "非战斗职业下仍使用基萨尔野菜"
 }
