@@ -1493,5 +1493,5 @@
     "AutoUseCrafterGathererManual-Notification": "Manual item automatically used: {0}",
     "AutoReplaceLowBlowWithInterjectTitle": "Replace LowBlow with Interject",
     "AutoReplaceLowBlowWithInterjectDescription": "If the current target is chanting an interruptible skill and Interject is available, replace Low Blow with Interject in the Hotbar.",
-    "AutoGysahlGreens-NotBattleJobUsingGys": "非战斗职业下仍使用基萨尔野菜"
+    "AutoGysahlGreens-NotBattleJobUsingGys": "Use the Gysahl Greens even for non-battle jobs"
 }
