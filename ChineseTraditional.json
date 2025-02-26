@@ -475,7 +475,7 @@
     "AutoCheckFoodUsage-ChangeTo": "切換為",
     "AutoCheckFoodUsage-Checkpoint": "檢查時機",
     "AutoCheckFoodUsage-JobRestrictions": "職業限制",
-    "AutoCheckFoodUsage-NoticeMessage": "自動食用了 {0} ({1})",
+    "AutoCheckFoodUsage-NoticeMessage": "自动食用了 {0}",
     "AutoCheckFoodUsage-RefreshThreshold": "刷新閾值 (秒)",
     "AutoCheckFoodUsage-RefreshThresholdHelp": "當無 進食 狀態或其剩餘時間低於刷新閾值時, 則自動食用一次食物",
     "AutoCheckFoodUsage-ZoneRestrictions": "區域限制",
