@@ -475,7 +475,7 @@
     "AutoCheckFoodUsage-ChangeTo": "切り替える",
     "AutoCheckFoodUsage-Checkpoint": "チェックのタイミング『エリア切替時/リスタート時/条件指定』",
     "AutoCheckFoodUsage-JobRestrictions": "ジョブ制限",
-    "AutoCheckFoodUsage-NoticeMessage": "自动食用了 {0}",
+    "AutoCheckFoodUsage-NoticeMessage": "自動で {0} を食べました",
     "AutoCheckFoodUsage-RefreshThreshold": "更新閾値(秒)",
     "AutoCheckFoodUsage-RefreshThresholdHelp": "食事バフがない場合、または残り効果時間が更新閾値を下回った場合、食事を自動的に使用する。",
     "AutoCheckFoodUsage-ZoneRestrictions": "エリア制限",
