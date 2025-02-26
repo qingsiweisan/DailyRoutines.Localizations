@@ -1496,6 +1496,6 @@
     "AutoGysahlGreens-NotBattleJobUsingGys": "Use the Gysahl Greens even for non-battle jobs",
     "TargetDashActionNoMoveTitle": "Charge skill movement disabled",
     "TargetDashActionNoMoveDescription": "Disables the movement effect when using the rush skill on a target.",
-    "WeeklyBingoClickToOpenTitle": "天书奇谈快捷打开副本",
-    "WeeklyBingoClickToOpenDescription": "打开 天书奇谈 界面, 点击任务方格时, 自动在 任务搜索器 内打开首个对应的副本任务"
+    "WeeklyBingoClickToOpenTitle": "Open the Duty Finder compatible with Wondrous Tails",
+    "WeeklyBingoClickToOpenDescription": "When you open the Wondrous Tails and click on the square of the content you want to complete, the Duty Finder for the first content among the corresponding content will open."
 }
