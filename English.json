@@ -1495,5 +1495,7 @@
     "AutoReplaceLowBlowWithInterjectDescription": "If the current target is chanting an interruptible skill and Interject is available, replace Low Blow with Interject in the Hotbar.",
     "AutoGysahlGreens-NotBattleJobUsingGys": "Use the Gysahl Greens even for non-battle jobs",
     "TargetDashActionNoMoveTitle": "Charge skill movement disabled",
-    "TargetDashActionNoMoveDescription": "Disables the movement effect when using the rush skill on a target."
+    "TargetDashActionNoMoveDescription": "Disables the movement effect when using the rush skill on a target.",
+    "WeeklyBingoClickToOpenTitle": "天书奇谈快捷打开副本",
+    "WeeklyBingoClickToOpenDescription": "打开 天书奇谈 界面, 点击任务方格时, 自动在 任务搜索器 内打开首个对应的副本任务"
 }
