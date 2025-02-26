@@ -1495,5 +1495,7 @@
     "AutoReplaceLowBlowWithInterjectDescription": "現在のターゲットが中断可能なスキルをキャストしていて、インタージェクトが使用可能な場合は、ホットバーのロウブロウをインタージェクトに置き換える",
     "AutoGysahlGreens-NotBattleJobUsingGys": "非戦闘ジョブでもギサールの野菜を使用",
     "TargetDashActionNoMoveTitle": "突進スキルの移動無効",
-    "TargetDashActionNoMoveDescription": "ターゲットに対して突進スキルを発動する際、その移動効果を無効化する"
+    "TargetDashActionNoMoveDescription": "ターゲットに対して突進スキルを発動する際、その移動効果を無効化する",
+    "WeeklyBingoClickToOpenTitle": "天书奇谈快捷打开副本",
+    "WeeklyBingoClickToOpenDescription": "打开 天书奇谈 界面, 点击任务方格时, 自动在 任务搜索器 内打开首个对应的副本任务"
 }
