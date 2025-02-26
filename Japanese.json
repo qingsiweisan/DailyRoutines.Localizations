@@ -1496,6 +1496,6 @@
     "AutoGysahlGreens-NotBattleJobUsingGys": "非戦闘ジョブでもギサールの野菜を使用",
     "TargetDashActionNoMoveTitle": "突進スキルの移動無効",
     "TargetDashActionNoMoveDescription": "ターゲットに対して突進スキルを発動する際、その移動効果を無効化する",
-    "WeeklyBingoClickToOpenTitle": "天书奇谈快捷打开副本",
-    "WeeklyBingoClickToOpenDescription": "打开 天书奇谈 界面, 点击任务方格时, 自动在 任务搜索器 内打开首个对应的副本任务"
+    "WeeklyBingoClickToOpenTitle": "クロの空想帳に対応したコンテンツファインダーを開く",
+    "WeeklyBingoClickToOpenDescription": "クロの空想帳を開きコンプリートしたいコンテンツのマス目をクリックすると、対応するコンテンツの中で一番最初のコンテンツのコンテンツファインダーが開きます"
 }
