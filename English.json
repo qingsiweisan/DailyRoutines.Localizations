@@ -1047,7 +1047,7 @@
     "AutoMarksFinder-ScanPoints": "Scan Points:",
     "AutoMarksFinder-UpdateSpawnPointsRet": "Updated {0} Scanned Points",
     "AutoMarksFinder-DetectPowerfulMark": "Found Lv.{0} Notorious Monster: {1} at location {2:F2}",
-    "AutoMarksFinder-DelayTooLowWarning": "延迟过低, 容易掉线, 请适当调整, 至少高于 5000 毫秒",
+    "AutoMarksFinder-DelayTooLowWarning": "The delay is too low to work fine. Please adjust the value to at least 5000 ms.",
     "InstantDismount-Notice-NoGroundDetect": "No landable surfaces detected underneath.",
     "InstantDismountDescription": "Upon attempting to dismount, immediately step down to the ground.",
     "InstantDismountTitle": "Instant Dismount",
