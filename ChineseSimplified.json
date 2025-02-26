@@ -1047,6 +1047,7 @@
     "AutoMarksFinder-ScanPoints": "扫描点",
     "AutoMarksFinder-UpdateSpawnPointsRet": "已更新 {0} 个扫描点位",
     "AutoMarksFinder-DetectPowerfulMark": "发现 {0} 级恶名精英: {1} 于 {2:F2}",
+    "AutoMarksFinder-DelayTooLowWarning": "延迟过低, 容易掉线, 请适当调整, 至少高于 5000 毫秒",
     "InstantDismount-Notice-NoGroundDetect": "未在下方检测到任何可降落地面",
     "InstantDismountDescription": "在尝试下坐骑时, 立刻来到下方地面并取消骑乘坐骑",
     "InstantDismountTitle": "即刻下坐骑",
