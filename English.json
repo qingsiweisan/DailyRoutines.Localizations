@@ -475,7 +475,7 @@
     "AutoCheckFoodUsage-ChangeTo": "Switch to",
     "AutoCheckFoodUsage-Checkpoint": "Check when",
     "AutoCheckFoodUsage-JobRestrictions": "Job Restrictions",
-    "AutoCheckFoodUsage-NoticeMessage": "自动食用了 {0}",
+    "AutoCheckFoodUsage-NoticeMessage": "Auto ate {0}",
     "AutoCheckFoodUsage-RefreshThreshold": "Refresh Threshold (s)",
     "AutoCheckFoodUsage-RefreshThresholdHelp": "Automatically consume food when the Well Fed status is missing or its remaining time is below the refresh threshold",
     "AutoCheckFoodUsage-ZoneRestrictions": "Zone Restrictions",
