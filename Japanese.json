@@ -1501,7 +1501,7 @@
     "WeeklyBingoClickToOpenTitle": "クロの空想帳からコンテンツファインダーを開く",
     "WeeklyBingoClickToOpenDescription": "クロの空想帳を開きコンプリートしたいマスをクリックすると、コンテンツファインダー内で最初に該当するコンテンツを開く（突入はしない）",
     "Settings-CopyModuleInternalName": "モジュール内部名をコピー",
-    "AutoRecommendFauxHollowsTitle": "自动高亮幻巧拼图最优解",
-    "AutoRecommendFauxHollowsDescription": "打开 幻巧拼图 界面后, 自动根据设置高亮当前最优解\n(高亮颜色: 蓝色 → 双剑 / 粉色 → 宝箱、礼箱 / 金色 → 宗长)",
-    "AutoRecommendFauxHollows-PrioritizeSwords": "优先双剑"
+    "AutoRecommendFauxHollowsTitle": "ソーチョーの幻想盤の最適解をハイライト",
+    "AutoRecommendFauxHollowsDescription": "ソーチョー幻想盤の画面を開いた後、現在の最適解をハイライトする\n( 青 → 双剣 / ピンク → トレジャー＆ギフトボックス / 金 → ソーチョー)",
+    "AutoRecommendFauxHollows-PrioritizeSwords": "双剣を優先"
 }
