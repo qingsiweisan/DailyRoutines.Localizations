@@ -1500,5 +1500,8 @@
     "TargetDashActionNoMoveDescription": "在发动需要以任一敌方为目标的位移技能时, 自动移除其产生的位移效果",
     "WeeklyBingoClickToOpenTitle": "天书奇谈快捷打开副本",
     "WeeklyBingoClickToOpenDescription": "打开 天书奇谈 界面, 点击任务方格时, 自动在 任务搜索器 内打开首个对应的副本任务",
-    "Settings-CopyModuleInternalName": "复制模块内部名称"
+    "Settings-CopyModuleInternalName": "复制模块内部名称",
+    "AutoRecommendFauxHollowsTitle": "自动高亮幻巧拼图最优解",
+    "AutoRecommendFauxHollowsDescription": "打开 幻巧拼图 界面后, 自动根据设置高亮当前最优解\n(高亮颜色: 蓝色 → 双剑 / 粉色 → 宝箱、礼箱 / 金色 → 宗长)",
+    "AutoRecommendFauxHollows-PrioritizeSwords": "优先双剑"
 }
