@@ -1500,5 +1500,8 @@
     "TargetDashActionNoMoveDescription": "ターゲットに対して突進スキルを発動する際、その移動効果を無効化する",
     "WeeklyBingoClickToOpenTitle": "クロの空想帳からコンテンツファインダーを開く",
     "WeeklyBingoClickToOpenDescription": "クロの空想帳を開きコンプリートしたいマスをクリックすると、コンテンツファインダー内で最初に該当するコンテンツを開く（突入はしない）",
-    "Settings-CopyModuleInternalName": "モジュール内部名をコピー"
+    "Settings-CopyModuleInternalName": "モジュール内部名をコピー",
+    "AutoRecommendFauxHollowsTitle": "自动高亮幻巧拼图最优解",
+    "AutoRecommendFauxHollowsDescription": "打开 幻巧拼图 界面后, 自动根据设置高亮当前最优解\n(高亮颜色: 蓝色 → 双剑 / 粉色 → 宝箱、礼箱 / 金色 → 宗长)",
+    "AutoRecommendFauxHollows-PrioritizeSwords": "优先双剑"
 }
