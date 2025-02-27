@@ -1437,7 +1437,7 @@
     "OptimiziedEnemyListDescription": "Optimize the enmity list, so that it could display more information of enemy targets like HP, enmity and cast in the form of original game elements.",
     "OptimiziedEnemyList-UseCustomGeneralInfo": "Use custom text message",
     "OptimiziedEnemyList-UseCustomColor": "Use custom text color",
-    "OptimiziedEnemyList-CastInfoDisplayTargetBlacklist": "Chant information display blacklist",
+    "OptimiziedEnemyList-CastInfoDisplayTargetBlacklist": "Chant Information Blacklist",
     "OptimiziedEnemyList-CastInfoDisplayTargetBlacklistHelp": "Enter target name, exact match required",
     "Color": "Color",
     "EdgeColor": " Edge Color",
