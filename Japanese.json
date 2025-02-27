@@ -1497,5 +1497,6 @@
     "TargetDashActionNoMoveTitle": "突進スキルの移動無効",
     "TargetDashActionNoMoveDescription": "ターゲットに対して突進スキルを発動する際、その移動効果を無効化する",
     "WeeklyBingoClickToOpenTitle": "クロの空想帳からコンテンツファインダーを開く",
-    "WeeklyBingoClickToOpenDescription": "クロの空想帳を開きコンプリートしたいマスをクリックすると、コンテンツファインダー内で最初に該当するコンテンツを開く（突入はしない）"
+    "WeeklyBingoClickToOpenDescription": "クロの空想帳を開きコンプリートしたいマスをクリックすると、コンテンツファインダー内で最初に該当するコンテンツを開く（突入はしない）",
+    "Settings-CopyModuleInternalName": "复制模块内部名称"
 }
