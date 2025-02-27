@@ -1047,7 +1047,7 @@
     "AutoMarksFinder-ScanPoints": "スキャンポイント:",
     "AutoMarksFinder-UpdateSpawnPointsRet": "{0} 個のスキャンポイントが更新されました",
     "AutoMarksFinder-DetectPowerfulMark": "{0} レベルのリスキーモブを発見: {1} は {2:F2} にいます",
-    "AutoMarksFinder-DelayTooLowWarning": "延迟过低, 容易触发移速检测, 请调整至 5000 毫秒以上\n(非国服请忽略)",
+    "AutoMarksFinder-DelayTooLowWarning": "遅延が低すぎると移動速度検知が作動しやすくなるため、5000ミリ秒以上に調整してください。\n（中国サーバー以外の場合は無視してください）",
     "InstantDismountDescription": "騎乗を解除しようとした際、即座に下方の地面に降りて騎乗をキャンセルする",
     "InstantDismountTitle": "即マウントから降りる",
     "PartyFinderSettingRecordTitle": "PT募集内容編集の情報を自動保存",
@@ -1437,8 +1437,8 @@
     "OptimiziedEnemyListDescription": "敵対リスト画面を最適化し、ゲームの標準要素を使用して、敵対ターゲットのHP、ヘイト、および詠唱進行状況を表示できるようにしました。",
     "OptimiziedEnemyList-UseCustomGeneralInfo": "カスタムテキスト情報を使用",
     "OptimiziedEnemyList-UseCustomColor": "カスタムテキストカラーを使用",
-    "OptimiziedEnemyList-CastInfoDisplayTargetBlacklist": "咏唱信息显示黑名单",
-    "OptimiziedEnemyList-CastInfoDisplayTargetBlacklistHelp": "输入目标名称, 要求完全匹配",
+    "OptimiziedEnemyList-CastInfoDisplayTargetBlacklist": "詠唱情報表示のブラックリスト",
+    "OptimiziedEnemyList-CastInfoDisplayTargetBlacklistHelp": "ターゲット名を入力 (完全一致が必要)",
     "Color": "色",
     "EdgeColor": "縁取りの色",
     "BackgroundColor": "背景色",
@@ -1500,5 +1500,5 @@
     "TargetDashActionNoMoveDescription": "ターゲットに対して突進スキルを発動する際、その移動効果を無効化する",
     "WeeklyBingoClickToOpenTitle": "クロの空想帳からコンテンツファインダーを開く",
     "WeeklyBingoClickToOpenDescription": "クロの空想帳を開きコンプリートしたいマスをクリックすると、コンテンツファインダー内で最初に該当するコンテンツを開く（突入はしない）",
-    "Settings-CopyModuleInternalName": "复制模块内部名称"
+    "Settings-CopyModuleInternalName": "モジュール内部名をコピー"
 }
