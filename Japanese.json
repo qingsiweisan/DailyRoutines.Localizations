@@ -1437,6 +1437,8 @@
     "OptimiziedEnemyListDescription": "敵対リスト画面を最適化し、ゲームの標準要素を使用して、敵対ターゲットのHP、ヘイト、および詠唱進行状況を表示できるようにしました。",
     "OptimiziedEnemyList-UseCustomGeneralInfo": "カスタムテキスト情報を使用",
     "OptimiziedEnemyList-UseCustomColor": "カスタムテキストカラーを使用",
+    "OptimiziedEnemyList-CastInfoDisplayTargetBlacklist": "咏唱信息显示黑名单",
+    "OptimiziedEnemyList-CastInfoDisplayTargetBlacklistHelp": "输入目标名称, 要求完全匹配",
     "Color": "色",
     "EdgeColor": "縁取りの色",
     "BackgroundColor": "背景色",
