@@ -1437,6 +1437,8 @@
     "OptimiziedEnemyListDescription": "对敌对列表界面进行优化, 使其能够以游戏原生元素的方式显示对应敌对目标的体力、仇恨与咏唱的具体信息",
     "OptimiziedEnemyList-UseCustomGeneralInfo": "使用自定义文本信息",
     "OptimiziedEnemyList-UseCustomColor": "使用自定义文本颜色",
+    "OptimiziedEnemyList-CastInfoDisplayTargetBlacklist": "咏唱信息显示黑名单",
+    "OptimiziedEnemyList-CastInfoDisplayTargetBlacklistHelp": "输入目标名称, 要求完全匹配",
     "Color": "颜色",
     "EdgeColor": "描边颜色",
     "BackgroundColor": "背景颜色",
