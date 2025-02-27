@@ -1500,5 +1500,8 @@
     "TargetDashActionNoMoveDescription": "Disables the movement effect when using the rush skill on a target.",
     "WeeklyBingoClickToOpenTitle": "Open the Duty Finder compatible with Wondrous Tails",
     "WeeklyBingoClickToOpenDescription": "When you open the Wondrous Tails and click on the square of the content you want to complete, the Duty Finder for the first content among the corresponding content will open.",
-    "Settings-CopyModuleInternalName": "Copy module internal name"
+    "Settings-CopyModuleInternalName": "Copy module internal name",
+    "AutoRecommendFauxHollowsTitle": "自动高亮幻巧拼图最优解",
+    "AutoRecommendFauxHollowsDescription": "打开 幻巧拼图 界面后, 自动根据设置高亮当前最优解\n(高亮颜色: 蓝色 → 双剑 / 粉色 → 宝箱、礼箱 / 金色 → 宗长)",
+    "AutoRecommendFauxHollows-PrioritizeSwords": "优先双剑"
 }
