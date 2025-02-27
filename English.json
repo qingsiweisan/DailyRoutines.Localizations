@@ -1496,12 +1496,12 @@
     "AutoReplaceLowBlowWithInterjectTitle": "Replace LowBlow with Interject",
     "AutoReplaceLowBlowWithInterjectDescription": "If the current target is chanting an interruptible skill and Interject is available, replace Low Blow with Interject in the Hotbar.",
     "AutoGysahlGreens-NotBattleJobUsingGys": "Use the Gysahl Greens even for non-battle jobs",
-    "TargetDashActionNoMoveTitle": "Charge skill movement disabled",
+    "TargetDashActionNoMoveTitle": "Disable Movement Of Gap Closers",
     "TargetDashActionNoMoveDescription": "Disables the movement effect when using the rush skill on a target.",
-    "WeeklyBingoClickToOpenTitle": "Open the Duty Finder compatible with Wondrous Tails",
+    "WeeklyBingoClickToOpenTitle": "Jump To Duties In Wondrous Tails",
     "WeeklyBingoClickToOpenDescription": "When you open the Wondrous Tails and click on the square of the content you want to complete, the Duty Finder for the first content among the corresponding content will open.",
     "Settings-CopyModuleInternalName": "Copy module internal name",
-    "AutoRecommendFauxHollowsTitle": "Highlighting the best solution for the Faux Hollows",
+    "AutoRecommendFauxHollowsTitle": "Faux Hollows Solver",
     "AutoRecommendFauxHollowsDescription": "When you open the Faux Hollows interface, the current optimal solution will be highlighted automatically according to your settings.\n(Highlight color: Blue → Twin Swords / Pink → Treasure Box, Gift Box / Gold → Faux)",
     "AutoRecommendFauxHollows-PrioritizeSwords": "Prioritize the Twin Swords"
 }
