@@ -1437,6 +1437,8 @@
     "OptimiziedEnemyListDescription": "Optimize the enmity list, so that it could display more information of enemy targets like HP, enmity and cast in the form of original game elements.",
     "OptimiziedEnemyList-UseCustomGeneralInfo": "Use custom text message",
     "OptimiziedEnemyList-UseCustomColor": "Use custom text color",
+    "OptimiziedEnemyList-CastInfoDisplayTargetBlacklist": "咏唱信息显示黑名单",
+    "OptimiziedEnemyList-CastInfoDisplayTargetBlacklistHelp": "输入目标名称, 要求完全匹配",
     "Color": "Color",
     "EdgeColor": " Edge Color",
     "BackgroundColor": "Background Color",
