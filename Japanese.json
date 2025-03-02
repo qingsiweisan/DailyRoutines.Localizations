@@ -1503,5 +1503,8 @@
     "Settings-CopyModuleInternalName": "モジュール内部名をコピー",
     "AutoRecommendFauxHollowsTitle": "ソーチョーの幻想盤の最適解をハイライト",
     "AutoRecommendFauxHollowsDescription": "ソーチョー幻想盤の画面を開いた後、現在の最適解をハイライトする\n( 青 → 双剣 / ピンク → トレジャー＆ギフトボックス / 金 → ソーチョー)",
-    "AutoRecommendFauxHollows-PrioritizeSwords": "双剣を優先"
+    "AutoRecommendFauxHollows-PrioritizeSwords": "双剣を優先",
+    "AutoReuseEmoteTitle": "自动重复使用表情",
+    "AutoReuseEmoteDescription": "添加 /pdr {0} {1}",
+    "AutoReuseEmote-CommandHelp": "<情感动作名称/命令> (<间隔 (ms)>) 以指定间隔 (默认 2000ms) 重复使用对应的情感动作"
 }
