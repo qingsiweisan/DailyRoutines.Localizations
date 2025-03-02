@@ -1504,7 +1504,7 @@
     "AutoRecommendFauxHollowsTitle": "ソーチョーの幻想盤の最適解をハイライト",
     "AutoRecommendFauxHollowsDescription": "ソーチョー幻想盤の画面を開いた後、現在の最適解をハイライトする\n( 青 → 双剣 / ピンク → トレジャー＆ギフトボックス / 金 → ソーチョー)",
     "AutoRecommendFauxHollows-PrioritizeSwords": "双剣を優先",
-    "AutoReuseEmoteTitle": "自动重复使用表情",
-    "AutoReuseEmoteDescription": "添加 /pdr {0} {1}",
-    "AutoReuseEmote-CommandHelp": "<情感动作名称/命令> (<间隔 (ms)>) 以指定间隔 (默认 2000ms) 重复使用对应的情感动作"
+    "AutoReuseEmoteTitle": "エモートの自動再使用",
+    "AutoReuseEmoteDescription": "/pdr {0} {1} を追加",
+    "AutoReuseEmote-CommandHelp": "<エモート名/コマンド> (<間隔(ms)>) 指定した間隔 (デフォルトは2000ms) で対応するエモートを繰り返し使用する"
 }
