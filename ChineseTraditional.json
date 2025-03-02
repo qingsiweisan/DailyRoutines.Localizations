@@ -1503,5 +1503,8 @@
     "Settings-CopyModuleInternalName": "複製模組內部名稱",
     "AutoRecommendFauxHollowsTitle": "自動高亮幻巧拼圖最優解",
     "AutoRecommendFauxHollowsDescription": "打開 幻巧拼圖 界面後, 自動根據設置高亮當前最優解\n(高亮顏色: 藍色 → 雙劍 / 粉色 → 寶箱、禮箱 / 金色 → 宗長)",
-    "AutoRecommendFauxHollows-PrioritizeSwords": "優先雙劍"
+    "AutoRecommendFauxHollows-PrioritizeSwords": "優先雙劍",
+    "AutoReuseEmoteTitle": "自动重复使用表情",
+    "AutoReuseEmoteDescription": "添加 /pdr {0} {1}",
+    "AutoReuseEmote-CommandHelp": "<情感动作名称/命令> (<间隔 (ms)>) 以指定间隔 (默认 2000ms) 重复使用对应的情感动作"
 }
