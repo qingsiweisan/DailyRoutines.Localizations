@@ -252,7 +252,7 @@
     "QuickChatPanel-GameItems": "所持品",
     "AutoHolmgangSelfDescription": "戦士の『ホルムギャング』を使用する際、自身を強制的にスキルの対象とする。",
     "AutoHolmgangSelfTitle": "【WAR】ホルムギャングのタゲ最適化",
-    "ClipboardMultiLineToOneLineDescription": "ゲーム内でテキストを貼り付ける際、複数行のテキストを強制的に単一行に変換し、ゲーム内での編集と送信を簡単にする",
+    "ClipboardMultiLineToOneLineDescription": "在游戏内粘贴文本时, 强制将多行文本转成单行, 以方便编辑发送",
     "ClipboardMultiLineToOneLineTitle": "複数行を強制的に単一行に変換して貼り付ける",
     "BetterFollowTitle": "自動追尾の改善",
     "BetterFollowDescription": "ゲームの自動追尾のターゲット制限を解除し、自動的にターゲットをロックして再追尾できるようにします",
