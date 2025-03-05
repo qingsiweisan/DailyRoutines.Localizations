@@ -519,7 +519,6 @@
     "AutoPreserveCollectableTitle": "収集品を自動で確認する",
     "Plot": "プロット",
     "Ward": "ハウジングエリア",
-    "AutoLeaveDuty-AddCurrentHighEnd": "現バージョンの高難易度コンテンツを追加する",
     "AutoLeaveDuty-BlacklistContents": "ブラックリストコンテンツ",
     "AutoLeaveDutyDescription": "ブラックリストで選択したコンテンツでは自動退出しない。",
     "AutoLeaveDutyTitle": "コンテンツから自動退出する",
