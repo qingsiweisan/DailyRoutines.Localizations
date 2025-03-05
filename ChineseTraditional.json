@@ -252,7 +252,7 @@
     "QuickChatPanel-GameItems": "遊戲物品",
     "AutoHolmgangSelfDescription": "使用戰士技能死鬥時, 強制令自身為技能目標",
     "AutoHolmgangSelfTitle": "自動死鬥自身",
-    "ClipboardMultiLineToOneLineDescription": "在遊戲內黏貼文本時, 強制將多行文本轉成單行, 以方便遊戲內編輯發送",
+    "ClipboardMultiLineToOneLineDescription": "在游戏内粘贴文本时, 强制将多行文本转成单行, 以方便编辑发送",
     "ClipboardMultiLineToOneLineTitle": "強制黏貼多行轉單行",
     "BetterFollowTitle": "更好的自動跟隨",
     "BetterFollowDescription": "解除遊戲原生自動跟隨的目標限制, 且能夠自動鎖定目標並重新跟隨",
