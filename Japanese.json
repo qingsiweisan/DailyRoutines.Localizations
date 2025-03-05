@@ -1,6 +1,6 @@
 {
     "Auto": "自動",
-    "AutoAntiAfkDescription": "一定時間毎に離席カウントをリセットし、離席状態を防ぐ。",
+    "AutoAntiAfkDescription": "一定時間毎に離席カウントをリセットし、離席状態を防ぐ",
     "AutoAntiAfkTitle": "離席落ち防止",
     "AutoAntiCensorship-BypassText": "テキスト処理",
     "AutoAntiCensorship-FilteredText": "テキストをブロック",
