@@ -519,7 +519,6 @@
     "AutoPreserveCollectableTitle": "Auto Confirm Collectable Preservation",
     "Plot": "Plot",
     "Ward": "Ward",
-    "AutoLeaveDuty-AddCurrentHighEnd": "Add High-End duties in current version",
     "AutoLeaveDuty-BlacklistContents": "Blacklist Duties",
     "AutoLeaveDutyDescription": "Auto exit upon completion of non-blacklisted duties",
     "AutoLeaveDutyTitle": "Auto Leave Duty",
