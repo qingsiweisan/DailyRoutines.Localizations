@@ -519,7 +519,6 @@
     "AutoPreserveCollectableTitle": "自動確認採集收藏品",
     "Plot": "地皮",
     "Ward": "房區",
-    "AutoLeaveDuty-AddCurrentHighEnd": "添加現版本高難",
     "AutoLeaveDuty-BlacklistContents": "黑名單副本",
     "AutoLeaveDutyDescription": "在非黑名單副本完成時自動退出",
     "AutoLeaveDutyTitle": "自動退出副本",
