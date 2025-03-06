@@ -1505,5 +1505,7 @@
     "AutoRecommendFauxHollows-PrioritizeSwords": "双剣を優先",
     "AutoReuseEmoteTitle": "エモートの自動再使用",
     "AutoReuseEmoteDescription": "/pdr {0} {1} を追加",
-    "AutoReuseEmote-CommandHelp": "<エモート名/コマンド> (<間隔(ms)>) 指定した間隔 (デフォルトは2000ms) で対応するエモートを繰り返し使用する"
+    "AutoReuseEmote-CommandHelp": "<エモート名/コマンド> (<間隔(ms)>) 指定した間隔 (デフォルトは2000ms) で対応するエモートを繰り返し使用する",
+    "FastContentsFinderRouletteTitle": "快捷任务搜索器随机任务参加",
+    "FastContentsFinderRouletteDescription": "为任务搜索器内的各随机任务新增 参加 按钮, 用于一键参加对应的随机任务"
 }
