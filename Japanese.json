@@ -1507,6 +1507,6 @@
     "AutoReuseEmoteDescription": "/pdr {0} {1} を追加",
     "AutoReuseEmote-CommandHelp": "<エモート名/コマンド> (<間隔(ms)>) 指定した間隔 (デフォルトは2000ms) で対応するエモートを繰り返し使用する",
     "FastContentsFinderRegisterTitle": "クイックコンテンツファインダー申請",
-    "FastContentsFinderRegisterDescription": "各コンテンツにワンポチでコンテンツファインダー申請できるボタンを追加する。デフォルト、制限解除、自由探索などが可能。",
+    "FastContentsFinderRegisterDescription": "コンテンツファインダー内の各コンテンツページにボタンを追加し、デフォルト設定、制限解除、自由探索などの設定でワンクリック参加できるようにする。",
     "FastContentsFinderRegister-HoldConflictKeyToToggle": "割り込みホットキーを長押しして切り替える"
 }
