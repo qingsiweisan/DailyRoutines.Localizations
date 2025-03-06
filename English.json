@@ -252,7 +252,7 @@
     "QuickChatPanel-GameItems": "Game items",
     "AutoHolmgangSelfDescription": "When using the Warrior action Holmgang, force target self.",
     "AutoHolmgangSelfTitle": "Auto Holmgang Self",
-    "ClipboardMultiLineToOneLineDescription": "在游戏内粘贴文本时, 强制将多行文本转成单行, 以方便编辑发送",
+    "ClipboardMultiLineToOneLineDescription": "When pasting text in the game, multi-line text is forced to be converted into a single line to facilitate editing and sending.",
     "ClipboardMultiLineToOneLineTitle": "Force Paste Multi-line to Single Line",
     "BetterFollowTitle": "Better Auto Follow",
     "BetterFollowDescription": "Unlocks the game's native follow target limitation, and is able to automatically lock on to the target and re-follow it.",
