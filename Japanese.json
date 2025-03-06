@@ -1508,5 +1508,5 @@
     "AutoReuseEmote-CommandHelp": "<エモート名/コマンド> (<間隔(ms)>) 指定した間隔 (デフォルトは2000ms) で対応するエモートを繰り返し使用する",
     "FastContentsFinderRegisterTitle": "クイックコンテンツファインダー申請",
     "FastContentsFinderRegisterDescription": "各コンテンツにワンポチでコンテンツファインダー申請できるボタンを追加する。デフォルト、制限解除、自由探索などが可能。",
-    "FastContentsFinderRegister-HoldConflictKeyToToggle": "按住打断热键以切换"
+    "FastContentsFinderRegister-HoldConflictKeyToToggle": "割り込みホットキーを長押しして切り替える"
 }
