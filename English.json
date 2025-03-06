@@ -1505,5 +1505,7 @@
     "AutoRecommendFauxHollows-PrioritizeSwords": "Prioritize the Twin Swords",
     "AutoReuseEmoteTitle": "Automatically reuse emotes",
     "AutoReuseEmoteDescription": "Add /pdr {0} {1}",
-    "AutoReuseEmote-CommandHelp": "<Emote action name/command> (<Interval (ms)>) Repeat the related emote action by specifying the interval (2000ms)"
+    "AutoReuseEmote-CommandHelp": "<Emote action name/command> (<Interval (ms)>) Repeat the related emote action by specifying the interval (2000ms)",
+    "FastContentsFinderRouletteTitle": "快捷任务搜索器随机任务参加",
+    "FastContentsFinderRouletteDescription": "为任务搜索器内的各随机任务新增 参加 按钮, 用于一键参加对应的随机任务"
 }
