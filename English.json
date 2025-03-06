@@ -1507,6 +1507,6 @@
     "AutoReuseEmoteDescription": "Add /pdr {0} {1}",
     "AutoReuseEmote-CommandHelp": "<Emote action name/command> (<Interval (ms)>) Repeat the related emote action by specifying the interval (2000ms)",
     "FastContentsFinderRegisterTitle": "Participate in Duty Finder instantly",
-    "FastContentsFinderRegisterDescription": "为任务搜索器内的各任务新增快捷按钮, 用于一键以默认、解除限制、自由探索等设置参加对应的任务",
-    "FastContentsFinderRegister-HoldConflictKeyToToggle": "按住打断热键以切换"
+    "FastContentsFinderRegisterDescription": "Added shortcut buttons for each duty in the Duty Finder, allowing you to join the corresponding duty with one click. Default, Unrestricted, Explorer Mode, etc.",
+    "FastContentsFinderRegister-HoldConflictKeyToToggle": "Press and hold the interrupt hotkey to toggle"
 }
