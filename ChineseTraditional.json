@@ -252,7 +252,7 @@
     "QuickChatPanel-GameItems": "遊戲物品",
     "AutoHolmgangSelfDescription": "使用戰士技能死鬥時, 強制令自身為技能目標",
     "AutoHolmgangSelfTitle": "自動死鬥自身",
-    "ClipboardMultiLineToOneLineDescription": "在游戏内粘贴文本时, 强制将多行文本转成单行, 以方便编辑发送",
+    "ClipboardMultiLineToOneLineDescription": "在遊戲內黏貼文本時, 強制將多行文本轉成單行, 以方便編輯發送",
     "ClipboardMultiLineToOneLineTitle": "強制黏貼多行轉單行",
     "BetterFollowTitle": "更好的自動跟隨",
     "BetterFollowDescription": "解除遊戲原生自動跟隨的目標限制, 且能夠自動鎖定目標並重新跟隨",
@@ -1506,6 +1506,6 @@
     "AutoReuseEmoteTitle": "自動重複使用表情",
     "AutoReuseEmoteDescription": "添加 /pdr {0} {1}",
     "AutoReuseEmote-CommandHelp": "<情感動作名稱/命令> (<間隔 (ms)>) 以指定間隔 (默認 2000ms) 重複使用對應的情感動作",
-    "FastContentsFinderRouletteTitle": "快捷任务搜索器随机任务参加",
-    "FastContentsFinderRouletteDescription": "为任务搜索器内的各随机任务新增 参加 按钮, 用于一键参加对应的随机任务"
+    "FastContentsFinderRouletteTitle": "快捷任務搜索器隨機任務參加",
+    "FastContentsFinderRouletteDescription": "為任務搜索器內的各隨機任務新增 參加 按鈕, 用於一鍵參加對應的隨機任務"
 }
