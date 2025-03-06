@@ -1506,7 +1506,7 @@
     "AutoReuseEmoteTitle": "自動重複使用表情",
     "AutoReuseEmoteDescription": "添加 /pdr {0} {1}",
     "AutoReuseEmote-CommandHelp": "<情感動作名稱/命令> (<間隔 (ms)>) 以指定間隔 (默認 2000ms) 重複使用對應的情感動作",
-    "FastContentsFinderRegisterTitle": "快捷任务搜索器匹配副本",
-    "FastContentsFinderRegisterDescription": "为任务搜索器内的各任务新增快捷按钮, 用于一键以默认、解除限制、自由探索等设置参加对应的任务",
-    "FastContentsFinderRegister-HoldConflictKeyToToggle": "按住打断热键以切换"
+    "FastContentsFinderRegisterTitle": "快捷任務搜索器匹配副本",
+    "FastContentsFinderRegisterDescription": "為任務搜索器內的各任務新增快捷按鈕, 用於一鍵以默認、解除限制、自由探索等設置參加對應的任務",
+    "FastContentsFinderRegister-HoldConflictKeyToToggle": "按住打斷快速鍵以切換"
 }
