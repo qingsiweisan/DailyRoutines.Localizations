@@ -1170,7 +1170,7 @@
     "AutoRetainerWork-PriceAdjust-OnSaleCount": "On Sale",
     "AutoRetainerWork-PriceAdjust-RequestMarketAgain": "Failed to fetch market data, attempting to retrieve again",
     "Mannequin": "Mannequin",
-    "AutoLeaveDuty-NoLeaveHighEndDuties": "Do not auto leave high-end duties in current version",
+    "AutoLeaveDuty-NoLeaveHighEndDuties": "Don't auto leave raids of the current version",
     "AutoLeaveDuty-NoLeaveHighEndDutiesHelp": "All duties classified as \"High-End Duty\" in current party finder categories",
     "Scale": "Scale",
     "AutoRetainerWork-PriceAdjust-UpshelfAuto": "Auto List",
