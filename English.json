@@ -1507,6 +1507,6 @@
     "AutoReuseEmoteDescription": "Add /pdr {0} {1}",
     "AutoReuseEmote-CommandHelp": "<Emote Name/Command> (<Interval (ms)>) to repeat an emote with the given interval (2000ms by default).",
     "FastContentsFinderRegisterTitle": "Participate in Duty Finder instantly",
-    "FastContentsFinderRegisterDescription": "Added shortcut buttons for each duty in the Duty Finder, allowing you to join the corresponding duty with one click. Default, Unrestricted, Explorer Mode, etc.",
+    "FastContentsFinderRegisterDescription": "Add shortcut buttons for each duty in Duty Finder, allowing users to join duties with prefabricated Duty Finder Settings.",
     "FastContentsFinderRegister-HoldConflictKeyToToggle": "Press and hold the interrupt hotkey to toggle"
 }
