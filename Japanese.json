@@ -1501,5 +1501,6 @@
     "AutoReuseEmote-CommandHelp": "<エモート名/コマンド> (<間隔(ms)>) 指定した間隔 (デフォルトは2000ms) で対応するエモートを繰り返し使用する",
     "FastContentsFinderRegisterTitle": "簡易コンテンツファインダー申請",
     "FastContentsFinderRegisterDescription": "コンテンツファインダー内の各コンテンツページにボタンを追加し、デフォルト設定、制限解除、自由探索などの設定でワンクリック参加できるようにする。",
-    "FastContentsFinderRegister-HoldConflictKeyToToggle": "ホットキー押下で切り替える"
+    "FastContentsFinderRegister-HoldConflictKeyToToggle": "ホットキー押下で切り替える",
+    "AutoFateSync-AutoTankStance": "当自身为防护职业时自动开启盾姿"
 }
