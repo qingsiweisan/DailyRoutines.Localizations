@@ -1508,5 +1508,6 @@
     "AutoReuseEmote-CommandHelp": "<情感动作名称/命令> (<间隔 (ms)>) 以指定间隔 (默认 2000ms) 重复使用对应的情感动作",
     "FastContentsFinderRegisterTitle": "快捷任务搜索器匹配副本",
     "FastContentsFinderRegisterDescription": "为任务搜索器内的各任务新增快捷按钮, 用于一键以默认、解除限制、自由探索等设置参加对应的任务",
-    "FastContentsFinderRegister-HoldConflictKeyToToggle": "按住打断热键以切换"
+    "FastContentsFinderRegister-HoldConflictKeyToToggle": "按住打断热键以切换",
+    "AutoFateSync-AutoTankStance": "当自身为防护职业时自动开启盾姿"
 }
