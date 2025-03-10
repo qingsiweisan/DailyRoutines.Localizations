@@ -1501,5 +1501,6 @@
     "AutoReuseEmote-CommandHelp": "<Emote Name/Command> (<Interval (ms)>) to repeat an emote with the given interval (2000ms by default).",
     "FastContentsFinderRegisterTitle": "Participate in Duty Finder instantly",
     "FastContentsFinderRegisterDescription": "Add shortcut buttons for each duty in Duty Finder, allowing users to join duties with prefabricated Duty Finder Settings.",
-    "FastContentsFinderRegister-HoldConflictKeyToToggle": "Press and hold the interrupt hotkey to toggle"
+    "FastContentsFinderRegister-HoldConflictKeyToToggle": "Press and hold the interrupt hotkey to toggle",
+    "AutoFateSync-AutoTankStance": "当自身为防护职业时自动开启盾姿"
 }
