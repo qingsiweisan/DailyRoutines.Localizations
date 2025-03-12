@@ -1502,5 +1502,5 @@
     "FastContentsFinderRegisterTitle": "Participate in Duty Finder instantly",
     "FastContentsFinderRegisterDescription": "Add shortcut buttons for each duty in Duty Finder, allowing users to join duties with prefabricated Duty Finder Settings.",
     "FastContentsFinderRegister-HoldConflictKeyToToggle": "Press and hold the interrupt hotkey to toggle",
-    "AutoFateSync-AutoTankStance": "当自身为防护职业时自动开启盾姿"
+    "AutoFateSync-AutoTankStance": "Automatically activate tank stance when you are a tank job"
 }
