@@ -1502,5 +1502,9 @@
     "FastContentsFinderRegisterTitle": "Participate in Duty Finder instantly",
     "FastContentsFinderRegisterDescription": "Add shortcut buttons for each duty in Duty Finder, allowing users to join duties with prefabricated Duty Finder Settings.",
     "FastContentsFinderRegister-HoldConflictKeyToToggle": "Press and hold the interrupt hotkey to toggle",
-    "AutoFateSync-AutoTankStance": "Automatically activate tank stance when you are a tank job"
+    "AutoFateSync-AutoTankStance": "Automatically activate tank stance when you are a tank job",
+    "Exchange": "交换",
+    "FastGrandCompanyExchangeTitle": "快捷军票交换所交换物品",
+    "FastGrandCompanyExchangeDescription": "在 军票交换所 界面新增快捷交换悬浮窗, 便于直接使用物品名快捷交换对应的物品",
+    "FastGrandCompanyExchange-CommandHelp": "<物品名 (大小写不敏感)> (<数量>) 在军票交换所内交换指定数量指定的物品 (若物品名为 default 则直接使用悬浮窗内的相关配置, 此时无需传入数量)"
 }
