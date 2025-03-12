@@ -1505,6 +1505,6 @@
     "AutoFateSync-AutoTankStance": "Automatically activate tank stance when you are a tank job",
     "Exchange": "Exchange",
     "FastGrandCompanyExchangeTitle": "Quick Exchange Company Seals for Items",
-    "FastGrandCompanyExchangeDescription": "在 军票交换所 界面新增快捷交换悬浮窗, 便于直接使用物品名快捷交换对应的物品",
-    "FastGrandCompanyExchange-CommandHelp": "<物品名 (大小写不敏感)> (<数量>) 在军票交换所内交换指定数量指定的物品 (若物品名为 default 则直接使用悬浮窗内的相关配置, 此时无需传入数量)"
+    "FastGrandCompanyExchangeDescription": "Added a quick exchange floating window in the Company Seals Exchange interface, so you can instantly exchange it for the corresponding item by entering the item name directly.",
+    "FastGrandCompanyExchange-CommandHelp": "<Item name (case insensitive)> (< Quantity >) Exchange the specified quantity of the specified item in the Company Seals　Exchange (If the item name is \"default\", the relevant configuration in the floating window is used directly, and there is no need to enter the quantity)"
 }
