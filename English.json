@@ -1473,7 +1473,7 @@
     "FastContentsFinderRegisterTitle": "Participate in Duty Finder instantly",
     "FastContentsFinderRegisterDescription": "Add shortcut buttons for each duty in Duty Finder, allowing users to join duties with prefabricated Duty Finder Settings.",
     "FastContentsFinderRegister-HoldConflictKeyToToggle": "Press and hold the interrupt hotkey to toggle",
-    "AutoFateSync-AutoTankStance": "Automatically activate tank stance when you are a tank job",
+    "AutoFateSync-AutoTankStance": "Activate defence stance when the job is a tank",
     "Exchange": "Exchange",
     "FastGrandCompanyExchangeTitle": "Quick Exchange Company Seals for Items",
     "FastGrandCompanyExchangeDescription": "Added a quick exchange floating window in the Company Seals Exchange interface, so you can instantly exchange it for the corresponding item by entering the item name directly.",
