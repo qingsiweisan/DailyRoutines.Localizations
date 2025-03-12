@@ -1503,8 +1503,8 @@
     "FastContentsFinderRegisterDescription": "コンテンツファインダー内の各コンテンツページにボタンを追加し、デフォルト設定、制限解除、自由探索などの設定でワンクリック参加できるようにする。",
     "FastContentsFinderRegister-HoldConflictKeyToToggle": "ホットキー押下で切り替える",
     "AutoFateSync-AutoTankStance": "自身のロールがタンクの場合、自動でスタンスを使う",
-    "Exchange": "交换",
-    "FastGrandCompanyExchangeTitle": "快捷军票交换所交换物品",
-    "FastGrandCompanyExchangeDescription": "在 军票交换所 界面新增快捷交换悬浮窗, 便于直接使用物品名快捷交换对应的物品",
-    "FastGrandCompanyExchange-CommandHelp": "<物品名 (大小写不敏感)> (<数量>) 在军票交换所内交换指定数量指定的物品 (若物品名为 default 则直接使用悬浮窗内的相关配置, 此时无需传入数量)"
+    "Exchange": "交換",
+    "FastGrandCompanyExchangeTitle": "軍票でアイテム交換",
+    "FastGrandCompanyExchangeDescription": "軍票交換の画面に、アイテム名を直接入力して対応するアイテムを即座に交換できる、ショートカット交換用のフローティングウィンドウを新規追加",
+    "FastGrandCompanyExchange-CommandHelp": "<アイテム名（大文字・小文字を区別しない）> (<数量>) で、補給担当官で指定したアイテムを指定数量分交換する（アイテム名が \"default\" の場合は、フローティングウィンドウ内の関連設定を直接使用し、この場合は数量を入力する必要はない）"
 }
