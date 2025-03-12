@@ -1475,7 +1475,7 @@
     "FastContentsFinderRegister-HoldConflictKeyToToggle": "ホットキー押下で切り替える",
     "AutoFateSync-AutoTankStance": "自身のロールがタンクの場合、自動でスタンスを使う",
     "Exchange": "交換",
-    "FastGrandCompanyExchangeTitle": "軍票でアイテム交換",
-    "FastGrandCompanyExchangeDescription": "軍票交換の画面に、アイテム名を直接入力して対応するアイテムを即座に交換できる、ショートカット交換用のフローティングウィンドウを新規追加",
-    "FastGrandCompanyExchange-CommandHelp": "<アイテム名（大文字・小文字を区別しない）> (<数量>) で、補給担当官で指定したアイテムを指定数量分交換する（アイテム名が \"default\" の場合は、フローティングウィンドウ内の関連設定を直接使用し、この場合は数量を入力する必要はない）"
+    "FastGrandCompanyExchangeTitle": "軍票交換所でのアイテム交換を簡略化",
+    "FastGrandCompanyExchangeDescription": "軍票交換所の画面上部に、アイテム名を直接入力して対応するアイテムを即座に交換することができる、ショートカット交換用のオーバーレイを表示",
+    "FastGrandCompanyExchange-CommandHelp": "<アイテム名（大文字・小文字を区別しない）> (<数量>) で、補給担当官で指定したアイテムを指定数量分交換する（アイテム名が \"default\" の場合は、オーバーレイ内の関連設定を直接使用し、この場合は数量を入力する必要はない）"
 }
