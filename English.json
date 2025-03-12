@@ -1301,7 +1301,7 @@
     "AutoCountBlacks-DtrEntry-Text": "Players in blacklist around",
     "AutoVerEasyQuestBattleTitle": "Auto commence the easiest quest combat",
     "AutoVerEasyQuestBattleDescription": "While commencing a single-player quest combat, commence with the difficulty Very Easy.",
-    "AutoMovePetPositionTitle": "Auto move the Pet",
+    "AutoMovePetPositionTitle": "Auto Move The Pet",
     "AutoMovePetPositionDescription": "After configuring and entering an eight-player duty, if there is a Pet summoned by the user, the Pet will automatically move according to the positions set in the timeline.",
     "AutoMovePetPosition-Delay": "Time since battle started",
     "AutoMovePetPosition-GetCurrent": "Fetch player's current position",
