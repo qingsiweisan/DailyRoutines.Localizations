@@ -1018,7 +1018,6 @@
     "AutoMarksFinder-ScanPoints": "Scan Points:",
     "AutoMarksFinder-UpdateSpawnPointsRet": "Updated {0} Scanned Points",
     "AutoMarksFinder-DetectPowerfulMark": "Found Lv.{0} Notorious Monster: {1} at location {2:F2}",
-    "AutoMarksFinder-DelayTooLowWarning": "The delay is too low and can easily trigger movement speed detection. Please adjust it to more than 5000 milliseconds.\n(Please ignore if you are not a chinese server)",
     "InstantDismountDescription": "Upon attempting to dismount, immediately step down to the ground.",
     "InstantDismountTitle": "Instantly Dismount",
     "PartyFinderSettingRecordTitle": "Auto Save Recruitment Edit Info",
