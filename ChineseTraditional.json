@@ -1468,8 +1468,8 @@
     "FastContentsFinderRegisterDescription": "為任務搜索器內的各任務新增快捷按鈕, 用於一鍵以默認、解除限制、自由探索等設置參加對應的任務",
     "FastContentsFinderRegister-HoldConflictKeyToToggle": "按住打斷快速鍵以切換",
     "AutoFateSync-AutoTankStance": "當自身為防護職業時自動開啟盾姿",
-    "Exchange": "交换",
-    "FastGrandCompanyExchangeTitle": "快捷军票交换所交换物品",
-    "FastGrandCompanyExchangeDescription": "在 军票交换所 界面新增快捷交换悬浮窗, 便于直接使用物品名快捷交换对应的物品",
-    "FastGrandCompanyExchange-CommandHelp": "<物品名 (大小写不敏感)> (<数量>) 在军票交换所内交换指定数量指定的物品 (若物品名为 default 则直接使用悬浮窗内的相关配置, 此时无需传入数量)"
+    "Exchange": "交換",
+    "FastGrandCompanyExchangeTitle": "快捷軍票交換所交換物品",
+    "FastGrandCompanyExchangeDescription": "在 軍票交換所 界面新增快捷交換懸浮窗, 便於直接使用物品名快捷交換對應的物品",
+    "FastGrandCompanyExchange-CommandHelp": "<物品名 (大小寫不敏感)> (<數量>) 在軍票交換所內交換指定數量指定的物品 (若物品名為 default 則直接使用懸浮窗內的相關配置, 此時無需傳入數量)"
 }
