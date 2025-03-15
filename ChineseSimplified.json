@@ -1018,7 +1018,6 @@
     "AutoMarksFinder-ScanPoints": "扫描点",
     "AutoMarksFinder-UpdateSpawnPointsRet": "已更新 {0} 个扫描点位",
     "AutoMarksFinder-DetectPowerfulMark": "发现 {0} 级恶名精英: {1} 于 {2:F2}",
-    "AutoMarksFinder-DelayTooLowWarning": "延迟过低, 容易触发移速检测, 请调整至 5000 毫秒以上\n(非国服请忽略)",
     "InstantDismountDescription": "在尝试下坐骑时, 立刻来到下方地面并取消骑乘坐骑",
     "InstantDismountTitle": "即刻下坐骑",
     "PartyFinderSettingRecordTitle": "自动保存招募编辑信息",
