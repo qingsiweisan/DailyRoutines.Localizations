@@ -711,7 +711,7 @@
     "LiveAnonymousMode-NameObfuscationMethod": "名前のシャッフル方式",
     "LiveAnonymousMode-WithJobPrefix": "ジョブ名を名前の前に付ける",
     "LiveAnonymousMode-ModelObfuscationMethod": "モデルシャッフル方式",
-    "LiveAnonymousMode-ObfuscateDamageNumber": "混淆伤害数字",
+    "LiveAnonymousMode-ObfuscateDamageNumber": "ダメージ数値の秘匿化",
     "LiveAnonymousMode-FakePlayerNameInputHint": "指定したくない場合は、空白のままにしてください。\n\n国際版のプレイヤーである場合、半角スペースで区切られた二段式の名前を入力してください。\n例:「Naoki Yoshida」\n\nこの項目を変更した後は、モジュールを一度再起動する必要があります。",
     "LiveAnonymousMode-PartyListUpdateHelp": "ゲーム内のPTリスト画面は遅延読み込み形式のため、表示を更新するには、一度募集を開始・参加してから閉じる・退出することで手動でリフレッシュを行い、混同されたプレイヤー名を表示させることができます。",
     "LiveAnonymousMode-ChatNoObfuscationHelp": "モジュールは元のテキストを破壊しない混同ロジックを採用しているため、パフォーマンス上の理由からメッセージウィンドウ内のチャット情報は混同されていません。OBS などのソフトウェアで不透明な画像を使用してメッセージウィンドウを覆うだけで対応可能です。",
