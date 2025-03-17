@@ -1477,5 +1477,8 @@
     "Exchange": "交換",
     "FastGrandCompanyExchangeTitle": "快捷軍票交換所交換物品",
     "FastGrandCompanyExchangeDescription": "在 軍票交換所 界面新增快捷交換懸浮窗, 便於直接使用物品名快捷交換對應的物品",
-    "FastGrandCompanyExchange-CommandHelp": "<物品名 (大小寫不敏感)> (<數量>) 在軍票交換所內交換指定數量指定的物品 (若物品名為 default 則直接使用懸浮窗內的相關配置, 此時無需傳入數量)"
+    "FastGrandCompanyExchange-CommandHelp": "<物品名 (大小寫不敏感)> (<數量>) 在軍票交換所內交換指定數量指定的物品 (若物品名為 default 則直接使用懸浮窗內的相關配置, 此時無需傳入數量)",
+    "FastJoinAnotherPartyRecruitmentTitle": "快捷退队加入招募",
+    "FastJoinAnotherPartyRecruitmentDescription": "为招募详情界面新增一个按钮, 点击以一键退出当前队伍并加入目标招募",
+    "FastJoinAnotherPartyRecruitment-LeaveAndJoin": "退队并加入"
 }
