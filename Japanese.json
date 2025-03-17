@@ -715,7 +715,7 @@
     "LiveAnonymousMode-FakePlayerNameInputHint": "指定したくない場合は、空白のままにしてください。\n\n国際版のプレイヤーである場合、半角スペースで区切られた二段式の名前を入力してください。\n例:「Naoki Yoshida」\n\nこの項目を変更した後は、モジュールを一度再起動する必要があります。",
     "LiveAnonymousMode-PartyListUpdateHelp": "ゲーム内のPTリスト画面は遅延読み込み形式のため、表示を更新するには、一度募集を開始・参加してから閉じる・退出することで手動でリフレッシュを行い、混同されたプレイヤー名を表示させることができます。",
     "LiveAnonymousMode-ChatNoObfuscationHelp": "モジュールは元のテキストを破壊しない混同ロジックを採用しているため、パフォーマンス上の理由からメッセージウィンドウ内のチャット情報は混同されていません。OBS などのソフトウェアで不透明な画像を使用してメッセージウィンドウを覆うだけで対応可能です。",
-    "LiveAnonymousMode-ObfuscateTime": "混淆时间显示",
+    "LiveAnonymousMode-ObfuscateTime": "時間表示の暗号化",
     "ChatLog": "メッセージウィンドウ",
     "Tip": "通知",
     "AutoNumericInputMax-MaxValue": "上限",
@@ -1478,7 +1478,7 @@
     "FastGrandCompanyExchangeTitle": "軍票交換所でのアイテム交換を簡略化",
     "FastGrandCompanyExchangeDescription": "軍票交換所の画面上部に、アイテム名を直接入力して対応するアイテムを即座に交換することができる、ショートカット交換用のオーバーレイを表示",
     "FastGrandCompanyExchange-CommandHelp": "<アイテム名> <数量(省略可)> で、軍票交換所で指定したアイテムを指定数量分交換する\n 数量を省略した場合は、軍票全てを指定したアイテムに交換する。\nアイテム名が \"default\" の場合は、オーバーレイ表示内の設定を直接使用し、この場合は数量を入力する必要はない\n(使用例: /pdr gce ベンチャースクリップ 2)",
-    "FastJoinAnotherPartyRecruitmentTitle": "快捷退队加入招募",
-    "FastJoinAnotherPartyRecruitmentDescription": "为招募详情界面新增一个按钮, 点击以一键退出当前队伍并加入目标招募",
-    "FastJoinAnotherPartyRecruitment-LeaveAndJoin": "退队并加入"
+    "FastJoinAnotherPartyRecruitmentTitle": "迅速にPTを抜けて募集に参加",
+    "FastJoinAnotherPartyRecruitmentDescription": "募集詳細画面に新しいボタンを追加し、クリックすると現在のPTから即座に抜けて目標の募集に参加できるようにします。",
+    "FastJoinAnotherPartyRecruitment-LeaveAndJoin": "離脱して参加"
 }
