@@ -940,7 +940,7 @@
     "InstantPlaceLocationActionDescription": "Automatically and instantly cast ground-targeted action at the mouse pointer without requiring further confirmation",
     "InstantPlaceLocationActionTitle": "Instantly Place Ground-Targeted Action",
     "LimitlessTargetDashActionDescription": "Allow dash actions that require a target to ignore distance limits and be able to execute instantly upon selecting a target",
-    "LimitlessTargetDashActionTitle": "Limitless Target Dash Action",
+    "LimitlessTargetDashActionTitle": "Disable Range Limits Of Gap Closer Actions",
     "BatchDisable": "Batch Disable",
     "BatchEnable": "Batch Enable",
     "ConflictModules": "Conflict Modules",
