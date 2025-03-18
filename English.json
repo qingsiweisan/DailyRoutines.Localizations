@@ -713,7 +713,7 @@
     "LiveAnonymousMode-ModelObfuscationMethod": "Model Obfuscation",
     "LiveAnonymousMode-ObfuscateDamageNumber": "Hide damage values",
     "LiveAnonymousMode-FakePlayerNameInputHint": "If you don't want to specify, please leave it blank\n\nIf you are an international server player, please enter a two-part name separated by a half-width space\n\nFor example: \"Naoki Yoshida\"\n\nAfter modifying this item, you need to restart the module to take effect",
-    "LiveAnonymousMode-PartyListUpdateHelp": "The in-game party list interface is lazy loaded, so you can manually trigger a refresh and see obfuscated player names by either starting a recruit once or joining and then closing or leaving.",
+    "LiveAnonymousMode-PartyListUpdateHelp": "The in-game party list screen is lazy-loaded, so you can manually trigger the display of anonymized player names by opening the party finder and joining, or closing it and leaving.",
     "LiveAnonymousMode-ChatNoObfuscationHelp": "由于模块采取的是不破坏原始文本的混淆逻辑, 出于性能上的考虑, 没有对消息窗口内聊天信息进行混淆, 你可以简单地在 OBS 或类似软件里使用一张不透明图像遮盖消息窗口即可",
     "LiveAnonymousMode-ObfuscateTime": "混淆时间显示",
     "ChatLog": "消息窗口",
