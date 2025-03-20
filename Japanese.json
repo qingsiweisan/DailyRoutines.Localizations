@@ -487,7 +487,7 @@
     "PartyFinderFilter-AddPreset": "新しい設定の追加",
     "PartyFinderFilter-CurrentMode": "現在の動作モード",
     "PartyFinderFilter-FilterDuplicate": "重複した募集をフィルタリングする",
-    "PartyFinderFilter-RoleCount": "职能数量（仅高难招募生效）",
+    "PartyFinderFilter-RoleCount": "职能人数上限（仅无密码高难招募生效，且排除已有相同职业招募）",
     "PartyFinderFilter-RoleCountTH": "T, 血奶, 盾奶",
     "PartyFinderFilter-RoleCountDPS": "近战, 远敏, 法系",
     "Settings-ModuleInfoAuthor": "作者",
