@@ -828,7 +828,7 @@
     "Commands-CommandHelp-ReloadAll": "すべてのモジュールを再読み込み",
     "Commands-CommandHelp-Search": "メイン画面を開き、指定したキーワード検索",
     "Commands-CommandHelp-Toggle": "指定されたモジュールの有効/無効を切り替える (モジュール内部名のみ使用可能)",
-    "Commands-CommandHelp-ToggleConfig": "切换指定模块配置悬浮窗界面的开关状态",
+    "Commands-CommandHelp-ToggleConfig": "指定モジュールの設定ポップアップウィンドウのオン/オフ状態を切り替える",
     "Commands-CommandHelp-TTS": "内蔵のTTS機能を使用して、指定されたテキストを読み上げる",
     "Commands-CommandHelp-Unload": "指定されたモジュールを無効にする (モジュール内部名のみ使用可能)",
     "Commands-FavOff": "フォルダ {0} 内の {1} 個のモジュールを無効にしました",
