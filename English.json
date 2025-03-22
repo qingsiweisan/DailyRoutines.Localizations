@@ -386,7 +386,7 @@
     "AutoMJIGather-StopWhenReachCaps": "When reach caps, stop gathering and send notification",
     "AutoMJIGatherDescription": "Automatically loop gathering Island Sanctuary items after finishing configuration and clicking start",
     "AutoMJIGatherTitle": "Auto Gather In Island Sanctuary ",
-    "AutoMode": "自动模式",
+    "AutoMode": "Automatic Mode",
     "AutoMount-CurrentMount": "Current Mount",
     "AutoMount-MountWhenCombatEnd": "When combat ends",
     "AutoMount-MountWhenGatherEnd": "When gathering ends",
