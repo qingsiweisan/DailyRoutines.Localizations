@@ -291,7 +291,7 @@
     "AutoLoginDescription": "Automatically login to the first login-able character in the settings by priority upon entering main title screen",
     "AutoLoginTitle": "Auto Login",
     "AutoLucidDreamingDescription": "If the current job can use Lucid Dreaming and is not a Black Mage, automatically use Lucid Dreaming when MP falls below the specified threshold.",
-    "AutoLucidDreamingTitle": "自动醒梦",
+    "AutoLucidDreamingTitle": "Auto Lucid Dreaming",
     "AutoManageInterruptActionDescription": "If the current target is not casting an interruptible action, prevent the use of interrupt actions (e.g., Interject, Head Graze)",
     "AutoManageInterruptActionTitle": "Auto Manage Interrupt Actions",
     "AutoMarkAetherCurrents-Discovered": "Attuned",
