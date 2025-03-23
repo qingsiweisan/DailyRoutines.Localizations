@@ -1263,7 +1263,7 @@
     "OptimiziedEnemyListTitle": "ゲームの敵対リスト画面の最適化",
     "Outdoors": "屋外",
     "PartyFinderFilter-AddPreset": "新しい設定の追加",
-    "PartyFinderFilter-DescriptionRegexFilter": "招募信息正则过滤",
+    "PartyFinderFilter-DescriptionRegexFilter": "募集情報の正規表現フィルター",
     "PartyFinderFilter-FilterDuplicate": "重複した募集をフィルタリングする",
     "PartyFinderFilter-HighEndFilter": "高難度コンテンツの募集フィルタリング",
     "PartyFinderFilter-HighEndFilterRoleCount": "既存のロール人数に基づいてフィルタリング",
