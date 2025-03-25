@@ -17,6 +17,7 @@
 - 模块标题: `<模块内部名称>Title` (例: `FastObjectInteractTitle`)
 - 模块描述: `<模块内部名称>Description` (例: `FastObjectInteractDescritpion`)
 - 模块内部语言: `<模块内部名称>-<具体名称>` (例: `FastObjectInteract-AddToBlacklist`)
+    - 注: 可以使用形如 `Commands-CommandHelp-FavOn` 的格式来更加清晰地分类你的本地化键
 
 ### 值
 
