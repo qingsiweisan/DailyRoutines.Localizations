@@ -1372,9 +1372,6 @@
     "Save": "保存",
     "SavedSuccessfully": "保存完了",
     "Scale": "ズーム",
-    "ScrollableTabsTitle": "可滚动标签页",
-    "ScrollableTabsDescription": "允许在部分界面上使用滚轮来切换标签页",
-    "ScrollableTabs-Invert": "反转滚动行为",
     "Search": "検索",
     "SearchResult": "検索結果",
     "SendChat": "チャットメッセージを送信",
@@ -1499,7 +1496,5 @@
     "WorldTravelCommandDescription": "/pdr worldtravel <サーバー> (大文字小文字の区別なし/部分一致) コマンドを追加し、三大都市内の任意の場所へのクイックワールド間テレポを実行する",
     "WorldTravelCommandTitle": "クイックワールド間テレポコマンド",
     "Yes": "はい",
-    "Zone": "ゾーン",
-    "AutoConvertMapLinkTitle": "座標をマップリンクへ自動変換",
-    "AutoConvertMapLinkDescription": "座標テキスト送信時に、クリック可能なマップリンクへ自動変換"
+    "Zone": "ゾーン"
 }
