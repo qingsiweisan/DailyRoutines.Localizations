@@ -1497,6 +1497,6 @@
     "WorldTravelCommandTitle": "クイックワールド間テレポコマンド",
     "Yes": "はい",
     "Zone": "ゾーン",
-    "AutoConvertMapLinkTitle": "自动转换地图链接",
-    "AutoConvertMapLinkDescription": "在发送坐标文本时, 将文本转换为可以点击的地图链接"
+    "AutoConvertMapLinkTitle": "座標をマップリンクへ自動変換",
+    "AutoConvertMapLinkDescription": "座標テキスト送信時に、クリック可能なマップリンクへ自動変換"
 }
