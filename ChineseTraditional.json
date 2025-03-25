@@ -1372,9 +1372,6 @@
     "Save": "保存",
     "SavedSuccessfully": "保存成功",
     "Scale": "縮放",
-    "ScrollableTabsTitle": "可滚动标签页",
-    "ScrollableTabsDescription": "允许在部分界面上使用滚轮来切换标签页",
-    "ScrollableTabs-Invert": "反转滚动行为",
     "Search": "搜索",
     "SearchResult": "搜索結果",
     "SendChat": "發送聊天信息",
@@ -1499,7 +1496,5 @@
     "WorldTravelCommandDescription": "添加 /pdr worldtravel <伺服器> (不區分大小寫/部分匹配) 指令,\n用於在三主城內的任意位置進行快捷跨界傳送",
     "WorldTravelCommandTitle": "快捷跨界傳送指令",
     "Yes": "是",
-    "Zone": "區域",
-    "AutoConvertMapLinkTitle": "自動轉換地圖連結",
-    "AutoConvertMapLinkDescription": "在發送坐標文本時, 將文本轉換為可以點擊的地圖連結"
+    "Zone": "區域"
 }
