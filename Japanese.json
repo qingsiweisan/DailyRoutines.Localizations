@@ -143,7 +143,7 @@
     "AutoConstantlyClickTitle": "ターボクリック機能",
     "AutoConstantlyInspectDescription": "埋もれた財宝鑑定結果UIが表示された時、自動的に「はい」ボタンを押し連続鑑定する。",
     "AutoConstantlyInspectTitle": "連続鑑定自動化",
-    "AutoConvertMapLinkDescription": "在发送包含地图坐标的文本信息时, 自动将其转换为可点击交互的地图坐标链接",
+    "AutoConvertMapLinkDescription": "地図座標を含むテキストメッセージを送信する場合、クリック可能なマップリンクに自動的に変換します。",
     "AutoConvertMapLinkTitle": "自动转换地图坐标信息",
     "AutoCountBlacklistedDescription": "サーバー情報バーの形式で、設定範囲内のブラックリストに登録されたプレイヤーの数を表示する",
     "AutoCountBlacklistedTitle": "自動的に周辺のブラックリストに登録されたプレイヤーの数を表示する",
