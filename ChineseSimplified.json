@@ -294,6 +294,7 @@
     "AutoLoginTitle": "自动登录",
     "AutoLucidDreamingDescription": "若当前职业可使用 醒梦 技能且非黑魔法师, 则当魔力值低于指定阈值时, 自动使用 醒梦 技能",
     "AutoLucidDreamingTitle": "自动醒梦",
+    "AutoLucidDreaming-Notification": "已自动使用醒梦, 当前 MP: {0}",
     "AutoManageInterruptActionDescription": "若当前目标不在咏唱可打断的技能, 则禁止使用打断类技能 (插言、伤头)",
     "AutoManageInterruptActionTitle": "自动管控打断技能",
     "AutoMarkAetherCurrents-Discovered": "已共鸣",
