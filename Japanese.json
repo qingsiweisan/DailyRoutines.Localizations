@@ -294,6 +294,7 @@
     "AutoLoginTitle": "自動ログイン",
     "AutoLucidDreamingDescription": "現在のジョブがルーシッドドリームを使用可能であり、かつ黒魔道士でない場合、MPが指定した閾値を下回るとルーシッドドリームを自動で使用する。",
     "AutoLucidDreamingTitle": "自動ルーシッドドリーム",
+    "AutoLucidDreaming-Notification": "已自动使用醒梦, 当前 MP: {0}",
     "AutoManageInterruptActionDescription": "現在のターゲットが中断可能なスキルを詠唱中でない場合、詠唱中断系のスキル(インタージェクト、ヘッドグレイズなど)の使用を禁止する",
     "AutoManageInterruptActionTitle": "詠唱中断スキルの使用制限",
     "AutoMarkAetherCurrents-Discovered": "交感した",
