@@ -275,7 +275,7 @@
     "AutoLogin-ServerName": "World name",
     "AutoLoginDescription": "Automatically login to the first login-able character in the settings by priority upon entering main title screen",
     "AutoLoginTitle": "Auto Login",
-    "AutoLucidDreaming-Notification": "已自动使用醒梦, 当前 MP: {0}",
+    "AutoLucidDreaming-Notification": "Automatically used Lucid Dreaming, current MP: {0}",
     "AutoLucidDreamingDescription": "If the current job can use Lucid Dreaming and is not a Black Mage, automatically use Lucid Dreaming when MP falls below the specified threshold.",
     "AutoLucidDreamingTitle": "Auto Lucid Dreaming",
     "AutoManageInterruptActionDescription": "If the current target is not casting an interruptible action, prevent the use of interrupt actions (e.g., Interject, Head Graze)",
