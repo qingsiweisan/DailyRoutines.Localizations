@@ -130,7 +130,7 @@
     "AutoConvertMapLinkTitle": "自动转换地图坐标信息",
     "AutoCountBlacklistedDescription": "Display the number of players in Blacklist within the set range in the server information bar.",
     "AutoCountBlacklistedTitle": "Auto Count Players In Blacklist Nearby",
-    "AutoCountBlacks-DtrEntry-Text": "Players in blacklist around",
+    "AutoCountBlacks-DtrEntry-Text": "Players in blacklist around: {0}",
     "AutoCountPlayers-Locate": "Locate",
     "AutoCountPlayers-PlayersAroundCount": "Players Nearby",
     "AutoCountPlayers-PlayersAroundInfo": "Nearby Players List",
