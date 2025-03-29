@@ -1104,7 +1104,7 @@
     "HealerHelper-MarkOnPartyList": "标记在小队列表旁",
     "HealerHelper-SingleTargetHeal": "单体治疗",
     "HealerHelperDescription": "配置完成后, 若当前职业为治疗职业, 则在使用特定技能时根据设定对其使用进行优化",
-    "HealerHelperTitle": "治疗职业技能优化",
+    "HealerHelperTitle": "Healer Helper",
     "HoldCtrlToDelete": "Delete (hold Ctrl)",
     "HQ": "HQ",
     "HullbreakerIsleHelperDescription": "After entering the duty Hullbreaker Isle, automatically mark all the iron leg traps on the ground and all the mimics that need to be contacted.",
