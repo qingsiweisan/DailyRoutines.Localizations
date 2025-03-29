@@ -1396,7 +1396,7 @@
     "Settings-Auth-ExpireNotification": "Credential: {0}\nExpire Time: {1}\nRemaining Time Until Expire: {2} days",
     "Settings-Auth-FailContactingServer": "Failed to get auth info. Please check your local network settings.",
     "Settings-Auth-Help": "About Auth",
-    "Settings-Auth-HelpContent": "Daily Routines 是免费插件, 没有任何功能需要收费获取\n\n但部分功能/模块 (约三分之一) 需要通过定期且免费的在线验证来开放, 同时, 如果你希望获得我们的支持或帮助, 也需要至少通过一次在线验证\n\n要完成验证, 请先加入我们的 Discord 服务器 (主界面左上角有相关跳转按钮), 并根据其中指引私信机器人自助完成",
+    "Settings-Auth-HelpContent": "Daily Routines is a free plugin, and no features require payment.\n\nHowever, some features/modules (about one-third) need to be opened through regular and free online verification. At the same time, if you want to get our support or help, you also need to pass at least one online verification.\n\nTo complete the verification, please join our Discord server (there is a relevant jump button in the upper left corner of the main interface), and follow the instructions to send a private message to the robot to complete it by yourself.",
     "Settings-Auth-OnlineAuthInfo": "Online Auth Info",
     "Settings-AuthServiceState": "Service",
     "Settings-AuthState": "Credentials",
