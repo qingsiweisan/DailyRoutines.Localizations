@@ -1162,7 +1162,6 @@
     "InstantReturnTitle": "即刻返回",
     "InstantSprintDescription": "令衝刺功能不再進入冷卻",
     "InstantSprintTitle": "即刻衝刺",
-    "InstantTeleport-DelayHelp": "此處的 延遲 代表: 由 本地發出開始傳送請求 到 本地發出結束傳送讀條請求 之間的間隔\n若你頻繁出現傳送讀條或傳送失敗現象, \n請在確保非其他插件影響的情況下, 根據你的網絡情況手動調整此處的延遲設置",
     "InstantTeleport-DisableInParty": "在小隊中禁用",
     "InstantTeleportDescription": "令傳送功能無需詠唱等待, 即刻完成",
     "InstantTeleportTitle": "即刻傳送",
