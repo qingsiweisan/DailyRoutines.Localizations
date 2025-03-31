@@ -1162,7 +1162,6 @@
     "InstantReturnTitle": "Instant Return",
     "InstantSprintDescription": "Remove Sprint Cooldown",
     "InstantSprintTitle": "Instant Sprint",
-    "InstantTeleport-DelayHelp": "Delay represents the interval between: local teleport request sent and local cast completion request sent\nIf you frequently experience teleport casting bars or failed teleports,\nplease adjust this delay manually based on your network conditions after confirming no other plugin interference",
     "InstantTeleport-DisableInParty": "Disable in party",
     "InstantTeleportDescription": "Make teleport instant, no cast time",
     "InstantTeleportTitle": "Instant Teleport",
