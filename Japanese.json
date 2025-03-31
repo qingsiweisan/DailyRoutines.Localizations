@@ -1162,7 +1162,6 @@
     "InstantReturnTitle": "即デジョン",
     "InstantSprintDescription": "スプリントがクールダウンしないようにする",
     "InstantSprintTitle": "即スプリント",
-    "InstantTeleport-DelayHelp": "ここでの「ディレイ」とは、ローカルから転送開始要求を発行してからローカルから転送終了バー要求を発行するまでの間隔を意味します。\n転送バーや転送失敗が頻発する場合、他のプラグインが影響していないことを確認したうえで、ネットワーク状況に応じて遅延設定を手動で調整してください。",
     "InstantTeleport-DisableInParty": "パーティー内で無効化する",
     "InstantTeleportDescription": "テレポのキャストとリキャストを無視する",
     "InstantTeleportTitle": "即テレポ",
