@@ -1404,8 +1404,6 @@
     "Settings-Auth-Help": "認証サポート",
     "Settings-Auth-HelpContent": "Daily Routines は無料のプラグインであり、すべての機能を無料で利用できます。\n\nただし、一部の機能やモジュール（約3分の1）は、定期的かつ無料のオンライン認証を行うことで利用可能になります。また、私たちのサポートやヘルプを受けたい場合も、少なくとも一度はオンライン認証を完了する必要があります。\n\n認証を完了するには、まず Discord サーバーに参加してください（メイン画面の左上に関連するジャンプボタンがあります）。その後、サーバー内の案内に従い、ボットにダイレクトメッセージを送信してセルフサービス認証を行ってください。",
     "Settings-Auth-OnlineAuthInfo": "オンライン認証情報",
-    "Settings-AuthServiceState": "認証サービスの状態",
-    "Settings-AuthState": "証明書のアクティベーション状態",
     "Settings-AuthToken": "セルフ認証コード",
     "Settings-BlacklistedNotice": "あなたはブラックリストに追加されており、Daily Routinesを使用できません。",
     "Settings-Changelog": "更新履歴",
