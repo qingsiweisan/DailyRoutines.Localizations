@@ -1404,8 +1404,6 @@
     "Settings-Auth-Help": "驗證幫助",
     "Settings-Auth-HelpContent": "Daily Routines 是免費插件, 沒有任何功能需要收費獲取\n\n但部分功能/模組 (約三分之一) 需要透過定期且免費的在線驗證來開放, 同時, 如果你希望獲得我們的支持或幫助, 也需要至少通過一次在線驗證\n\n要完成驗證, 請先加入我們的 Discord 伺服器 (主界面左上角有相關跳轉按鈕), 並根據其中指引私信機器人自助完成",
     "Settings-Auth-OnlineAuthInfo": "在線驗證信息",
-    "Settings-AuthServiceState": "認證服務狀態",
-    "Settings-AuthState": "憑證啟用狀態",
     "Settings-AuthToken": "自助驗證口令",
     "Settings-BlacklistedNotice": "你已被拉入黑名單, 無法使用 Daily Routines",
     "Settings-Changelog": "更新日誌",
