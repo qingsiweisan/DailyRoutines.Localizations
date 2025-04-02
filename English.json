@@ -721,7 +721,6 @@
     "AutoTankStance-OnlyAutoStanceWhenOneTankHelp": "Selecting this option means: When a dungeon allows only one tank job by default, Tank Stance will be used automatically.\n\nExample: (By default)\n\nWhen entering a Dungeon/Raid, if the party can only have one tank job, Tank Stance will be used automatically.\nWhen entering a Trial/Alliance Raid, if the party can have up to two tank jobs, Tank Stance will not be used automatically.",
     "AutoTankStanceDescription": "If it is currently a protective class, the shield posture is automatically enabled after entering the replica\nAuto tank stance when entering duties if you are tank",
     "AutoTankStanceTitle": "Auto Tank Stance",
-    "AutoThrottleTenChiJin-DisableOtherActions": "Disable other actions during weaving Shinobi",
     "AutoThrottleTenChiJinDescription": "When weaving Shinobi, each Shinobi action can only be pressed once during the sequence.",
     "AutoThrottleTenChiJinTitle": "Auto Throttle Shinobi Actions",
     "AutoTMPDescription": "Auto repeat Moogle's Paw after interacting with the game machine.",
