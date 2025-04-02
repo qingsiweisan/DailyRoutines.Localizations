@@ -721,7 +721,6 @@
     "AutoTankStance-OnlyAutoStanceWhenOneTankHelp": "勾选本项意为:\n当副本默认状态下最多只能有一名防护职业时, 自动开启盾姿\n\n例: (默认状态下)\n当进入迷宫挑战/团队任务时, 队伍最多只能有一名防护职业, 自动开启盾姿\n当进入讨伐歼灭战/大型任务时, 队伍最多能有两名防护职业, 不自动开启盾姿",
     "AutoTankStanceDescription": "若当前为防护职业, 则在进入副本后, 自动开启盾姿",
     "AutoTankStanceTitle": "自动开启盾姿",
-    "AutoThrottleTenChiJin-DisableOtherActions": "结印期间禁用其他技能",
     "AutoThrottleTenChiJinDescription": "使用忍者结印技能时, 使每个结印技能在本次结印期间仅能被按下一次",
     "AutoThrottleTenChiJinTitle": "自动限制结印技能",
     "AutoTMPDescription": "交互游戏机后, 自动开始重复游玩莫古抓球机",
