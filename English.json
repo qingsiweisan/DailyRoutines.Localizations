@@ -1110,7 +1110,7 @@
     "HealerHelper-EasyHeal-HealThresholdHelp": "If no teammate's HP is below the threshold, casting of the according skill will be blocked. ",
     "HealerHelper-EasyHeal-Message": "Heal target {0} ({1} {2})",
     "HealerHelper-EasyHeal-OverhealWarning": "Warning: Current threshold is too high which may lead to overheal.",
-    "HealerHelper-EasyHealTitle": "Healing target redirection",
+    "HealerHelper-EasyHealTitle": "Healing Target Redirection",
     "HealerHelper-EasyRedirectDescription": "When using the {0} skill, if the current target is empty or an enemy, the skill will be automatically redirected to the target according to the rules.",
     "HealerHelper-LogsApi-Status": "API Key Status",
     "HealerHelper-MarkOnPartyList": "Display mark next to Party list",
