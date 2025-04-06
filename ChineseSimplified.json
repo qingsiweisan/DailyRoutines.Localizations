@@ -157,6 +157,8 @@
     "AutoDiscardTitle": "自动丢弃物品",
     "AutoDismountDescription": "当骑乘坐骑时, 若尝试使用可用技能, 则自动下坐骑并使用技能",
     "AutoDismountTitle": "自动下坐骑",
+    "AutoDisplayRetainerPlayerNameDescription": "打开市场交易版搜索结果界面时, 自动将已有数据记录的雇员名称转为高亮显示其所属玩家名称",
+    "AutoDisplayRetainerPlayerNameTitle": "自动显示雇员归属玩家名",
     "AutoDrawMotifs-DrawWhenOutOfCombat": "脱战后自动重新绘制",
     "AutoDrawMotifsDescription": "若当前职业为绘灵法师, 则在进入副本、触发重新挑战、脱战后, 自动使用当前可用的彩绘技能",
     "AutoDrawMotifsTitle": "自动绘画",
