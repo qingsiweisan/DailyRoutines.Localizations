@@ -157,6 +157,8 @@
     "AutoDiscardTitle": "Auto Discard Items",
     "AutoDismountDescription": "Auto dismount when you are trying to use available actions on mount.",
     "AutoDismountTitle": "Auto Dismount",
+    "AutoDisplayRetainerPlayerNameDescription": "打开市场交易版搜索结果界面时, 自动将已有数据记录的雇员名称转为高亮显示其所属玩家名称",
+    "AutoDisplayRetainerPlayerNameTitle": "自动显示雇员归属玩家名",
     "AutoDrawMotifs-DrawWhenOutOfCombat": "Auto Redraw When Out of Combat",
     "AutoDrawMotifsDescription": "If the current job is Pictomancer, automatically use available Motiff actions upon entering or recommencing a duty, or exiting combat",
     "AutoDrawMotifsTitle": "Auto Draw Motifs",
