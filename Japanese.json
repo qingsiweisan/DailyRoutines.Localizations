@@ -157,6 +157,8 @@
     "AutoDiscardTitle": "アイテムの自動廃棄/売却",
     "AutoDismountDescription": "マウント騎乗時にスキルを使うとすると、自動的にマウントから降り、スキルを使用します。",
     "AutoDismountTitle": "自動マウント解除",
+    "AutoDisplayRetainerPlayerNameDescription": "打开市场交易版搜索结果界面时, 自动将已有数据记录的雇员名称转为高亮显示其所属玩家名称",
+    "AutoDisplayRetainerPlayerNameTitle": "自动显示雇员归属玩家名",
     "AutoDrawMotifs-DrawWhenOutOfCombat": "戦闘終了後、自動的にピクト〇〇する",
     "AutoDrawMotifsDescription": "現在のジョブがピクトマンサーの時、コンテンツ突入時、リスタート時、戦闘終了後に現在使用可能なピクトスキルを自動的に使用する",
     "AutoDrawMotifsTitle": "【PCT】自動でピクト〇〇",
