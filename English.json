@@ -1268,7 +1268,7 @@
     "Number": "Number",
     "Offset": "Offset",
     "OnlineStatus": "Online Status",
-    "OnlyInCombat": "仅当战斗中时",
+    "OnlyInCombat": "Enable only in combat",
     "OnlyInDuty": "Valid only in Duties",
     "OnlyNotifyWhenBackground": "Only Notify When Background",
     "OnlyValidWhenSolo": "Enable only when alone",
