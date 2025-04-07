@@ -159,6 +159,8 @@
     "AutoDiscardTitle": "Auto Discard Items",
     "AutoDismountDescription": "Auto dismount when you are trying to use available actions on mount.",
     "AutoDismountTitle": "Auto Dismount",
+    "AutoDisplayDutyReadyLeftTimeDescription": "任务出发准备确认界面出现后, 自动在其内显示距离超时的剩余时间文本",
+    "AutoDisplayDutyReadyLeftTimeTitle": "自动显示准备确认剩余时间",
     "AutoDisplayMitigationInfoDescription": "The actual percentage of all the mitigation currently applied, including the mitigation status on the character and the mitigation actions applied on the target, will be displayed in the server info bar.",
     "AutoDisplayMitigationInfoTitle": "Auto Display Mitigation Details",
     "AutoDisplayRetainerPlayerNameDescription": "Display the actual owners of the retainers selling items on the market board in highlights according the existed data, instead of the names of retainers themselves.",
