@@ -159,6 +159,8 @@
     "AutoDiscardTitle": "自动丢弃物品",
     "AutoDismountDescription": "当骑乘坐骑时, 若尝试使用可用技能, 则自动下坐骑并使用技能",
     "AutoDismountTitle": "自动下坐骑",
+    "AutoDisplayDutyReadyLeftTimeDescription": "任务出发准备确认界面出现后, 自动在其内显示距离超时的剩余时间文本",
+    "AutoDisplayDutyReadyLeftTimeTitle": "自动显示准备确认剩余时间",
     "AutoDisplayMitigationInfoDescription": "当自身拥有减伤效果, 或目标拥有伤害降低效果时, 自动计算等效减伤值, 并在服务器信息栏显示效果一览",
     "AutoDisplayMitigationInfoTitle": "自动显示减伤信息",
     "AutoDisplayRetainerPlayerNameDescription": "打开市场交易版搜索结果界面时, 自动将已有数据记录的雇员名称转为高亮显示其所属玩家名称",
