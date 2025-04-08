@@ -108,6 +108,8 @@
     "AutoCheckFoodUsageTitle": "自動檢查自身食物狀態",
     "AutoCheckItemLevelDescription": "進入副本後, 自動檢查小隊所有成員的裝等, 並突出標記裝等異常的隊員",
     "AutoCheckItemLevelTitle": "自動檢查裝等",
+    "AutoClaimItemIgnoringMismatchJobAndLevelDescription": "领取/交换/购买物品时, 自动确认因职业或等级与目标物品不符而额外产生的提示框",
+    "AutoClaimItemIgnoringMismatchJobAndLevelTitle": "自动忽略领取物品时职业等级相符需求",
     "AutoClaimPVPRewardsDescription": "打開星裡路標界面, 並點擊開始後, 自動領取所有待領取的系列賽獎勵",
     "AutoClaimPVPRewardsTitle": "自動領取戰利水晶",
     "AutoCollectableExchangeDescription": "打開收藏品交易界面, 並點擊開始後, 自動交易該欄目下所有可用收藏品",
