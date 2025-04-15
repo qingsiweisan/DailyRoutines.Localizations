@@ -616,7 +616,6 @@
     "AutoRetainerWork-PriceAdjust-PriceMaximum": "最高可接受價格",
     "AutoRetainerWork-PriceAdjust-PriceMaxReduction": "可接受降價值",
     "AutoRetainerWork-PriceAdjust-PriceMinimum": "最低可接受價格",
-    "AutoRetainerWork-PriceAdjust-RequestMarketAgain": "獲取市場數據失敗, 正在嘗試重新獲取",
     "AutoRetainerWork-PriceAdjust-ReturnAllToInventory": "全部收回 (背包)",
     "AutoRetainerWork-PriceAdjust-ReturnAllToRetainer": "全部收回 (雇員)",
     "AutoRetainerWork-PriceAdjust-SendProcessMessage": "發送改價過程詳情消息",
