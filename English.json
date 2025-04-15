@@ -616,7 +616,6 @@
     "AutoRetainerWork-PriceAdjust-PriceMaximum": "Max Acceptable Price",
     "AutoRetainerWork-PriceAdjust-PriceMaxReduction": "Acceptable Price Reduction",
     "AutoRetainerWork-PriceAdjust-PriceMinimum": "Min Acceptable Price",
-    "AutoRetainerWork-PriceAdjust-RequestMarketAgain": "Failed to fetch market data, attempting to retrieve again",
     "AutoRetainerWork-PriceAdjust-ReturnAllToInventory": "Retrieve All (Inventory)",
     "AutoRetainerWork-PriceAdjust-ReturnAllToRetainer": "Retrieve All (Retainer)",
     "AutoRetainerWork-PriceAdjust-SendProcessMessage": "Send Price Adjustment Details Notification",
