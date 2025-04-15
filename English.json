@@ -37,6 +37,8 @@
     "AutoAdventure-VistaQuestNotFinish": "Not-Completed Sightseeing Log Quest",
     "AutoAdventureDescription": "After clicking start, automatically complete all Sightseeing Log allowed under the current time/weather",
     "AutoAdventureTitle": "Auto Sightseeing Log",
+    "AutoAllowMultipleGamesDescription": "自动解除游戏本身对于多开游戏实例 (≤ 2) 的限制",
+    "AutoAllowMultipleGamesTitle": "自动解除游戏多开限制",
     "AutoAntiAfkDescription": "Reset the relevant timer within the game at fixed intervals to prevent being automatically set to AFK state",
     "AutoAntiAfkTitle": "Auto Anti AFK",
     "AutoAntiKnockback-AdjustDistanceMutiplier": "Distance Multiplier",
