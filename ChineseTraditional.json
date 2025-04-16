@@ -803,6 +803,8 @@
     "BetterFollow-UnMountWhenFollowUnMount": "與跟隨目標一同下坐騎",
     "BetterFollowDescription": "解除遊戲原生自動跟隨的目標限制, 且能夠自動鎖定目標並重新跟隨",
     "BetterFollowTitle": "更好的自動跟隨",
+    "BetterPartyFinderSortDescription": "让队员招募界面内的 升序/降序排列 功能精准按照各招募剩余时间多少排序显示结果",
+    "BetterPartyFinderSortTitle": "更好的队员招募升降排序",
     "BetterStatusTimeDisplay-ChooseTimeFormat": "時間格式",
     "BetterStatusTimeDisplayDescription": "配置完成後, 使用選定的格式顯示長時間狀態效果的具體剩餘時間",
     "BetterStatusTimeDisplayTitle": "更好的狀態效果時間顯示",
