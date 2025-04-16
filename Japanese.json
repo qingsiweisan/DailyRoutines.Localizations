@@ -803,6 +803,8 @@
     "BetterFollow-UnMountWhenFollowUnMount": "追尾してるターゲットと共にマウントに降りる",
     "BetterFollowDescription": "ゲームの自動追尾のターゲット制限を解除し、自動的にターゲットをロックして再追尾できるようにします",
     "BetterFollowTitle": "自動追尾の改善",
+    "BetterPartyFinderSortDescription": "让队员招募界面内的 升序/降序排列 功能精准按照各招募剩余时间多少排序显示结果",
+    "BetterPartyFinderSortTitle": "更好的队员招募升降排序",
     "BetterStatusTimeDisplay-ChooseTimeFormat": "時間表示フォーマット",
     "BetterStatusTimeDisplayDescription": "選択したフォーマットで長時間ステータス効果の具体的な残り時間を表示します",
     "BetterStatusTimeDisplayTitle": "ステータス効果時間表示の改善",
