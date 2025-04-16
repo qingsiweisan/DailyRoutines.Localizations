@@ -803,6 +803,8 @@
     "BetterFollow-UnMountWhenFollowUnMount": "Dismount with the follow target",
     "BetterFollowDescription": "Unlocks the game's native follow target limitation, and is able to automatically lock on to the target and re-follow it.",
     "BetterFollowTitle": "Better Auto Follow",
+    "BetterPartyFinderSortDescription": "让队员招募界面内的 升序/降序排列 功能精准按照各招募剩余时间多少排序显示结果",
+    "BetterPartyFinderSortTitle": "更好的队员招募升降排序",
     "BetterStatusTimeDisplay-ChooseTimeFormat": "Time format",
     "BetterStatusTimeDisplayDescription": "After configurations, the remaining time of status with long durations will be displayed in the selected format.",
     "BetterStatusTimeDisplayTitle": "Display the status time better",
