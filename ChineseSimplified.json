@@ -1407,6 +1407,8 @@
     "ScrollableTabsTitle": "游戏界面标签页滚动切换",
     "Search": "搜索",
     "SearchResult": "搜索结果",
+    "SelectableRecruitmentTextDescription": "使招募详情的留言文本可以被自由选中复制, 并提供链接快捷跳转等解析",
+    "SelectableRecruitmentTextTitle": "可选中的招募留言文本",
     "SendChat": "发送聊天信息",
     "SendNotification": "发送通知",
     "SendTTS": "发送语音信息",
