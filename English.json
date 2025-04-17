@@ -1324,6 +1324,8 @@
     "PlayerTargetInfoExpandTitle": "Player Target Info Expand",
     "PleaseSearch": "Please search",
     "Plot": "Plot",
+    "PortraitAnimationTimeEditorDescription": "打开编辑肖像界面后, 可在悬浮窗内界面逐帧调整查看肖像角色动作并保存",
+    "PortraitAnimationTimeEditorTitle": "肖像角色动作逐帧编辑",
     "Position": "Position",
     "PrecedingModules": "Prerequisite Modules",
     "Prefix": "Prefix",
