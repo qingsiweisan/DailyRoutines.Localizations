@@ -422,7 +422,7 @@
     "AutoNotifyDutyConfirmDescription": "Automatically send a notification when the Duty Confirm window appears",
     "AutoNotifyDutyConfirmTitle": "Auto Notify Duty Commence",
     "AutoNotifyDutyName-NoticeMessage": "{0} Level {1}",
-    "AutoNotifyDutyNameDescription": "在进入副本时, 自动发送通知信息显示当前副本名称、装备品级要求等信息",
+    "AutoNotifyDutyNameDescription": "Auto notify the duty name, the item level requirements and other related information while entering a duty.",
     "AutoNotifyDutyNameTitle": "Auto Notify Duty Information",
     "AutoNotifyDutyStart-NotificationMessage": "Duty has begun.",
     "AutoNotifyDutyStartDescription": "Auto notifies the start of duty when duty starts",
