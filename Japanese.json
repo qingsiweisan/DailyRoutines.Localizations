@@ -8,6 +8,8 @@
     "AddSubCommand": "/pdr {0} コマンドを追加する",
     "Adjust": "調整",
     "Advance": "詳細設定",
+    "AdventurerPlateThroughInspectDescription": "为玩家检视界面新增按钮, 可点击其以一键打开当前检视玩家的冒险者铭牌",
+    "AdventurerPlateThroughInspectTitle": "玩家检视界面打开冒险者铭牌",
     "All": "すべて",
     "Alphascape3HelperDescription": "『時空の狭間オメガ：アルファ編3』に入った後、電力投射地点が出現した際に、自動的に『オメガジャマー』を繰り返し使用する",
     "Alphascape3HelperTitle": "『時空の狭間オメガ：アルファ編3』アシスト",
