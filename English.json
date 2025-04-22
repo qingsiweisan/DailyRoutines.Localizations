@@ -812,7 +812,7 @@
     "BetterStatusTimeDisplayTitle": "Display the status time better",
     "BetterTeleport-CommandHelp": "<以太之光/城内以太之晶名称 (大小写不敏感)> 直接传送至对应的以太之光/城内以太之晶处",
     "BetterTeleport-Notification": "正在传送至: {0}",
-    "BetterTeleportDescription": "用模块界面取代游戏原生界面, 提供高效的搜索、目的地预览功能, 并支持直接传送到任一城内以太之晶处",
+    "BetterTeleportDescription": "Replace the vanilla teleportation interface with a Daily Routines one, which provides better searching, navigation and destination previews and allows players to directly teleport to any aethernet shard in the city.",
     "BetterTeleportTitle": "Better Teleportation",
     "BetterWaitCommandDescription": "Remove native time and precision limits for \"wait\" in text commands",
     "BetterWaitCommandTitle": "Better Wait Command",
