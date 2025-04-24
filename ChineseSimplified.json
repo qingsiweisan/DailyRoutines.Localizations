@@ -1138,7 +1138,7 @@
     "HealerHelper-EasyHeal-OverhealTargetDescription": "过量治疗时的操作",
     "HealerHelper-EasyHeal-OverhealTarget-Prevent": "阻止技能释放",
     "HealerHelper-EasyHeal-OverhealTarget-Local": "重定向到自身",
-    "HealerHelper-EasyHeal-OverhealTarget-FirstTank": "重定向到 MT (不存在则退化为自身)",
+    "HealerHelper-EasyHeal-OverhealTarget-FirstTank": "重定向至 MT",
     "HealerHelper-EasyHealTitle": "重定向治疗目标",
     "HealerHelper-EasyRedirectDescription": "使用 {0} 技能时, 若当前目标为空或敌方时, 根据规则自动重定向技能释放对象",
     "HealerHelper-LogsApi-Status": "API Key 状态",
