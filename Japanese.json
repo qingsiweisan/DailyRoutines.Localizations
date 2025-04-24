@@ -739,7 +739,7 @@
     "AutoTenChiJinDescription": "忍術スキルをクリックすると、自動で対応する順序で結印スキルを使用し、結印を完了する。",
     "AutoTenChiJinTitle": "【NIN】自動印結び",
     "AutoThrottleTenChiJinDescription": "忍者の印を結ぶスキルを使用する際、各結印スキルは今回の結印期間中に一度だけ押せるようにする",
-    "AutoThrottleTenChiJinTitle": "印スキル中を他スキルを制限する",
+    "AutoThrottleTenChiJinTitle": "【NIN】印スキル中に他スキルを制限",
     "AutoTMPDescription": "筐体をクリック後、自動的にモーグリキャッチャーを繰り返してプレイします",
     "AutoTMPTitle": "モーグリキャッチャー自動プレイ",
     "AutoUnlockAllContentsDescription": "見かけ上、すべてのコンテンツを解放済みとしてマークし、PT募集やコンテンツファインダーで直接コンテンツに関連する情報を確認できるようにする［未開放コンテンツへの参加申請はできません］",
