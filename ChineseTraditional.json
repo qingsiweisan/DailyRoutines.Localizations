@@ -1432,6 +1432,8 @@
     "RightClickToMoveModeTitle": "右鍵點擊移動模式",
     "Route": "路徑",
     "Run": "停止",
+    "SameAethernetTeleportDescription": "自动解除游戏禁止传送至当前以太之光/城内以太之晶的限制",
+    "SameAethernetTeleportTitle": "允许传送至当前以太之光",
     "SastashaHelper-Message": "正確的珊瑚機關: {0}",
     "SastashaHelperDescription": "進入副本 天然要害沙斯塔夏溶洞 後, 自動檢測發送正確的珊瑚信息, 並高亮顯示對應珊瑚機關物體",
     "SastashaHelperTitle": "天然要害沙斯塔夏溶洞助手",
