@@ -1432,6 +1432,8 @@
     "RightClickToMoveModeTitle": "右クリック移動モード",
     "Route": "パス",
     "Run": "スタート",
+    "SameAethernetTeleportDescription": "自动解除游戏禁止传送至当前以太之光/城内以太之晶的限制",
+    "SameAethernetTeleportTitle": "允许传送至当前以太之光",
     "SastashaHelper-Message": "正しい珊瑚のスイッチ: {0}",
     "SastashaHelperDescription": "IDに突入後、自動で正しい珊瑚情報を送信し、対応する珊瑚のスイッチをハイライト表示します。",
     "SastashaHelperTitle": "『天然要害 サスタシャ浸食洞』アシスト",
