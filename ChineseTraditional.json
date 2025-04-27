@@ -39,6 +39,8 @@
     "AutoAdventure-VistaQuestNotFinish": "未完成的探索筆記任務",
     "AutoAdventureDescription": "點擊開始後, 自動完成當前時間段/天氣下允許完成的所有探索筆記",
     "AutoAdventureTitle": "自動完成探索筆記",
+    "AutoAetherialReductionDescription": "打开精选界面并点击开始后, 自动精选所有物品",
+    "AutoAetherialReductionTitle": "自动精选",
     "AutoAllowMultipleGamesDescription": "自動解除遊戲本身對於多開遊戲實例 (≤ 2) 的限制",
     "AutoAllowMultipleGamesTitle": "自動解除遊戲多開限制",
     "AutoAntiAfkDescription": "每隔固定時間, 重設遊戲內部的相關計時器, 以防止進入離開狀態",
