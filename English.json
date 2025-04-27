@@ -39,6 +39,8 @@
     "AutoAdventure-VistaQuestNotFinish": "Not-Completed Sightseeing Log Quest",
     "AutoAdventureDescription": "After clicking start, automatically complete all Sightseeing Log allowed under the current time/weather",
     "AutoAdventureTitle": "Auto Sightseeing Log",
+    "AutoAetherialReductionDescription": "打开精选界面并点击开始后, 自动精选所有物品",
+    "AutoAetherialReductionTitle": "自动精选",
     "AutoAllowMultipleGamesDescription": "Allow the user to run multiple game instances simultaneously. The original cap is 2.",
     "AutoAllowMultipleGamesTitle": "Auto Allow Multiple Game Instances",
     "AutoAntiAfkDescription": "Reset the relevant timer within the game at fixed intervals to prevent being automatically set to AFK state",
