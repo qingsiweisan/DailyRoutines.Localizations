@@ -39,6 +39,8 @@
     "AutoAdventure-VistaQuestNotFinish": "未完成的探索笔记任务",
     "AutoAdventureDescription": "点击开始后, 自动完成当前时间段/天气下允许完成的所有探索笔记",
     "AutoAdventureTitle": "自动完成探索笔记",
+    "AutoAetherialReductionDescription": "打开精选界面并点击开始后, 自动精选所有物品",
+    "AutoAetherialReductionTitle": "自动精选",
     "AutoAllowMultipleGamesDescription": "自动解除游戏本身对于多开游戏实例 (≤ 2) 的限制",
     "AutoAllowMultipleGamesTitle": "自动解除游戏多开限制",
     "AutoAntiAfkDescription": "每隔固定时间, 重置游戏内部的相关计时器, 以防止进入离开状态",
