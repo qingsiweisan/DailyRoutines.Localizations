@@ -1561,6 +1561,7 @@
     "Value": "Value",
     "Wan": "0 K",
     "Ward": "Ward",
+    "WeeklyBingoClickToOpen-UnlockError": "该分类下最低等级的副本仍尚未解锁, 无法开启",
     "WeeklyBingoClickToOpenDescription": "Allow to jump to the corresponding duties in the interface of Wondrous Tails.",
     "WeeklyBingoClickToOpenTitle": "Jump To Duties In Wondrous Tails",
     "Whitelist": "Whitelist",
