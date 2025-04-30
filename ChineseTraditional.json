@@ -1561,6 +1561,7 @@
     "Value": "值",
     "Wan": "萬",
     "Ward": "房區",
+    "WeeklyBingoClickToOpen-UnlockError": "该分类下最低等级的副本仍尚未解锁, 无法开启",
     "WeeklyBingoClickToOpenDescription": "打開 天書奇談 界面, 點擊任務方格時, 自動在 任務搜索器 內打開首個對應的副本任務",
     "WeeklyBingoClickToOpenTitle": "天書奇談快捷打開副本",
     "Whitelist": "白名單",
