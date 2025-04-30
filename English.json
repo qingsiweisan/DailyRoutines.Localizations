@@ -1173,7 +1173,7 @@
     "HealerHelper-EasyRedirectDescription": "When using the {0} skill, if the current target is empty or an enemy, the skill will be automatically redirected to the target according to the rules.",
     "HealerHelper-LogsApi-Status": "API Key Status",
     "HealerHelper-MarkOnPartyList": "Display mark next to Party list",
-    "HealerHelper-OrderHelp": "顺序: 由自身开始, 按照小队列表由上至下依次检查\n逆序: 由自身开始, 按照小队列表由下至上依次检查",
+    "HealerHelper-OrderHelp": "Sequential Order: Start from the self, check from the top to the bottom of the party list\nReverse Order: Start from the self, check from the bottom to the top of the party list",
     "HealerHelper-SingleTargetHeal": "Restores target's HP",
     "HealerHelperDescription": "If the current job is a healer profession, the use of specific skills will be optimized according to the settings when using them.",
     "HealerHelperTitle": "Healer Helper",
