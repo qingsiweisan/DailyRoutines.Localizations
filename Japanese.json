@@ -1561,6 +1561,7 @@
     "Value": "値",
     "Wan": "万",
     "Ward": "ハウジングエリア",
+    "WeeklyBingoClickToOpen-UnlockError": "该分类下最低等级的副本仍尚未解锁, 无法开启",
     "WeeklyBingoClickToOpenDescription": "クロの空想帳を開きコンプリートしたいマスをクリックすると、コンテンツファインダー内で最初に該当するコンテンツを開く（突入はしない）",
     "WeeklyBingoClickToOpenTitle": "クロの空想帳からコンテンツファインダーを開く",
     "Whitelist": "ホワイトリスト",
