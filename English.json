@@ -417,7 +417,7 @@
     "AutoNotifyChaoticRaidBonus-LastBonusNotifyTime": "上次奖励通知时间",
     "AutoNotifyChaoticRaidBonus-Notification": "{0} 大区诛灭战额外奖励提升中",
     "AutoNotifyChaoticRaidBonusDescription": "当前所在大区或订阅大区诛灭战出现限时奖励提升时, 自动发送通知信息提醒",
-    "AutoNotifyChaoticRaidBonusTitle": "自动通知诛灭战限时奖励提升",
+    "AutoNotifyChaoticRaidBonusTitle": "Auto Notify Chaotic Raid Bonus",
     "AutoNotifyCountdown-NotificationTitle": "Countdown Start",
     "AutoNotifyCountdownDescription": "Auto notifies when countdown starts",
     "AutoNotifyCountdownTitle": "Auto Notify Countdown's Start",
