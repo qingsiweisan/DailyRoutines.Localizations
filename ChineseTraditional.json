@@ -231,6 +231,8 @@
     "AutoGatherDiadem-PreCondition-CurrentLevel": "當前職業等級 ≥ 81",
     "AutoGatherDiadem-PreCondition-MaxGP": "當前職業最大採集力 ≥ 850",
     "AutoGatherDiadem-PreCondition-VnavmeshEnabled": "安裝並啟用了 vnavmesh 插件",
+    "AutoGatherDiadem-UseCordial": "使用强心剂",
+    "AutoGatherDiadem-UseCordialHelp": "若勾选, 则会尽量在不溢出的前提下, 按照 高级强心剂 > 强心剂 > 轻型强心剂 | HQ > NQ 的顺序使用",
     "AutoGatherDiademDescription": "配置完成並在 天上福地雲冠群島 內點擊開始後, 自動循環採集當前職業對應的特供材料以積累技巧點",
     "AutoGatherDiademTitle": "自動雲冠群島採集",
     "AutoGathererRoleActionsDescription": "當切換到任一採集職業時, 自動使用其他採集職業的職能技能",
