@@ -225,6 +225,7 @@
     "AutoGatherDiadem-LeaveDutyThresholdMinuteHelp": "若設置為 30, 則意為每在副本內採集 30 分鐘, 則退出副本批次檢驗一次材料, 然後再進入副本開始新一輪採集",
     "AutoGatherDiadem-Notification-InventoryFull": "背包物品已滿, 停止採集並退出副本",
     "AutoGatherDiadem-Notification-RoundEnd": "已採集 {0} 分鐘, 退出副本並檢測材料, 而後進入副本開始新一輪採集",
+    "AutoGatherDiadem-Notification-StuckInGatheringAddon": "滞留在采集界面过久, 尝试退出副本并重新进入开始",
     "AutoGatherDiadem-PreCondition": "先決條件",
     "AutoGatherDiadem-PreCondition-ClssJobs": "當前職業為 採礦工/園藝工",
     "AutoGatherDiadem-PreCondition-CurrentIL": "當前裝備等級 ≥ 500",
