@@ -731,6 +731,8 @@
     "AutoSplitStacks-SplitAmount": "Split amount",
     "AutoSplitStacksDescription": "Allow quick item splitting into specified quantities via right-click or preset options",
     "AutoSplitStacksTitle": "Auto Split Items",
+    "AutoStellarSprintDescription": "当位于宇宙探索相关区域, 且当前职业为生产采集时, 自动使用宇宙冲刺",
+    "AutoStellarSprintTitle": "自动宇宙探索冲刺",
     "AutoStoreToCabinet-StoreHelp": "Due to network latency, gears stored through the module may take up to 30 seconds to appear in the Armoire. Please be patient",
     "AutoStoreToCabinetDescription": "Open the Armoire interface and, upon clicking \"Start,\" automatically store all storable gears into the Armoire",
     "AutoStoreToCabinetTitle": "Auto Store To Armoire",
