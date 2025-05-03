@@ -731,6 +731,8 @@
     "AutoSplitStacks-SplitAmount": "拆分數量",
     "AutoSplitStacksDescription": "允許以右鍵物品/預設的形式快速拆分一組物品為指定數量",
     "AutoSplitStacksTitle": "自動拆分物品",
+    "AutoStellarSprintDescription": "当位于宇宙探索相关区域, 且当前职业为生产采集时, 自动使用宇宙冲刺",
+    "AutoStellarSprintTitle": "自动宇宙探索冲刺",
     "AutoStoreToCabinet-StoreHelp": "由於網路延遲, 透過模組存入的裝備可能至多需要半分鐘才能夠在收藏櫃中顯示, 請耐心等待",
     "AutoStoreToCabinetDescription": "打開收藏櫃的放入道具界面, 並點擊開始後, 自動將所有可儲存裝備存入收藏櫃中",
     "AutoStoreToCabinetTitle": "自動存入收藏櫃",
