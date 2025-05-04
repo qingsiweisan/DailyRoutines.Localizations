@@ -226,6 +226,8 @@
     "AutoGatherDiadem-BlacklistMonstersHelp": "如果不想對某些特定的怪物使用以太鑽孔機, 請在此處添加它們的完整名稱",
     "AutoGatherDiadem-ItemToExchange": "待交換物品",
     "AutoGatherDiadem-ItemToExchangeHelp": "若 天穹街振興票 即將溢出, 希望模組自動交換的物品",
+    "AutoGatherDiadem-ItemToGatherName": "待采集物品名称",
+    "AutoGatherDiadem-ItemToGatherNameHelp": "若此处留空, 则默认采集第四期特供物品\n注: 包含关系, 大小写不敏感",
     "AutoGatherDiadem-LeaveDutyThresholdMinute": "每輪循環時間 (分鐘)",
     "AutoGatherDiadem-LeaveDutyThresholdMinuteHelp": "若設置為 30, 則意為每在副本內採集 30 分鐘, 則退出副本批次檢驗一次材料, 然後再進入副本開始新一輪採集",
     "AutoGatherDiadem-Notification-InventoryFull": "背包物品已滿, 停止採集並退出副本",
