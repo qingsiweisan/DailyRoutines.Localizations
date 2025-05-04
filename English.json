@@ -232,7 +232,7 @@
     "AutoGatherDiadem-LeaveDutyThresholdMinuteHelp": "若设置为 30, 则意为每在副本内采集 30 分钟, 则退出副本批量检验一次材料, 然后再进入副本开始新一轮采集",
     "AutoGatherDiadem-Notification-InventoryFull": "背包物品已满, 停止采集并退出副本",
     "AutoGatherDiadem-Notification-RoundEnd": "已采集 {0} 分钟, 退出副本并检测材料, 而后进入副本开始新一轮采集",
-    "AutoGatherDiadem-Notification-StuckInGatheringAddon": "滞留在采集界面过久, 尝试退出副本并重新进入开始",
+    "AutoGatherDiadem-Notification-StuckInGatheringAddon": "Stuck in the gathering interface for too long, so now trying to exit the duty and re-join.",
     "AutoGatherDiadem-PreCondition": "Prerequisites",
     "AutoGatherDiadem-PreCondition-ClssJobs": "The current job is Miner or Botanist.",
     "AutoGatherDiadem-PreCondition-CurrentIL": "The item level of the current job is greater than or equal to 500.",
