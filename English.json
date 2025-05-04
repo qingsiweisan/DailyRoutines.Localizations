@@ -852,6 +852,7 @@
     "BetterStatusTimeDisplayTitle": "Display the status time better",
     "BetterTeleport-CommandHelp": "<Name of aetheryte/aethernet shards (case insensitive)> to directly teleport to the specified aetheryte/aethernet shards.",
     "BetterTeleport-Notification": "Now teleporting to: {0}",
+    "BetterTeleport-RedirectedToCurrentPos": "重定向至当前坐标",
     "BetterTeleportDescription": "Replace the vanilla teleportation interface with a Daily Routines one, which provides better searching, navigation and destination previews and allows players to directly teleport to any aethernet shard in the city.",
     "BetterTeleportTitle": "Better Teleportation",
     "BetterWaitCommandDescription": "Remove native time and precision limits for \"wait\" in text commands",
