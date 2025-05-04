@@ -839,7 +839,6 @@
     "BetterFollow-OnCombatOverConfig": "在战斗结束后",
     "BetterFollow-OnDutyConfig": "在副本中启用",
     "BetterFollow-ReFollowDistance": "重新跟随距离",
-    "BetterFollow-ReloadIPC": "刷新插件状态",
     "BetterFollow-Status": "跟踪状态: {0} / 跟踪目标: {1} / 目标是否在周围: {2}",
     "BetterFollow-SystemFollow": "游戏原生跟随",
     "BetterFollow-UnMountWhenFollowUnMount": "与跟随目标一同下坐骑",
