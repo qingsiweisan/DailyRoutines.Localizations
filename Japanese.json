@@ -226,6 +226,8 @@
     "AutoGatherDiadem-BlacklistMonstersHelp": "特定のモンスターに対してエーテルオーガーを使用したくない場合は、ここに完全一致な名前を追加してください。",
     "AutoGatherDiadem-ItemToExchange": "交換希望のアイテム",
     "AutoGatherDiadem-ItemToExchangeHelp": "蒼天街振興券がもうすぐ溢れそうな場合、希望するアイテムを自動的に交換します。",
+    "AutoGatherDiadem-ItemToGatherName": "待采集物品名称",
+    "AutoGatherDiadem-ItemToGatherNameHelp": "若此处留空, 则默认采集第四期特供物品\n注: 包含关系, 大小写不敏感",
     "AutoGatherDiadem-LeaveDutyThresholdMinute": "1サイクルの時間 (分)",
     "AutoGatherDiadem-LeaveDutyThresholdMinuteHelp": "30分に設定した場合、エリア内で30分間採集を行うと、エリアを退出して一度材料を確認し、その後再びエリアに入り新しい採集を開始することになります。",
     "AutoGatherDiadem-Notification-InventoryFull": "かばんのアイテムが満杯です。採集を停止してダンジョンを退出してください。",
