@@ -839,7 +839,6 @@
     "BetterFollow-OnCombatOverConfig": "戦闘終了後",
     "BetterFollow-OnDutyConfig": "コンテンツ内で有効にする",
     "BetterFollow-ReFollowDistance": "追尾再開距離",
-    "BetterFollow-ReloadIPC": "プラグインの状態を更新する",
     "BetterFollow-Status": "追尾状態: {0} / 追尾対象: {1} / 対象が近くに居るか: {2}",
     "BetterFollow-SystemFollow": "ゲーム内のネイティブ自動追尾",
     "BetterFollow-UnMountWhenFollowUnMount": "追尾してるターゲットと共にマウントに降りる",
