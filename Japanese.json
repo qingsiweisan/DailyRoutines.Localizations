@@ -639,7 +639,7 @@
     "AutoRetainerWork-PriceAdjust-Adjust": "価格変更",
     "AutoRetainerWork-PriceAdjust-AdjustForListItems": "価格変更 (出品リスト)",
     "AutoRetainerWork-PriceAdjust-AdjustForRetainers": "価格変更 (全リテイナー)",
-    "AutoRetainerWork-PriceAdjust-AdjustUnitPriceAllSameItems": "単価を変更する (すべての同種アイテム)",
+    "AutoRetainerWork-PriceAdjust-AdjustUnitPriceAllSameItems": "修改单价 (全部同类物品) (自动)",
     "AutoRetainerWork-PriceAdjust-AdjustUnitPriceAllSameItemsHelp": "クリック後、現在のリテイナーのすべての同一アイテムの価格が自動的に変更されます",
     "AutoRetainerWork-PriceAdjust-AdjustUnitPriceAllSameItemsManual": "修改单价 (全部同类物品) (手动)",
     "AutoRetainerWork-PriceAdjust-AdjustUnitPriceAuto": "単価を変更する (自動)",
