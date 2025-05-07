@@ -523,7 +523,7 @@
     "AutoPlayerCommend-BlacklistContentsAmount": "{0} 件のコンテンツデータが存在します",
     "AutoPlayerCommend-BlockBlacklistPlayers": "ブラックリスト内のプレイヤー無視する",
     "AutoPlayerCommend-ErrorWhenGiveCommendationMessage": "自動MIPに失敗しました。ゲームデータにエラーまたは破損があります。",
-    "AutoPlayerCommend-GiveNobodyCommendMessage": "已设定本局不自动给予最优队员推荐",
+    "AutoPlayerCommend-GiveNobodyCommendMessage": "この周回では最適メンバーの自動MIPをしないよう設定されています。",
     "AutoPlayerCommend-NoticeMessage": "{0}{1} {2} にMIPをあげました",
     "AutoPlayerCommendDescription": "コンテンツ完了時、自動的にパーティーメンバーにMIP",
     "AutoPlayerCommendTitle": "自動MIP",
