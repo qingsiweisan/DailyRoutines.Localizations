@@ -523,6 +523,7 @@
     "AutoPlayerCommend-BlacklistContentsAmount": "已存在 {0} 條副本數據",
     "AutoPlayerCommend-BlockBlacklistPlayers": "自動忽略黑名單內玩家",
     "AutoPlayerCommend-ErrorWhenGiveCommendationMessage": "未能完成自動最優隊員推薦, 遊戲數據存在錯誤或損壞",
+    "AutoPlayerCommend-GiveNobodyCommendMessage": "已设定本局不自动给予最优队员推荐",
     "AutoPlayerCommend-NoticeMessage": "已給予 {0}{1} {2} 最優隊員推薦",
     "AutoPlayerCommendDescription": "副本完成時, 自動給予對位隊友最優隊員推薦",
     "AutoPlayerCommendTitle": "自動最優隊員推薦",
