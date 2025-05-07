@@ -639,7 +639,7 @@
     "AutoRetainerWork-PriceAdjust-Adjust": "改价",
     "AutoRetainerWork-PriceAdjust-AdjustForListItems": "改价 (出售列表)",
     "AutoRetainerWork-PriceAdjust-AdjustForRetainers": "改价 (所有雇员)",
-    "AutoRetainerWork-PriceAdjust-AdjustUnitPriceAllSameItems": "修改单价 (全部同类物品)",
+    "AutoRetainerWork-PriceAdjust-AdjustUnitPriceAllSameItems": "修改单价 (全部同类物品) (自动)",
     "AutoRetainerWork-PriceAdjust-AdjustUnitPriceAllSameItemsHelp": "点击后, 会自动修改当前雇员下所有同一物品的价格",
     "AutoRetainerWork-PriceAdjust-AdjustUnitPriceAllSameItemsManual": "修改单价 (全部同类物品) (手动)",
     "AutoRetainerWork-PriceAdjust-AdjustUnitPriceAuto": "修改单价 (自动)",
