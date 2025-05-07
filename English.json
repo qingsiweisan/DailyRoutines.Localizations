@@ -523,6 +523,7 @@
     "AutoPlayerCommend-BlacklistContentsAmount": "{0} Duties Exist",
     "AutoPlayerCommend-BlockBlacklistPlayers": "Ignore players in the blacklist",
     "AutoPlayerCommend-ErrorWhenGiveCommendationMessage": "Unable to auto give commendation, game data is incorrect or corrupted",
+    "AutoPlayerCommend-GiveNobodyCommendMessage": "已设定本局不自动给予最优队员推荐",
     "AutoPlayerCommend-NoticeMessage": "Has given a commendation to {0}{1} the{2}",
     "AutoPlayerCommendDescription": "Give a commendation to the party member who has the same role or is a tank(healer) when you are a  healer(tank) in dungeons  automatically when the duty has ended.",
     "AutoPlayerCommendTitle": "Auto Commend Party Members",
