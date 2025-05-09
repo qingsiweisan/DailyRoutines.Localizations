@@ -224,6 +224,8 @@
     "AutoGatherDiadem-AutoDiscardGroupNameHelp": "如果你希望在檢測材料後自動清理背包, 請前往 \"自動丟棄物品\" 模組配置完成後, 將相關配置組名稱填入此處, 留空以禁用",
     "AutoGatherDiadem-BlacklistMonsters": "以太鑽孔機目標黑名單",
     "AutoGatherDiadem-BlacklistMonstersHelp": "如果不想對某些特定的怪物使用以太鑽孔機, 請在此處添加它們的完整名稱",
+    "AutoGatherDiadem-GatherCloudedPointRepeatedly": "反复采集梦幻采集点",
+    "AutoGatherDiadem-GatherCloudedPointRepeatedlyHelp": "若勾选, 则会在与当前职业相对应的特殊天气下, 反复进出副本以采集稀有材料\n注: 可能会被其他玩家注意以遭致自身被举报",
     "AutoGatherDiadem-ItemToExchange": "待交換物品",
     "AutoGatherDiadem-ItemToExchangeHelp": "若 天穹街振興票 即將溢出, 希望模組自動交換的物品",
     "AutoGatherDiadem-ItemToGatherName": "待採集物品名稱",
