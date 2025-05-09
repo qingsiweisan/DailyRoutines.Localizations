@@ -224,7 +224,7 @@
     "AutoGatherDiadem-AutoDiscardGroupNameHelp": "If you'd like to clean up the inventory after counting materials, please configure a config group in the module `Auto Discard Items`, then put the config group name here. Cleaning up will be disbaled if left blank.",
     "AutoGatherDiadem-BlacklistMonsters": "Aetheromatic Auger Blacklist",
     "AutoGatherDiadem-BlacklistMonstersHelp": "Add names of monsters here which you wouldn't like to cast Aetheromatic Auger on.",
-    "AutoGatherDiadem-GatherCloudedPointRepeatedly": "反复采集梦幻采集点",
+    "AutoGatherDiadem-GatherCloudedPointRepeatedly": "Repeatedly gather clouded gathering nodes",
     "AutoGatherDiadem-GatherCloudedPointRepeatedlyHelp": "若勾选, 则会在与当前职业相对应的特殊天气下, 反复进出副本以采集稀有材料\n注: 可能会被其他玩家注意以遭致自身被举报",
     "AutoGatherDiadem-ItemToExchange": "Items to be exchanged",
     "AutoGatherDiadem-ItemToExchangeHelp": "Item to be exchanged automatically if skybuilders' scrips reach its cap.",
