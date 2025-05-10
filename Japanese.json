@@ -1349,7 +1349,7 @@
     "NextStep": "次へ",
     "No": "いいえ",
     "NoAutoClosePartyFinderDescription": "PTメンバー募集内容に変更があった際、ゲームが自動的に隊員募集画面を閉じるのを防ぎ、現在閲覧中の募集詳細画面を自動で再表示します。",
-    "NoAutoClosePartyFinderTitle": "PTメンバー募集の自動停止を禁止する",
+    "NoAutoClosePartyFinderTitle": "PT募集の自動停止を無効にする",
     "NoClipModeDescription": "ゲーム内のすべての衝突判定を解除し、キャラクターが移動する際に地形や障害物に妨げられないようにする",
     "NoClipModeTitle": "無衝突モード",
     "NoFallDamageDescription": "落下時に、本来判定されるはずのダメージを無効にする (ONにすると、自キャラクターのジャンプと落下モーションが消失します)",
