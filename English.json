@@ -1634,6 +1634,9 @@
     "WorldTravelCommand-Notice-WorldNoFound": "No World Found for {0}",
     "WorldTravelCommandDescription": "Add /pdr worldtravel <world> (case insensitive/partial match) command for quick World Travel from any location within the three main cities",
     "WorldTravelCommandTitle": "Quick World Travel Command",
+    "GameWindowLockTitle": "战斗中自动禁止移动游戏窗口",
+    "GameWindowLockDescription": "战斗中禁止移动游戏窗口, 防止意外拖动到副屏",
     "Yes": "Yes",
-    "Zone": "Zone"
+    "Zone": "Zone",
+    "Locking": "锁定"
 }
