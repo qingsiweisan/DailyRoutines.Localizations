@@ -246,7 +246,7 @@
     "AutoGatherDiadem-PreCondition-VnavmeshEnabled": "vnavmesh プラグインをインストールして有効化しました。",
     "AutoGatherDiadem-UseCordial": "コーディアルを使用する",
     "AutoGatherDiadem-UseCordialHelp": "GPが溢れない範囲で可能な限り、\nハイコーディアル > コーディアル > ライトコーディアル｜HQ > NQ\nの優先順で使用します。",
-    "AutoGatherDiademDescription": "ディアデム諸島内で「スタート」をクリックすると、現在のクラスに対応する特別採集素材を自動で繰り返し採集し、テクニカルポイントを蓄積します。",
+    "AutoGatherDiademDescription": "配置完成并在 天上福地云冠群岛 内点击开始后, 自动循环采集指定材料以积累技巧点/练级",
     "AutoGatherDiademTitle": "ディアデム諸島自動採集",
     "AutoGathererRoleActionsDescription": "ギャザラージョブにチェンジした際、他のギャザラーの機能スキルが自動的に使用される。",
     "AutoGathererRoleActionsTitle": "ギャザラージョブの機能スキルの自動使用",
@@ -302,6 +302,8 @@
     "AutoLeveQuests-ObtainLevemete": "リーヴ受注NPCを取得",
     "AutoLeveQuestsDescription": "受注/報告NPCの設定を完了させ、「スタート」をクリックすると、指定したのクラフターリーヴをリーヴ権がなくなるまで納品します。",
     "AutoLeveQuestsTitle": "クラフターリーヴ自動納品",
+    "AutoLockGameWindowDescription": "进入战斗后, 自动锁定游戏窗口, 防止其被意外拖动到主屏外",
+    "AutoLockGameWindowTitle": "自动锁定游戏窗口",
     "AutoLogin-AddCommandHelp": "1.{0} <キャラクター>\n    現在のサーバで指定されたキャラクターにログインする\n2.{1} <サーバー> <キャラクター>\n    指定されたサーバで指定されたキャラクターにログインする",
     "AutoLogin-BehaviourMode": "行動パターン",
     "AutoLogin-CharacterIndex": "キャラクターリスト化",
@@ -1634,9 +1636,6 @@
     "WorldTravelCommand-Notice-WorldNoFound": "{0} に関連するサーバーが見つかりませんでした",
     "WorldTravelCommandDescription": "/pdr worldtravel <サーバー> (大文字小文字の区別なし/部分一致) コマンドを追加し、三大都市内の任意の場所へのクイックワールド間テレポを実行する",
     "WorldTravelCommandTitle": "クイックワールド間テレポコマンド",
-    "GameWindowLockTitle": "战斗中自动禁止移动游戏窗口",
-    "GameWindowLockDescription": "战斗中禁止移动游戏窗口, 防止意外拖动到副屏",
     "Yes": "はい",
-    "Zone": "ゾーン",
-    "Locking": "锁定"
+    "Zone": "ゾーン"
 }
