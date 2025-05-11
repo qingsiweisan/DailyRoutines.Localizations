@@ -1634,6 +1634,9 @@
     "WorldTravelCommand-Notice-WorldNoFound": "未找到與 {0} 相關的伺服器",
     "WorldTravelCommandDescription": "添加 /pdr worldtravel <伺服器> (不區分大小寫/部分匹配) 指令,\n用於在三主城內的任意位置進行快捷跨界傳送",
     "WorldTravelCommandTitle": "快捷跨界傳送指令",
+    "GameWindowLockTitle": "战斗中自动禁止移动游戏窗口",
+    "GameWindowLockDescription": "战斗中禁止移动游戏窗口, 防止意外拖动到副屏",
     "Yes": "是",
-    "Zone": "區域"
+    "Zone": "區域",
+    "Locking": "锁定"
 }
