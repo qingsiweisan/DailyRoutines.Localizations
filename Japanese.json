@@ -1634,6 +1634,9 @@
     "WorldTravelCommand-Notice-WorldNoFound": "{0} に関連するサーバーが見つかりませんでした",
     "WorldTravelCommandDescription": "/pdr worldtravel <サーバー> (大文字小文字の区別なし/部分一致) コマンドを追加し、三大都市内の任意の場所へのクイックワールド間テレポを実行する",
     "WorldTravelCommandTitle": "クイックワールド間テレポコマンド",
+    "GameWindowLockTitle": "战斗中自动禁止移动游戏窗口",
+    "GameWindowLockDescription": "战斗中禁止移动游戏窗口, 防止意外拖动到副屏",
     "Yes": "はい",
-    "Zone": "ゾーン"
+    "Zone": "ゾーン",
+    "Locking": "锁定"
 }
