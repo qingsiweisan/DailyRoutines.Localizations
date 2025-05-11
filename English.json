@@ -246,7 +246,7 @@
     "AutoGatherDiadem-PreCondition-VnavmeshEnabled": "The Dalamud plugin vnavmesh is installed and enabled.",
     "AutoGatherDiadem-UseCordial": "Use cordial",
     "AutoGatherDiadem-UseCordialHelp": "Cordial would be consumed according this priority if checked: hi-cordial > cordial > watered cordial and high quality > normal quality while minimizing the overkill GP amount.",
-    "AutoGatherDiademDescription": "Automatically gather materials corresponding to the current job for skyward score after configurations and clicking start in The Diadem.",
+    "AutoGatherDiademDescription": "配置完成并在 天上福地云冠群岛 内点击开始后, 自动循环采集指定材料以积累技巧点/练级",
     "AutoGatherDiademTitle": "Auto Gather In The Diadem",
     "AutoGathererRoleActionsDescription": "Automatically use abilities from other gathering classes when switching to any gathering class",
     "AutoGathererRoleActionsTitle": "Auto Use Gatherer Role Actions",
@@ -302,6 +302,8 @@
     "AutoLeveQuests-ObtainLevemete": "Get the Levemete",
     "AutoLeveQuestsDescription": "Automatically repeat selected levequest up to max allowances after confirm current settings and click \"Start\"",
     "AutoLeveQuestsTitle": "Auto Finish Tradecraft Leves",
+    "AutoLockGameWindowDescription": "进入战斗后, 自动锁定游戏窗口, 防止其被意外拖动到主屏外",
+    "AutoLockGameWindowTitle": "自动锁定游戏窗口",
     "AutoLogin-AddCommandHelp": "1. {0} <Character Index>\n    Log in to the character at the specified index on the current world.\n\n2. {1} <World Name> <Character Index>\n    Log in to the character at the specified index on the specified world.",
     "AutoLogin-BehaviourMode": "Behaviour Mode",
     "AutoLogin-CharacterIndex": "Character index",
@@ -1634,9 +1636,6 @@
     "WorldTravelCommand-Notice-WorldNoFound": "No World Found for {0}",
     "WorldTravelCommandDescription": "Add /pdr worldtravel <world> (case insensitive/partial match) command for quick World Travel from any location within the three main cities",
     "WorldTravelCommandTitle": "Quick World Travel Command",
-    "GameWindowLockTitle": "战斗中自动禁止移动游戏窗口",
-    "GameWindowLockDescription": "战斗中禁止移动游戏窗口, 防止意外拖动到副屏",
     "Yes": "Yes",
-    "Zone": "Zone",
-    "Locking": "锁定"
+    "Zone": "Zone"
 }
