@@ -246,7 +246,7 @@
     "AutoGatherDiadem-PreCondition-VnavmeshEnabled": "安装并启用了 vnavmesh 插件",
     "AutoGatherDiadem-UseCordial": "使用强心剂",
     "AutoGatherDiadem-UseCordialHelp": "若勾选, 则会尽量在不溢出 GP 的前提下, 按照 高级强心剂 > 强心剂 > 轻型强心剂 | HQ > NQ 的顺序使用",
-    "AutoGatherDiademDescription": "配置完成并在 天上福地云冠群岛 内点击开始后, 自动循环采集当前职业对应的特供材料以积累技巧点",
+    "AutoGatherDiademDescription": "配置完成并在 天上福地云冠群岛 内点击开始后, 自动循环采集指定材料以积累技巧点/练级",
     "AutoGatherDiademTitle": "自动云冠群岛采集",
     "AutoGathererRoleActionsDescription": "当切换到任一采集职业时, 自动使用其他采集职业的职能技能",
     "AutoGathererRoleActionsTitle": "自动采集职业职能技能",
@@ -302,6 +302,8 @@
     "AutoLeveQuests-ObtainLevemete": "获取理符发行人",
     "AutoLeveQuestsDescription": "配置完成并点击开始后, 自动重复完成指定的生产理符任务, 直至理符额度耗尽",
     "AutoLeveQuestsTitle": "自动批量完成生产理符",
+    "AutoLockGameWindowDescription": "进入战斗后, 自动锁定游戏窗口, 防止其被意外拖动到主屏外",
+    "AutoLockGameWindowTitle": "自动锁定游戏窗口",
     "AutoLogin-AddCommandHelp": "1.{0} <角色索引>\n    登录到当前服务器下指定索引的角色\n2.{1} <服务器名> <角色索引>\n    登录到指定服务器下指定索引的角色",
     "AutoLogin-BehaviourMode": "行为模式",
     "AutoLogin-CharacterIndex": "角色索引",
@@ -1634,9 +1636,6 @@
     "WorldTravelCommand-Notice-WorldNoFound": "未找到与 {0} 相关的服务器",
     "WorldTravelCommandDescription": "添加 /pdr worldtravel <服务器> (不区分大小写/部分匹配) 指令,\n用于在三主城内的任意位置进行快捷跨界传送",
     "WorldTravelCommandTitle": "快捷跨界传送指令",
-    "GameWindowLockTitle": "战斗中自动禁止移动游戏窗口",
-    "GameWindowLockDescription": "战斗中禁止移动游戏窗口, 防止意外拖动到副屏",
     "Yes": "是",
-    "Zone": "区域",
-    "Locking": "锁定"
+    "Zone": "区域"
 }
