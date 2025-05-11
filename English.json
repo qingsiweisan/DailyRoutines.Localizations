@@ -220,7 +220,7 @@
     "AutoGardensWork-Soil": "Soil",
     "AutoGardensWorkDescription": "Auto or semi-auto finish garden related operations, including planting, harvesting, fertilization, care, etc",
     "AutoGardensWorkTitle": "Auto Gardening",
-    "AutoGatherDiadem-AlwaysPathFind": "始终寻路",
+    "AutoGatherDiadem-AlwaysPathFind": "Always Wayfinding",
     "AutoGatherDiadem-AlwaysPathFindHelp": "若勾选本项, 除了卡地形脱困外, 不会使用任何远距离瞬移, 但会使用风涡与副本内 返回 技能\n若不勾选本项, 则会在目标距离 ≥ 150 且附近无可用风涡时, 直接使用远距离瞬移到达目标点",
     "AutoGatherDiadem-AutoDiscardGroupName": "Config group name from the module `Auto Discard Items`",
     "AutoGatherDiadem-AutoDiscardGroupNameHelp": "If you'd like to clean up the inventory after counting materials, please configure a config group in the module `Auto Discard Items`, then put the config group name here. Cleaning up will be disbaled if left blank.",
