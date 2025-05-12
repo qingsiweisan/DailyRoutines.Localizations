@@ -231,7 +231,7 @@
     "AutoGatherDiadem-GatherCloudedPointRepeatedly": "Repeatedly gather clouded gathering nodes",
     "AutoGatherDiadem-GatherCloudedPointRepeatedlyHelp": "The module will repeatedly gather clouded gathering nodes by leaving and re-joining the duty if checked.\nNote: the actions may be risky in public and there's a chance to get reported.",
     "AutoGatherDiadem-ItemToExchange": "Items to be exchanged",
-    "AutoGatherDiadem-ItemToExchangeHelp": "希望模块在手动触发交换或每一轮采集结束检验材料后自动交换的物品",
+    "AutoGatherDiadem-ItemToExchangeHelp": "Items to be exchanged automatically after material counting of each round or after a manual trigger",
     "AutoGatherDiadem-ItemToGatherName": "Items to be gathered",
     "AutoGatherDiadem-ItemToGatherNameHelp": "The default will be items related to Fourth Restoration Phase if left blank.\nNote: Inclusive case insensitive",
     "AutoGatherDiadem-LeaveDutyThresholdMinute": "Duration of per gathering round (in minutes)",
