@@ -231,7 +231,7 @@
     "AutoGatherDiadem-GatherCloudedPointRepeatedly": "反复采集梦幻采集点",
     "AutoGatherDiadem-GatherCloudedPointRepeatedlyHelp": "若勾选, 则会在与当前职业相对应的特殊天气下, 反复进出副本以采集稀有材料\n注: 可能会被其他玩家注意以遭致自身被举报",
     "AutoGatherDiadem-ItemToExchange": "待交换物品",
-    "AutoGatherDiadem-ItemToExchangeHelp": "若 天穹街振兴票 即将溢出, 希望模块自动交换的物品",
+    "AutoGatherDiadem-ItemToExchangeHelp": "希望模块在手动触发交换或每一轮采集结束检验材料后自动交换的物品",
     "AutoGatherDiadem-ItemToGatherName": "待采集物品名称",
     "AutoGatherDiadem-ItemToGatherNameHelp": "若此处留空, 则默认采集第四期特供物品\n注: 包含关系, 大小写不敏感",
     "AutoGatherDiadem-LeaveDutyThresholdMinute": "每轮循环时间 (分钟)",
