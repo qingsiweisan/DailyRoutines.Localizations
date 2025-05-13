@@ -231,7 +231,7 @@
     "AutoGatherDiadem-GatherCloudedPointRepeatedly": "反覆採集夢幻採集點",
     "AutoGatherDiadem-GatherCloudedPointRepeatedlyHelp": "若勾選, 則會在與當前職業相對應的特殊天氣下, 反覆進出副本以採集稀有材料\n註: 可能會被其他玩家注意以遭致自身被檢舉",
     "AutoGatherDiadem-ItemToExchange": "待交換物品",
-    "AutoGatherDiadem-ItemToExchangeHelp": "希望模块在手动触发交换或每一轮采集结束检验材料后自动交换的物品",
+    "AutoGatherDiadem-ItemToExchangeHelp": "希望模組在手動觸發交換或每一輪採集結束檢驗材料後自動交換的物品",
     "AutoGatherDiadem-ItemToGatherName": "待採集物品名稱",
     "AutoGatherDiadem-ItemToGatherNameHelp": "若此處留空, 則默認採集第四期特供物品\n註: 包含關係, 大小寫不敏感",
     "AutoGatherDiadem-LeaveDutyThresholdMinute": "每輪循環時間 (分鐘)",
