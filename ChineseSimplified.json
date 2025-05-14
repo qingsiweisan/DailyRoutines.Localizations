@@ -319,7 +319,6 @@
     "AutoLogin-Once": "登录一次",
     "AutoLogin-Repeat": "重复登录",
     "AutoLogin-SavedLoginInfosAmount": "已存储 {0} 条登录数据",
-    "AutoLogin-ServerName": "服务器名",
     "AutoLoginDescription": "进入主界面时, 自动按照优先级登录到已配置的第一个可登录角色中",
     "AutoLoginTitle": "自动登录",
     "AutoLucidDreaming-Notification": "已自动使用醒梦, 当前 MP: {0}",
