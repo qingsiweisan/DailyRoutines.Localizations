@@ -319,7 +319,6 @@
     "AutoLogin-Once": "Logged in once",
     "AutoLogin-Repeat": "Reapted Login",
     "AutoLogin-SavedLoginInfosAmount": "Has saved {0} login information",
-    "AutoLogin-ServerName": "World name",
     "AutoLoginDescription": "Automatically login to the first login-able character in the settings by priority upon entering main title screen",
     "AutoLoginTitle": "Auto Login",
     "AutoLucidDreaming-Notification": "Automatically used Lucid Dreaming, current MP: {0}",
