@@ -319,7 +319,6 @@
     "AutoLogin-Once": "一度ログインする",
     "AutoLogin-Repeat": "ログインを繰り返す",
     "AutoLogin-SavedLoginInfosAmount": "{0} 件のログインデータを保存しました",
-    "AutoLogin-ServerName": "ワールド名",
     "AutoLoginDescription": "タイトル画面進入時、事前に設定された優先順位に従って最初のログイン可能なキャラクターに自動的にログインする。",
     "AutoLoginTitle": "自動ログイン",
     "AutoLucidDreaming-Notification": "ルーシッドドリームを使用, 現在のMP: {0}",
