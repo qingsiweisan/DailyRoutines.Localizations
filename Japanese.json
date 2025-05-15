@@ -1302,6 +1302,7 @@
     "InvulnerableMode-Notice-Exit": "無敵モードがOffになりました",
     "InvulnerableModeDescription": "/pdr invulnerable コマンドを追加し、このコマンドを使用して攻撃を受けない状態に切り替えることができるようにする\n※他人からは地面に潜ってるように見えるので注意",
     "InvulnerableModeTitle": "無敵モード",
+    "IPC-InstalledAndEnabledPlugin": "安装并启用了插件 {0}",
     "Item": "アイテム",
     "Job": "クラス",
     "Key": "キー",
