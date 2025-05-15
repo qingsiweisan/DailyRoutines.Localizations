@@ -1302,6 +1302,7 @@
     "InvulnerableMode-Notice-Exit": "已退出无敌模式",
     "InvulnerableModeDescription": "添加 /pdr invulnerable 指令, 允许使用该指令切换至无法被攻击的状态",
     "InvulnerableModeTitle": "无敌模式",
+    "IPC-InstalledAndEnabledPlugin": "安装并启用了插件 {0}",
     "Item": "物品",
     "Job": "职业",
     "Key": "键",
