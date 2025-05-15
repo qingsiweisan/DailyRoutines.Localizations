@@ -265,6 +265,7 @@
     "AutoHuntingLog-InitDataNow": "正在初始化讨伐笔记数据...\n\n如果滞留在此过久, 请检查你的本地网络",
     "AutoHuntingLog-Notification-ContainMonsterInDuty": "{0} {1} 级包含副本内怪物, 请手动完成后再重新开始",
     "AutoHuntingLog-Notification-Finished": "{0} 讨伐任务已全部完成",
+    "AutoHuntingLog-PreCondition-AnyAutoRotationPlugin": "任一自动循环插件",
     "AutoHuntingLog-UpdatedOnlineDataSuccessfully": "获取在线讨伐笔记点位数据成功",
     "AutoHuntingLogDescription": "自动完成指定职业/大国防联军下的所有/指定等级的非副本怪物讨伐任务",
     "AutoHuntingLogTitle": "自动讨伐笔记",
