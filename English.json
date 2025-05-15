@@ -1302,6 +1302,7 @@
     "InvulnerableMode-Notice-Exit": "Turn off Invulnerable Mode",
     "InvulnerableModeDescription": "Add /pdr invulnerable command. This command allows User to become invulnerable to attacks.",
     "InvulnerableModeTitle": "Invulnerable Mode",
+    "IPC-InstalledAndEnabledPlugin": "安装并启用了插件 {0}",
     "Item": "Item",
     "Job": "Job",
     "Key": "Key",
