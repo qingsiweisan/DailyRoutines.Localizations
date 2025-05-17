@@ -235,7 +235,7 @@
     "AutoGatherDiadem-LeaveDutyThresholdMinute": "Duration of per gathering round (in minutes)",
     "AutoGatherDiadem-LeaveDutyThresholdMinuteHelp": "For example, a 30-minute duration of per gathering round means that, it will keep gathering for 30 minutes first, then exit the duty and count the materials to finish the round after, and re-join the duty to start a new round at last.",
     "AutoGatherDiadem-Notice-ConditionToGatherClouded": "The module will navigate to clouded gathering nodes only when the character level ≥ 81, the item level ≥ 500 and GP ≥ 850.",
-    "AutoGatherDiadem-Notice-NotSupportSkysteel": "不支持天钢工具相关材料采集, 意外进入相关采集区也会立刻尝试瞬移到预设的固定点位以避免采集天钢材料",
+    "AutoGatherDiadem-Notice-NotSupportSkysteel": "The module doesn't support gathering materials related to Skysteel Tools. If the character enters related gathering zones, it will try to instantly move to a preset position to prevent gathering.",
     "AutoGatherDiadem-Notification-InventoryFull": "The inventory is full, so now going to stop gathering and exit the duty.",
     "AutoGatherDiadem-Notification-RoundEnd": "Gathering has lasted for {0} minutes, so now going to exit the duty, count the materials, then re-join for a new gathering round.",
     "AutoGatherDiadem-Notification-StuckInGatheringAddon": "Have get stuck in the gathering interface for unexpected long time. Now trying to re-login and continue.",
