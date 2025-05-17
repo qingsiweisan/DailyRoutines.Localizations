@@ -32,7 +32,7 @@
     "AutoAdventure-Message-ExecuteEmote": "すぐに使えるエモート: {0}",
     "AutoAdventure-Message-TeleportToPoint": "ポジション移動の準備完了: {0}",
     "AutoAdventure-Message-TeleportToZone": "エリアへのテレポ準備: {0}",
-    "AutoAdventure-PreCondition-AbleToFly": "所有野外区域均可飞行 (没有对此条件进行检查, 如果某一野外区域无法飞行, 流程将会卡死)",
+    "AutoAdventure-PreCondition-AbleToFly": "すべてのフィールドエリアで飛行が可能であることが前提です (この条件の確認は行っていません。もし一部のフィールドで飛行できない場合、処理が停止する可能性があります) 。",
     "AutoAdventure-PreCondition-QuestFinished": "関連クエスト",
     "AutoAdventure-RunState": "実行状態",
     "AutoAdventureDescription": "「スタート」をクリックすると、現在の時間帯や天候で完了可能なすべての探索ノートを自動的に完了します\n※ワープするので注意",
