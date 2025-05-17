@@ -234,6 +234,8 @@
     "AutoGatherDiadem-ItemToGatherNameHelp": "ここを空欄にすると、デフォルトで第四次復興用の特注アイテムを採集します\n※ 含まれる文字列で判定し、大文字小文字は区別しません",
     "AutoGatherDiadem-LeaveDutyThresholdMinute": "1サイクルの時間 (分)",
     "AutoGatherDiadem-LeaveDutyThresholdMinuteHelp": "30分に設定した場合、エリア内で30分間採集を行うと、エリアを退出して一度材料を確認し、その後再びエリアに入り新しい採集を開始することになります。",
+    "AutoGatherDiadem-Notice-ConditionToGatherClouded": "仅在自身等级 ≥ 81, GP ≥ 850 且装等 ≥ 500 时才会在特殊天气期间前往梦幻采集点",
+    "AutoGatherDiadem-Notice-NotSupportSkysteel": "不支持天钢工具相关材料采集, 意外进入相关采集区也会立刻尝试瞬移到预设的固定点位以避免采集天钢材料",
     "AutoGatherDiadem-Notification-InventoryFull": "かばんのアイテムが満杯です。採集を停止してダンジョンを退出してください。",
     "AutoGatherDiadem-Notification-RoundEnd": "{0} 分間採集しました。エリアから退出して材料を確認し、その後再度エリアに入り新たに採集を開始してください。",
     "AutoGatherDiadem-Notification-StuckInGatheringAddon": "採集画面に長時間とどまっているため、自動的にログアウトします。再ログイン後、採集を再開します。",
