@@ -234,6 +234,8 @@
     "AutoGatherDiadem-ItemToGatherNameHelp": "若此处留空, 则默认采集第四期特供物品\n注: 包含关系, 大小写不敏感",
     "AutoGatherDiadem-LeaveDutyThresholdMinute": "每轮循环时间 (分钟)",
     "AutoGatherDiadem-LeaveDutyThresholdMinuteHelp": "若设置为 30, 则意为每在副本内采集 30 分钟, 则退出副本批量检验一次材料, 然后再进入副本开始新一轮采集",
+    "AutoGatherDiadem-Notice-ConditionToGatherClouded": "仅在自身等级 ≥ 81, GP ≥ 850 且装等 ≥ 500 时才会在特殊天气期间前往梦幻采集点",
+    "AutoGatherDiadem-Notice-NotSupportSkysteel": "不支持天钢工具相关材料采集, 意外进入相关采集区也会立刻尝试瞬移到预设的固定点位以避免采集天钢材料",
     "AutoGatherDiadem-Notification-InventoryFull": "背包物品已满, 停止采集并退出副本",
     "AutoGatherDiadem-Notification-RoundEnd": "已采集 {0} 分钟, 退出副本并检测材料, 而后进入副本开始新一轮采集",
     "AutoGatherDiadem-Notification-StuckInGatheringAddon": "滞留在采集界面过久, 自动登出游戏, 自动登入后将重新开始采集",
