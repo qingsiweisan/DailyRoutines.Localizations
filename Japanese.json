@@ -390,7 +390,7 @@
     "AutoMarksFinder-UpdateSpawnPoints": "オンラインで位置データを更新中:",
     "AutoMarksFinder-UpdateSpawnPointsRet": "{0} 個のスキャンポイントが更新されました",
     "AutoMarksFinder-ZoneInfoForEachMark": "{0} {1} ライン",
-    "AutoMarksFinderDescription": "設定が完了した後、対応するエリア内のリスキーモブ情報を自動でスキャンし、リストデータとして整理する",
+    "AutoMarksFinderDescription": "対応するエリア内のリスキーモブ情報を自動でスキャンし、リストデータとして整理する\n※ワープするので注意",
     "AutoMarksFinderTitle": "自動リスキーモブスキャナー",
     "AutoMaterialize-AutoExtractAll": "全装備マテリア精製自動化",
     "AutoMaterialize-AutoExtractAllHelp": "装備品をマテリア精製する際に、精錬度がMAXの装備品のすべて一緒にマテリア精製します",
