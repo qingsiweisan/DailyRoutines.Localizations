@@ -263,7 +263,7 @@
     "AutoHuntingLog-AutoComplete": "自動完了",
     "AutoHuntingLog-InitDataNow": "討伐手帳データを初期化しています...\n\n長時間この状態が続く場合は、ネットワーク環境をご確認ください",
     "AutoHuntingLog-Notification-ContainMonsterInDuty": "{0} レベル{1} はインスタンスモンスターを含むため、手動で討伐完了後に再度開始してください",
-    "AutoHuntingLog-Notification-FailToGetMonsterCenter": "无法获取怪物 {0} ({1}) 的具体位置, 请手动处理",
+    "AutoHuntingLog-Notification-FailToGetMonsterCenter": "モンスター {0}（{1}）の位置情報が取得できませんでした。手動で確認・処理をお願いします。",
     "AutoHuntingLog-Notification-Finished": "{0} の討伐手帳任務が全て完了しました",
     "AutoHuntingLog-PreCondition-AnyAutoRotationPlugin": "任意の自動ループプラグイン",
     "AutoHuntingLog-UpdatedOnlineDataSuccessfully": "討伐手帳ポイントデータの取得に成功しました",
