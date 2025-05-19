@@ -263,6 +263,7 @@
     "AutoHuntingLog-AutoComplete": "Auto Complete",
     "AutoHuntingLog-InitDataNow": "Now initiating Hunting Log data... If you get stuck here for long, please check your network.",
     "AutoHuntingLog-Notification-ContainMonsterInDuty": "The hunting entry {0} {1} contains monsters in duties, please re-start the process after finishing these monsters manually.",
+    "AutoHuntingLog-Notification-FailToGetMonsterCenter": "无法获取怪物 {0} ({1}) 的具体位置, 请手动处理",
     "AutoHuntingLog-Notification-Finished": "The hunting entry {0} has been fully completed.",
     "AutoHuntingLog-PreCondition-AnyAutoRotationPlugin": "Any plugin provides auto combat functions",
     "AutoHuntingLog-UpdatedOnlineDataSuccessfully": "Acquisitions of online Hunting Log data succeeded.",
