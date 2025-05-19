@@ -263,6 +263,7 @@
     "AutoHuntingLog-AutoComplete": "自動完成",
     "AutoHuntingLog-InitDataNow": "正在初始化討伐筆記數據...\n\n如果滯留在此過久, 請檢查你的本地網路",
     "AutoHuntingLog-Notification-ContainMonsterInDuty": "{0} {1} 級包含副本內怪物, 請手動完成後再重新開始",
+    "AutoHuntingLog-Notification-FailToGetMonsterCenter": "无法获取怪物 {0} ({1}) 的具体位置, 请手动处理",
     "AutoHuntingLog-Notification-Finished": "{0} 討伐任務已全部完成",
     "AutoHuntingLog-PreCondition-AnyAutoRotationPlugin": "任一自動循環插件",
     "AutoHuntingLog-UpdatedOnlineDataSuccessfully": "獲取在線討伐筆記點位數據成功",
