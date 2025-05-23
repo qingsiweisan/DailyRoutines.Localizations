@@ -137,7 +137,7 @@
     "AutoCountBlacklistedDescription": "サーバー情報バーの形式で、設定範囲内のブラックリストに登録されたプレイヤーの数を表示する",
     "AutoCountBlacklistedTitle": "自動的に周辺のブラックリストに登録されたプレイヤーの数を表示する",
     "AutoCountBlacks-DtrEntry-Text": "周囲のBL者: {0}",
-    "AutoCountPlayers-DisplayLineWhenTargetingMe": "誰かがあなたをターゲットにした際に、ラインを表示する",
+    "AutoCountPlayers-DisplayLineWhenTargetingMe": "誰かにターゲットされた際、ラインを表示する",
     "AutoCountPlayers-Notification-SomeoneTargetingMe": "誰かがあなたをターゲットにしています",
     "AutoCountPlayers-PlayersAroundCount": "周囲の人数",
     "AutoCountPlayers-PlayersAroundInfo": "周囲のプレイヤーリスト",
