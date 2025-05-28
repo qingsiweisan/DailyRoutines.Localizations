@@ -880,6 +880,7 @@
     "BetterMarketBoard-ItemToMonitor": "Items with Price Monitoring",
     "BetterMarketBoard-ItemToMonitor-AutoPurchase": "Auto Purchase",
     "BetterMarketBoard-ItemToMonitor-AutoPurchase-BuyAll": "Purchase all the items with unit prices less than or equal to the threshold",
+    "BetterMarketBoard-ItemToMonitor-AutoPurchase-OnlyBuyHQ": "仅购买 HQ 商品",
     "BetterMarketBoard-ItemToMonitor-Help": "Price monitoring could be applied to specified items in the floating window, and the unit price threshold could be specified in the configurations. Market data requests will be sent at fixed intervals while the character is not in a duty, and notifications would be raised if someone is selling items with unit prices less than or equal to the threshold.",
     "BetterMarketBoard-ItemToMonitor-Notification-All": "[Price Monitoring] {0} (Unit Price Threshold: {1})\n{2} items with unit prices less than the threshold were found.",
     "BetterMarketBoard-ItemToMonitor-Notification-AutoBuy": "{0} purchase requests have been sent automatically.",
