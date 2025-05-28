@@ -880,6 +880,7 @@
     "BetterMarketBoard-ItemToMonitor": "價格監控物品",
     "BetterMarketBoard-ItemToMonitor-AutoPurchase": "自動購買",
     "BetterMarketBoard-ItemToMonitor-AutoPurchase-BuyAll": "購買全部 ≤ 單價閾值的商品",
+    "BetterMarketBoard-ItemToMonitor-AutoPurchase-OnlyBuyHQ": "仅购买 HQ 商品",
     "BetterMarketBoard-ItemToMonitor-Help": "可以在懸浮窗內設定監控指定物品的價格, 並在配置界面配置價格閾值, 當位於副本外時, 每隔固定時間便會請求一次物品市場數據, 並在有人出售單價 ≤ 設定價格閾值的商品時自動發送通知消息提醒",
     "BetterMarketBoard-ItemToMonitor-Notification-All": "[商品價格監控] {0} (單價閾值: {1})\n發現了 {2} 件低於設定閾值的商品",
     "BetterMarketBoard-ItemToMonitor-Notification-AutoBuy": "已自動發送購買 {0} 件物品請求",
