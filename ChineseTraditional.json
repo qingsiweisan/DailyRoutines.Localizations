@@ -1385,6 +1385,8 @@
     "ModuleConfig": "模組配置",
     "ModulesConfig": "模組配置",
     "ModulesConfigHelp": "除非你知道你的操作可能帶來的任何後果, 不然請不要隨意修改模組配置文件中的內容",
+    "MoreFlexibleMJIWorkdaysDescription": "打开工房生产计划界面后, 显示可快捷配置工房休息日的悬浮窗, 并解除每周期必须要双休的限制",
+    "MoreFlexibleMJIWorkdaysTitle": "更加灵活的无人岛工房休息日设置",
     "MoveableDeathStateDescription": "令當前遊玩角色即使處於死亡狀態下, 也可以正常移動",
     "MoveableDeathStateTitle": "死亡狀態可移動",
     "MoveableOverlay": "懸浮窗可移動",
