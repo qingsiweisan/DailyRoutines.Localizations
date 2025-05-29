@@ -23,7 +23,7 @@
     "Auto": "自動",
     "AutoAcceptInvitationDescription": "配置完成後, 自動接受滿足條件的玩家的組隊邀請",
     "AutoAcceptInvitationTitle": "自動接受組隊邀請",
-    "AutoAcceptInvitationTitle-PlayerNameInputHelp": "輸入玩家名, 大小寫不敏感, 不要包括伺服器名稱",
+    "AutoAcceptInvitationTitle-PlayerNameInputHelp": "输入玩家名, 大小写不敏感, 需要包括服务器名称, 玩家名与服务器名称之间不要有任何分隔\n例: 丝瓜卡夫卡拂晓之间",
     "AutoActionAlignCamera-ReverseDirection": "反轉位移方向",
     "AutoActionAlignCameraDescription": "使部分技能的施法面向始終以當前鏡頭朝向為基準",
     "AutoActionAlignCameraTitle": "自動鏡頭面向釋放技能",
