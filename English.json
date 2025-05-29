@@ -23,7 +23,7 @@
     "Auto": "Auto",
     "AutoAcceptInvitationDescription": "Automatically accept party invitations from players who satisfy certain conditions after proper configurations.",
     "AutoAcceptInvitationTitle": "Auto Accept Party Invitation",
-    "AutoAcceptInvitationTitle-PlayerNameInputHelp": "输入玩家名, 大小写不敏感, 需要包括服务器名称, 玩家名与服务器名称之间不要有任何分隔\n例: 丝瓜卡夫卡拂晓之间",
+    "AutoAcceptInvitationTitle-PlayerNameInputHelp": "Enter player names with server names here (case insensitive and no separator between the names)\nFor example: Naoki YoshidaChocobo",
     "AutoActionAlignCamera-ReverseDirection": "Reverse the direction of displacement",
     "AutoActionAlignCameraDescription": "Make some actions always cast in the current camera direction",
     "AutoActionAlignCameraTitle": "Auto Force Actions To The Camera Direction",
