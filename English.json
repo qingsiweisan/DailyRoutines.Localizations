@@ -1385,6 +1385,8 @@
     "ModuleConfig": "Module Config",
     "ModulesConfig": "Module Configs",
     "ModulesConfigHelp": "Unless you are aware of the potential consequences of your actions, please do not modify the module configuration files",
+    "MoreFlexibleMJIWorkdaysDescription": "打开工房生产计划界面后, 显示可快捷配置工房休息日的悬浮窗, 并解除每周期必须要双休的限制",
+    "MoreFlexibleMJIWorkdaysTitle": "更加灵活的无人岛工房休息日设置",
     "MoveableDeathStateDescription": "Allow the current character to move normally even when in a dead state.",
     "MoveableDeathStateTitle": "Moveable After Death",
     "MoveableOverlay": "Unlock the position of the floating window",
