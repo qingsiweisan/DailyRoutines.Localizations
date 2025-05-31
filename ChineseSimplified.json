@@ -254,6 +254,7 @@
     "AutoGatherDiademTitle": "自动云冠群岛采集",
     "AutoGathererRoleActionsDescription": "当切换到任一采集职业时, 自动使用其他采集职业的职能技能",
     "AutoGathererRoleActionsTitle": "自动采集职业职能技能",
+    "AutoGysahlGreens-AutoSwitchStance": "自动切换陆行鸟战术",
     "AutoGysahlGreens-NotBattleJobUsingGys": "非战斗职业下仍使用基萨尔野菜",
     "AutoGysahlGreens-NotificationMessage": "基萨尔野菜数量不足, 请及时补充",
     "AutoGysahlGreensDescription": "若当前在野外区域, 且自身陆行鸟搭档尚未被召唤/剩余时间低于 5 分钟, 则自动使用基萨尔野菜",
