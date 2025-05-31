@@ -254,6 +254,8 @@
     "AutoGatherDiademTitle": "自动云冠群岛采集",
     "AutoGathererRoleActionsDescription": "当切换到任一采集职业时, 自动使用其他采集职业的职能技能",
     "AutoGathererRoleActionsTitle": "自动采集职业职能技能",
+    "AutoGuaranteeCarryingObjectDescription": "在野外区域搬运物品时, 自动遁地以防止被怪物攻击致使搬运失败\n(当选中任务目标后或在休息区内, 发生移动时, 遁地会自动失效)",
+    "AutoGuaranteeCarryingObjectTitle": "自动保障搬运物品安全",
     "AutoGysahlGreens-AutoSwitchStance": "自动切换陆行鸟战术",
     "AutoGysahlGreens-NotBattleJobUsingGys": "非战斗职业下仍使用基萨尔野菜",
     "AutoGysahlGreens-NotificationMessage": "基萨尔野菜数量不足, 请及时补充",
