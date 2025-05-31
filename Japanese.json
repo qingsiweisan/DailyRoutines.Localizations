@@ -254,6 +254,7 @@
     "AutoGatherDiademTitle": "ディアデム諸島自動採集",
     "AutoGathererRoleActionsDescription": "ギャザラージョブにチェンジした際、他のギャザラーの機能スキルが自動的に使用される。",
     "AutoGathererRoleActionsTitle": "ギャザラージョブの機能スキルの自動使用",
+    "AutoGysahlGreens-AutoSwitchStance": "自动切换陆行鸟战术",
     "AutoGysahlGreens-NotBattleJobUsingGys": "非戦闘ジョブでもギサールの野菜を使用",
     "AutoGysahlGreens-NotificationMessage": "ギサールの野菜がありません。補充してください。",
     "AutoGysahlGreensDescription": "フィールドエリアでチョコボ未召喚、または残り時間5分未満の場合、ギサールの野菜を自動使用",
