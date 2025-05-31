@@ -254,6 +254,7 @@
     "AutoGatherDiademTitle": "Auto Gather In The Diadem",
     "AutoGathererRoleActionsDescription": "Automatically use abilities from other gathering classes when switching to any gathering class",
     "AutoGathererRoleActionsTitle": "Auto Use Gatherer Role Actions",
+    "AutoGysahlGreens-AutoSwitchStance": "自动切换陆行鸟战术",
     "AutoGysahlGreens-NotBattleJobUsingGys": "Use the Gysahl Greens even for non-battle jobs",
     "AutoGysahlGreens-NotificationMessage": "The Gysahl Greens are running low, so please replenish them.",
     "AutoGysahlGreensDescription": "If you are currently outside the city area and your chocobo partner has not been summoned or the remaining time is less than 5 minutes, you will automatically use Gysahl Greens.",
