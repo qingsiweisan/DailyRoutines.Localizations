@@ -276,7 +276,7 @@
     "AutoGatherDiademTitle": "Auto Gather In The Diadem",
     "AutoGathererRoleActionsDescription": "Automatically use abilities from other gathering classes when switching to any gathering class",
     "AutoGathererRoleActionsTitle": "Auto Use Gatherer Role Actions",
-    "AutoGuaranteeCarryingObjectDescription": "Move underground while carrying objects in non-instanced areas, to prevent dropping due to monster attacks. (The module won't affect once the quest target is selected or when the character is in a sanctuary)",
+    "AutoGuaranteeCarryingObjectDescription": "Move underground while carrying objects in non-instanced areas, to prevent dropping due to monster attacks. (The module won't affect once the quest target is selected or while the character is moving in a sanctuary)",
     "AutoGuaranteeCarryingObjectTitle": "Safe Object Carrying",
     "AutoGysahlGreens-AutoSwitchStance": "Auto Switch Chocobo Stance",
     "AutoGysahlGreens-NotBattleJobUsingGys": "Use the Gysahl Greens even for non-battle jobs",
