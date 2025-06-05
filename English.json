@@ -1341,7 +1341,7 @@
     "InstantReturn-CommandHelp": "Instant Return",
     "InstantReturn-DisableInPVP": "Disable in PVP",
     "InstantReturn-HookOrigin": "Replace the game's native Return action",
-    "InstantReturn-IgnoreCooldown": "无视技能冷却",
+    "InstantReturn-IgnoreCooldown": "Ignore Cooldown",
     "InstantReturnDescription": "Make the Return function instant with no cast time and remove its cooldown",
     "InstantReturnTitle": "Instant Return",
     "InstantSprintDescription": "Remove Sprint Cooldown",
