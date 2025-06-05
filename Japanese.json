@@ -1341,6 +1341,7 @@
     "InstantReturn-CommandHelp": "即デジョン",
     "InstantReturn-DisableInPVP": "PVPエリア内で無効にする",
     "InstantReturn-HookOrigin": "現在のエリアで有効なデジョンに置き換える",
+    "InstantReturn-IgnoreCooldown": "无视技能冷却",
     "InstantReturnDescription": "デジョンのキャストとリキャストを無視する",
     "InstantReturnTitle": "即デジョン",
     "InstantSprintDescription": "スプリントがクールダウンしないようにする",
