@@ -1341,6 +1341,7 @@
     "InstantReturn-CommandHelp": "即刻返回",
     "InstantReturn-DisableInPVP": "在 PVP 区域内禁用",
     "InstantReturn-HookOrigin": "替换游戏原生的返回技能",
+    "InstantReturn-IgnoreCooldown": "无视技能冷却",
     "InstantReturnDescription": "令返回功能无需咏唱等待, 并且不再进入冷却",
     "InstantReturnTitle": "即刻返回",
     "InstantSprintDescription": "令冲刺功能不再进入冷却",
