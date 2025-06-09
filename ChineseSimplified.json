@@ -927,6 +927,7 @@
     "BetterStatusTimeDisplayDescription": "配置完成后, 使用选定的格式显示长时间状态效果的具体剩余时间",
     "BetterStatusTimeDisplayTitle": "更好的状态效果时间显示",
     "BetterTeleport-CommandHelp": "<以太之光/城内以太之晶名称 (大小写不敏感)> 直接传送至对应的以太之光/城内以太之晶处",
+    "BetterTeleport-HideAethernetInParty": "当位于小队中时, 隐藏城内以太之晶",
     "BetterTeleport-Notification": "正在传送至: {0}",
     "BetterTeleport-RedirectedToCurrentPos": "重定向至当前坐标",
     "BetterTeleportDescription": "用模块界面取代游戏原生界面, 提供高效的搜索、目的地预览功能, 并支持直接传送到任一城内以太之晶处",
