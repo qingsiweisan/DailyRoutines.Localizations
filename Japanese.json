@@ -927,6 +927,7 @@
     "BetterStatusTimeDisplayDescription": "選択したフォーマットで長時間ステータス効果の具体的な残り時間を表示します",
     "BetterStatusTimeDisplayTitle": "ステータス効果時間表示の改善",
     "BetterTeleport-CommandHelp": "<エーテライト名／都市内エーテライト名（大文字・小文字は区別されません）> を入力すると、対応するエーテライト／都市内エーテライトへ直接テレポートします。",
+    "BetterTeleport-HideAethernetInParty": "当位于小队中时, 隐藏城内以太之晶",
     "BetterTeleport-Notification": "テレポート中: {0}",
     "BetterTeleport-RedirectedToCurrentPos": "現在の座標へリダイレクト",
     "BetterTeleportDescription": "ゲームの標準テレポ画面をモジュール式インターフェースに置き換え、効率的な検索機能や目的地プレビューを提供します。また、都市内の任意のエーテライトへ直接テレポートすることも可能です。",
