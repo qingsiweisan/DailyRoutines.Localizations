@@ -1149,6 +1149,8 @@
     "FasterTerritoryTransportDescription": "エリア内のすべてのマップ遷移のロード速度を速め、ゲームキャラクターがロード中の無効状態からできるだけ早く抜け出せるようにする",
     "FasterTerritoryTransportTitle": "エリア内のマップ遷移ロードを高速化する",
     "FastFreeCompanyChestDescription": "カンパニーチェストを開いた後、すべてのページのデータを自動で取得し、操作ロック時間を大幅に短縮します\nまた、アイテムの保管や引き出し時に数量の確認が不要になります",
+    "FastFreeCompanyChestStoreDescription": "打开部队储物柜后, 为物品添加右键菜单 放入部队储物柜 以快捷存储, 或按住打断热键后右键物品直接存储到当前页",
+    "FastFreeCompanyChestStoreTitle": "快捷部队储物柜存储",
     "FastFreeCompanyChestTitle": "クイックカンパニーチェスト",
     "FastGrandCompanyExchange-CommandHelp": "<アイテム名> <数量(省略可)> で、軍票交換所で指定したアイテムを指定数量分交換する\n 数量を省略した場合は、軍票全てを指定したアイテムに交換する。\nアイテム名が \"default\" の場合は、オーバーレイ表示内の設定を直接使用し、この場合は数量を入力する必要はない\n(使用例: /pdr gce ベンチャースクリップ 2)",
     "FastGrandCompanyExchangeDescription": "軍票交換所の画面上部に、アイテム名を直接入力して対応するアイテムを即座に交換することができる、ショートカット交換用のオーバーレイを表示",
