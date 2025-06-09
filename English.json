@@ -1149,6 +1149,8 @@
     "FasterTerritoryTransportDescription": "Speed up all in-zone loading to reduce character disable time during loading",
     "FasterTerritoryTransportTitle": "Faster In-Zone Loading",
     "FastFreeCompanyChestDescription": "After opening the Free Company chest, automatically request all page data, significantly reduce operation lock time, and remove quantity confirmation when storing or retrieving items",
+    "FastFreeCompanyChestStoreDescription": "打开部队储物柜后, 为物品添加右键菜单 放入部队储物柜 以快捷存储, 或按住打断热键后右键物品直接存储到当前页",
+    "FastFreeCompanyChestStoreTitle": "快捷部队储物柜存储",
     "FastFreeCompanyChestTitle": "Fast Free Company Chest",
     "FastGrandCompanyExchange-CommandHelp": "<Item name (case insensitive)> (< Quantity >) Exchange the specified quantity of the specified item in the Company Seals　Exchange (If the item name is \"default\", the relevant configuration in the floating window is used directly, and there is no need to enter the quantity)",
     "FastGrandCompanyExchangeDescription": "Added a quick exchange floating window in the Company Seals Exchange interface, so you can instantly exchange it for the corresponding item by entering the item name directly.",
