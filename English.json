@@ -1148,6 +1148,7 @@
     "FasterTerritoryTransport-OnlyLocalHelp": "If this option on, only the role movement restriction for the local client will be lifted, and no notification packets will be sent to the server that the zone load has been completed\n\nTake the scenario of passing through the map and moving continuously within a copy as an example:\nOption on: After the loading complete, it appears to others that you appear in the current position by fading out\nOption off: It seems to others that you have finished loading in an instant and moved to your current position normally",
     "FasterTerritoryTransportDescription": "Speed up all in-zone loading to reduce character disable time during loading",
     "FasterTerritoryTransportTitle": "Faster In-Zone Loading",
+    "FastFreeCompanyChest-StoreIn": "放入部队储物柜",
     "FastFreeCompanyChestDescription": "After opening the Free Company chest, automatically request all page data, significantly reduce operation lock time, and remove quantity confirmation when storing or retrieving items",
     "FastFreeCompanyChestStoreDescription": "打开部队储物柜后, 为物品添加右键菜单 放入部队储物柜 以快捷存储, 或按住打断热键后右键物品直接存储到当前页",
     "FastFreeCompanyChestStoreTitle": "快捷部队储物柜存储",
