@@ -918,6 +918,7 @@
     "BetterMarketBoard-ItemToMonitor-Notification-Single": "[Price Monitoring] {0} (Unit Price Threshold: {1})\nUnit Price: {2}\nQuantity: {3}\nTotal Price: {4} ({5}: {6})",
     "BetterMarketBoard-MonitorPrice": "Monitor Price",
     "BetterMarketBoard-Purchase-Help": "Keep pressing the interrupt hotkey {0} to directly purchase without confirmation",
+    "BetterMarketBoard-SearchInMarket": "在市场内搜索",
     "BetterMarketBoardDescription": "New command /pdr {0} to pop up the better market board provided by the module, for better price inquiries, purchasing and price monitoring.",
     "BetterMarketBoardTitle": "Better Market Board",
     "BetterPartyFinderSortDescription": "Let the recruitments in Party Finder be sorted by the exact value of the remaining time.",
