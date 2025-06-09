@@ -1149,6 +1149,8 @@
     "FasterTerritoryTransportDescription": "加快區域內所有過圖行為的加載速度, 使遊戲人物能盡早脫離加載期間的禁用狀態",
     "FasterTerritoryTransportTitle": "更快的區域內過圖加載",
     "FastFreeCompanyChestDescription": "打開部隊儲物櫃頁面後, 自動請求所有頁面數據, 且大幅減少操作鎖時長, 並在存儲/取出物品時不再需要確認數量",
+    "FastFreeCompanyChestStoreDescription": "打开部队储物柜后, 为物品添加右键菜单 放入部队储物柜 以快捷存储, 或按住打断热键后右键物品直接存储到当前页",
+    "FastFreeCompanyChestStoreTitle": "快捷部队储物柜存储",
     "FastFreeCompanyChestTitle": "快捷部隊儲物櫃",
     "FastGrandCompanyExchange-CommandHelp": "<物品名 (大小寫不敏感)> (<數量>) 在軍票交換所內交換指定數量指定的物品 (若物品名為 default 則直接使用懸浮窗內的相關配置, 此時無需傳入數量)",
     "FastGrandCompanyExchangeDescription": "在 軍票交換所 界面新增快捷交換懸浮窗, 便於直接使用物品名快捷交換對應的物品",
