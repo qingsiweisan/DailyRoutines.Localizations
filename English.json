@@ -927,6 +927,7 @@
     "BetterStatusTimeDisplayDescription": "After configurations, the remaining time of status with long durations will be displayed in the selected format.",
     "BetterStatusTimeDisplayTitle": "Display the status time better",
     "BetterTeleport-CommandHelp": "<Name of aetheryte/aethernet shards (case insensitive)> to directly teleport to the specified aetheryte/aethernet shards.",
+    "BetterTeleport-HideAethernetInParty": "当位于小队中时, 隐藏城内以太之晶",
     "BetterTeleport-Notification": "Now teleporting to: {0}",
     "BetterTeleport-RedirectedToCurrentPos": "Redirect to the current position",
     "BetterTeleportDescription": "Replace the vanilla teleportation interface with a Daily Routines one, which provides better searching, navigation and destination previews and allows players to directly teleport to any aethernet shard in the city.",
