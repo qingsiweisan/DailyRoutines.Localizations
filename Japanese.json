@@ -1148,6 +1148,7 @@
     "FasterTerritoryTransport-OnlyLocalHelp": "ローカルクライアントでのキャラクター移動制限のみ解除され、サーバーにはエリアの読み込み完了を通知するデータパケットは送信されません\n\nダンジョン内での移動例:\nオプションを有効にした場合: 読み込みが完了すると、他のプレイヤーからはあなたが徐々に現れるように見えます\nオプションを無効にした場合: 他のプレイヤーからは、あなたが瞬時に読み込みを終えて、正常に移動しているように見えます",
     "FasterTerritoryTransportDescription": "エリア内のすべてのマップ遷移のロード速度を速め、ゲームキャラクターがロード中の無効状態からできるだけ早く抜け出せるようにする",
     "FasterTerritoryTransportTitle": "エリア内のマップ遷移ロードを高速化する",
+    "FastFreeCompanyChest-StoreIn": "放入部队储物柜",
     "FastFreeCompanyChestDescription": "カンパニーチェストを開いた後、すべてのページのデータを自動で取得し、操作ロック時間を大幅に短縮します\nまた、アイテムの保管や引き出し時に数量の確認が不要になります",
     "FastFreeCompanyChestStoreDescription": "打开部队储物柜后, 为物品添加右键菜单 放入部队储物柜 以快捷存储, 或按住打断热键后右键物品直接存储到当前页",
     "FastFreeCompanyChestStoreTitle": "快捷部队储物柜存储",
