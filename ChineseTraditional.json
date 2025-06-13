@@ -888,6 +888,7 @@
     "BanEscToCancelCastTitle": "禁止 Esc 鍵中斷詠唱",
     "BatchDisable": "批量禁用",
     "BatchEnable": "批量啟用",
+    "BetterBlueSetLoad-CommandHelp": "加载指定索引或名称的青魔法技能组",
     "BetterBlueSetLoad-Notification": "自動調整並應用了 {0} 號技能組",
     "BetterBlueSetLoadDescription": "最佳化青魔法書界面內有效技能組的讀取, 允許在不解除 以太複製 等狀態的情況下直接切換技能組",
     "BetterBlueSetLoadTitle": "更好的青魔法技能組讀取",
