@@ -888,6 +888,7 @@
     "BanEscToCancelCastTitle": "Disable Esc Key To Interrupt Casting",
     "BatchDisable": "Batch Disable",
     "BatchEnable": "Batch Enable",
+    "BetterBlueSetLoad-CommandHelp": "加载指定索引或名称的青魔法技能组",
     "BetterBlueSetLoad-Notification": "Apply active set {0}",
     "BetterBlueSetLoadDescription": "Optimized loading of active sets in the Blue Magic Spellbook interface, allowing active sets switching without removing Aetheric Mimicry.",
     "BetterBlueSetLoadTitle": "Better BLU Spell Set Load",
