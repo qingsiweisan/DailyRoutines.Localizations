@@ -432,7 +432,7 @@
     "AutoMateriaAttach-Notification-InsufficientMaterias": "Insufficient number of materia, melding terminated.",
     "AutoMateriaAttach-State-Completed": "Melding Completed",
     "AutoMateriaAttach-State-NotMatched": "Mismatched Slot(s) Detected",
-    "AutoMateriaAttach-WebsiteHelp": "本模块仅支持 最终幻想14配装器 (asvel.github.io/ffxiv-gearing) 网站的配装计划解析, 但是该网站同时也支持导入其他一些网站配装计划。\n如果你的配装计划恰巧来源于下列支持网站之一, 可以点击网站右上角的 \"导入\" 按钮, 并按照相关指引操作。\n\n支持网站:\n\tAriyala's Final Fantasy XIV Toolkit (ffxiv.ariyala.com)\n\tFF14俺tools：装備シミュレータ (ffxiv.es.exdreams.net)\n\tEtro (etro.gg)\n\tFFXIV Teamcraft (ffxivteamcraft.com)\n\tXivGear (xivgear.app)",
+    "AutoMateriaAttach-WebsiteHelp": "The module is only able to parse melding plans from the website 最终幻想14配装器 (asvel.github.io/ffxiv-gearing). Fortunately, this website supports importing melding plans from other several websites.\nIf your melding plans are from any of the following websites, you could press the \"导入\" button in the upper right corner of asvel ffxiv gearing, and import your plans to asvel ffxiv gearing according to the instructions.\n\nasvel ffxiv gearing supports importing melding plans from:\n\tAriyala's Final Fantasy XIV Toolkit (ffxiv.ariyala.com)\n\tFF14俺tools：装備シミュレータ (ffxiv.es.exdreams.net)\n\tEtro (etro.gg)\n\tFFXIV Teamcraft (ffxivteamcraft.com)\n\tXivGear (xivgear.app)",
     "AutoMateriaAttachDescription": "Automatically meld materia with gears in batches after importing and saving melding plans from external websites.",
     "AutoMateriaAttachTitle": "Auto Meld Materia",
     "AutoMaterialize-AutoExtractAll": "Auto Extract All Equipment",
