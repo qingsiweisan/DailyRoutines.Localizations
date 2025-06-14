@@ -888,7 +888,7 @@
     "BanEscToCancelCastTitle": "ESCキーでの詠唱中断を無効にする",
     "BatchDisable": "一括無効化",
     "BatchEnable": "一括有効化",
-    "BetterBlueSetLoad-CommandHelp": "加载指定索引或名称的青魔法技能组",
+    "BetterBlueSetLoad-CommandHelp": "指定したインデックスまたは名前の青魔法スキルセットを読み込む",
     "BetterBlueSetLoad-Notification": "{0} 番のアクティブセットを適用しました。",
     "BetterBlueSetLoadDescription": "青魔道書UI内のアクティブセットの読み込みを最適化し、エーテルコピーなどの状態を解除せずにスキルセットを直接切り替えられる",
     "BetterBlueSetLoadTitle": "【BLU】青魔法アクティブセットの読み込み改善",
