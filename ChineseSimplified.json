@@ -431,7 +431,7 @@
     "AutoMateriaAttach-Notification-Complete": "自动镶嵌已完成",
     "AutoMateriaAttach-Notification-InsufficientMaterias": "魔晶石数量不足, 停止自动镶嵌",
     "AutoMateriaAttach-State-Completed": "镶嵌完成",
-    "AutoMateriaAttach-State-NotMatched": "此孔位魔晶石不对应",
+    "AutoMateriaAttach-State-NotMatched": "有孔位魔晶石不对应",
     "AutoMateriaAttach-WebsiteHelp": "本模块仅支持 最终幻想14配装器 (asvel.github.io/ffxiv-gearing) 网站的配装计划解析, 但是该网站同时也支持导入其他一些网站配装计划。\n如果你的配装计划恰巧来源于下列支持网站之一, 可以点击网站右上角的 \"导入\" 按钮, 并按照相关指引操作。\n\n支持网站:\n\tAriyala's Final Fantasy XIV Toolkit (ffxiv.ariyala.com)\n\tFF14俺tools：装備シミュレータ (ffxiv.es.exdreams.net)\n\tEtro (etro.gg)\n\tFFXIV Teamcraft (ffxivteamcraft.com)\n\tXivGear (xivgear.app)",
     "AutoMateriaAttachDescription": "导入并保存外部网站的配装计划并确认后, 自动按照计划批量完成所有装备的魔晶石镶嵌",
     "AutoMateriaAttachTitle": "自动镶嵌魔晶石",
