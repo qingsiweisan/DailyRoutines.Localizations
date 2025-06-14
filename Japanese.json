@@ -431,7 +431,7 @@
     "AutoMateriaAttach-Notification-Complete": "マテリア装着が完了しました。",
     "AutoMateriaAttach-Notification-InsufficientMaterias": "マテリアが不足しているため、自動装着を停止しました。",
     "AutoMateriaAttach-State-Completed": "マテリア装着完了",
-    "AutoMateriaAttach-State-NotMatched": " このスロットには対応しないマテリアです。",
+    "AutoMateriaAttach-State-NotMatched": "有孔位魔晶石不对应",
     "AutoMateriaAttach-WebsiteHelp": "本モジュールは FF14ギアプランナー (asvel.github.io/ffxiv-gearing) の装備プラン解析のみをサポートしていますが、当該サイトは他の一部サイトの装備プランのインポートにも対応しています。\nもし、あなたの装備プランが下記の対応サイトのいずれかから取得されたものであれば、サイト右上の「インポート」ボタンをクリックし、指示に従って操作してください。\n\n対応サイト：\n\tAriyala's Final Fantasy XIV Toolkit（ffxiv.ariyala.com）\n\tFF14俺tools：装備シミュレーター（ffxiv.es.exdreams.net）\n\tEtro（etro.gg）\n\tFFXIV Teamcraft（ffxivteamcraft.com）\n\tXivGear（xivgear.app）",
     "AutoMateriaAttachDescription": "外部サイトから装備プランを取り込み、保存・確認した後、プラン通りに全ての装備にマテリアを自動でまとめて装着します。",
     "AutoMateriaAttachTitle": "マテリア自動装着",
