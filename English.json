@@ -433,7 +433,7 @@
     "AutoMateriaAttach-State-Completed": "Melding Completed",
     "AutoMateriaAttach-State-NotMatched": "Mismatched Slot(s) Detected",
     "AutoMateriaAttach-WebsiteHelp": "The module is only able to parse melding plans from the website 最终幻想14配装器 (asvel.github.io/ffxiv-gearing). Fortunately, this website supports importing melding plans from other several websites.\nIf your melding plans are from any of the following websites, you could press the \"导入\" button in the upper right corner of asvel ffxiv gearing, and import your plans to asvel ffxiv gearing according to the instructions.\n\nasvel ffxiv gearing supports importing melding plans from:\n\tAriyala's Final Fantasy XIV Toolkit (ffxiv.ariyala.com)\n\tFF14俺tools：装備シミュレータ (ffxiv.es.exdreams.net)\n\tEtro (etro.gg)\n\tFFXIV Teamcraft (ffxivteamcraft.com)\n\tXivGear (xivgear.app)",
-    "AutoMateriaAttachDescription": "Automatically meld materia with gears in batches after importing and saving melding plans from external websites.",
+    "AutoMateriaAttachDescription": "导入外部网站的配装计划并确认后, 自动按照计划批量完成所有装备的魔晶石镶嵌",
     "AutoMateriaAttachTitle": "Auto Meld Materia",
     "AutoMaterialize-AutoExtractAll": "Auto Extract All Equipment",
     "AutoMaterialize-AutoExtractAllHelp": "When extracting any gear's materia, extract all.",
