@@ -1190,7 +1190,7 @@
     "FastObjectInteractDescription": "「付近にある調べられるオブジェクト」のリストを表示するカスタマイズ可能なオーバーレイを追加し、素早く操作できるようにします。",
     "FastObjectInteractTitle": "周囲のオブジェクトを素早く調べる",
     "FastRetainerStoreDescription": "リテイナーのアイテムページに右クリックメニューを追加し、同じ種類のアイテムをワンクリックで出し入れできるようにします。",
-    "FastRetainerStoreTitle": "快捷雇员物品存取",
+    "FastRetainerStoreTitle": "リテイナーアイテムの簡易入出庫",
     "FastResetAllSDEnmity-CommandHelp": "すべての木人の敵視を素早くリセット",
     "FastResetAllSDEnmityDescription": "１体の木人の敵視をリセットすれば、すべての木人の敵視をリセットできます。また、敵視をリセットするためのコマンドが追加されます。",
     "FastResetAllSDEnmityTitle": "すべての木人の敵視を素早くリセット",
