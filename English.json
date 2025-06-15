@@ -1189,7 +1189,7 @@
     "FastObjectInteract-WindowInvisibleWhenInteract": "Hide When Interacting",
     "FastObjectInteractDescription": "Add an overlay listing nearby interactable objects, allowing quicker interactions through direct clicks",
     "FastObjectInteractTitle": "Fast Object Interaction",
-    "FastRetainerStoreDescription": "Add a right-click menu for the item interface on retainers to simplify and facilitate item storage and retrieval operations.",
+    "FastRetainerStoreDescription": "Add a right-click menu for the item interface on retainers to facilitate storage and retrieval of items in the same category.",
     "FastRetainerStoreTitle": "Better Item Storage And Retrieval On Retainers",
     "FastResetAllSDEnmity-CommandHelp": "Reset All Striking Dummy Enmity",
     "FastResetAllSDEnmityDescription": "Resetting enmity from a single Striking Dummy will clear enmity from all dummies, and a command is added for manual clearing",
