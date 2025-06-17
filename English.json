@@ -253,8 +253,6 @@
     "AutoGatherDiadem-BlacklistMonstersHelp": "Add names of monsters here which you wouldn't like to cast Aetheromatic Auger on.",
     "AutoGatherDiadem-BlacklistWeathers": "Blacklist Weathers",
     "AutoGatherDiadem-BlacklistWeathersHelp": "If a special weather was added to the blacklist, the module will not gather all the unique materials during its period.",
-    "AutoGatherDiadem-GatherCloudedPointRepeatedly": "Repeatedly gather clouded gathering nodes",
-    "AutoGatherDiadem-GatherCloudedPointRepeatedlyHelp": "The module will repeatedly gather clouded gathering nodes by leaving and re-joining the duty if checked.\nNote: the actions may be risky in public and there's a chance to get reported.",
     "AutoGatherDiadem-ItemToExchange": "Items to be exchanged",
     "AutoGatherDiadem-ItemToExchangeHelp": "Items to be exchanged automatically after material counting of each round or after a manual trigger",
     "AutoGatherDiadem-ItemToGatherName": "Items to be gathered",
