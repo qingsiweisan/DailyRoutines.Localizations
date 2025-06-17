@@ -253,8 +253,6 @@
     "AutoGatherDiadem-BlacklistMonstersHelp": "如果不想对某些特定的怪物使用以太钻孔机, 请在此处添加它们的完整名称",
     "AutoGatherDiadem-BlacklistWeathers": "黑名单天气",
     "AutoGatherDiadem-BlacklistWeathersHelp": "若指定特殊天气被列入黑名单, 则不会在该天气期间进入采集对应稀有材料的逻辑",
-    "AutoGatherDiadem-GatherCloudedPointRepeatedly": "反复采集梦幻采集点",
-    "AutoGatherDiadem-GatherCloudedPointRepeatedlyHelp": "若勾选, 则会在与当前职业相对应的特殊天气下, 反复进出副本以采集稀有材料\n注: 可能会被其他玩家注意以遭致自身被举报",
     "AutoGatherDiadem-ItemToExchange": "待交换物品",
     "AutoGatherDiadem-ItemToExchangeHelp": "希望模块在手动触发交换或每一轮采集结束检验材料后自动交换的物品",
     "AutoGatherDiadem-ItemToGatherName": "待采集物品名称",
