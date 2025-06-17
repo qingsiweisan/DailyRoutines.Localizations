@@ -253,8 +253,6 @@
     "AutoGatherDiadem-BlacklistMonstersHelp": "如果不想對某些特定的怪物使用以太鑽孔機, 請在此處添加它們的完整名稱",
     "AutoGatherDiadem-BlacklistWeathers": "黑名單天氣",
     "AutoGatherDiadem-BlacklistWeathersHelp": "若指定特殊天氣被列入黑名單, 則不會在該天氣期間進入採集對應稀有材料的邏輯",
-    "AutoGatherDiadem-GatherCloudedPointRepeatedly": "反覆採集夢幻採集點",
-    "AutoGatherDiadem-GatherCloudedPointRepeatedlyHelp": "若勾選, 則會在與當前職業相對應的特殊天氣下, 反覆進出副本以採集稀有材料\n註: 可能會被其他玩家注意以遭致自身被檢舉",
     "AutoGatherDiadem-ItemToExchange": "待交換物品",
     "AutoGatherDiadem-ItemToExchangeHelp": "希望模組在手動觸發交換或每一輪採集結束檢驗材料後自動交換的物品",
     "AutoGatherDiadem-ItemToGatherName": "待採集物品名稱",
