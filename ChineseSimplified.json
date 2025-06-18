@@ -274,6 +274,8 @@
     "AutoGatherDiadem-PreCondition-VnavmeshEnabled": "安装并启用了 vnavmesh 插件",
     "AutoGatherDiadem-UseCordial": "使用强心剂",
     "AutoGatherDiadem-UseCordialHelp": "若勾选, 则会尽量在不溢出 GP 的前提下, 按照 高级强心剂 > 强心剂 > 轻型强心剂 | HQ > NQ 的顺序使用",
+    "AutoGatherDiadem-IgnoreSkillPoints": "忽略技巧点",
+    "AutoGatherDiadem-IgnoreSkillPointsHelp": "如果你已经双采 50 万分, 但需要完成采集第二期/第三期材料的成就, 请勾选本项",
     "AutoGatherDiademDescription": "配置完成并在 天上福地云冠群岛 内点击开始后, 自动循环采集指定材料以积累技巧点/练级",
     "AutoGatherDiademTitle": "自动云冠群岛采集",
     "AutoGathererRoleActionsDescription": "当切换到任一采集职业时, 自动使用其他采集职业的职能技能",
