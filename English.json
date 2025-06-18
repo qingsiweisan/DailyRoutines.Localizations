@@ -274,6 +274,8 @@
     "AutoGatherDiadem-PreCondition-VnavmeshEnabled": "The Dalamud plugin vnavmesh is installed and enabled.",
     "AutoGatherDiadem-UseCordial": "Use cordial",
     "AutoGatherDiadem-UseCordialHelp": "Cordial would be consumed according this priority if checked: hi-cordial > cordial > watered cordial and high quality > normal quality while minimizing the overkill GP amount.",
+    "AutoGatherDiadem-IgnoreSkillPoints": "忽略技巧点",
+    "AutoGatherDiadem-IgnoreSkillPointsHelp": "如果你已经双采 50 万分, 但需要完成采集第二期/第三期材料的成就, 请勾选本项",
     "AutoGatherDiademDescription": "Automatically gather specified materials for skyward score or leveling up after configurations and clicking start in The Diadem.",
     "AutoGatherDiademTitle": "Auto Gather In The Diadem",
     "AutoGathererRoleActionsDescription": "Automatically use abilities from other gathering classes when switching to any gathering class",
