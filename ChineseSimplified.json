@@ -1012,6 +1012,8 @@
     "Control": "控制",
     "CopiedToClipboard": "已复制至剪贴板",
     "Copy": "复制",
+    "CopyItemNameContextMenuDescription": "为游戏内其他界面内的物品右键菜单补全 复制道具名 选项",
+    "CopyItemNameContextMenuTitle": "复制道具名右键菜单",
     "Current": "当前",
     "CurrentLevel": "当前等级",
     "CurrentMap": "当前地图",
