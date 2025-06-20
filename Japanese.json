@@ -1461,6 +1461,8 @@
     "MultiTargetTrackerDescription": "ウェイマーカーを用いて、設定した複数のプレーヤーの位置情報を継続的に追跡します。\n※フロントラインでよく見る指揮者追跡みたいな機能",
     "MultiTargetTrackerTitle": "マルチターゲットトラッカー",
     "Name": "名称",
+    "NameplateIconAdjustmentDescription": "配置完毕后, 调整变更所有对象的头标尺寸缩放与位置偏移",
+    "NameplateIconAdjustmentTitle": "目标标记调整",
     "NeverreapHelperDescription": "IDに突入後、自動で「トヌバヌ」と会話し、「雲卵石」を入手します。",
     "NeverreapHelperTitle": "『神域浮島 ネバーリープ』アシスト",
     "NextStep": "次へ",
