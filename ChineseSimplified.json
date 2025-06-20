@@ -1461,6 +1461,8 @@
     "MultiTargetTrackerDescription": "配置完毕后, 使用场景标记持续追踪当前有效的多个玩家的位置信息, 并记录历史信息",
     "MultiTargetTrackerTitle": "多目标追踪器",
     "Name": "名称",
+    "NameplateIconAdjustmentDescription": "配置完毕后, 调整变更所有对象的头标尺寸缩放与位置偏移",
+    "NameplateIconAdjustmentTitle": "目标标记调整",
     "NeverreapHelperDescription": "进入副本 空中神域不获岛 后, 自动与 托努瓦努 对话获取 云卵石",
     "NeverreapHelperTitle": "空中神域不获岛助手",
     "NextStep": "下一步",
