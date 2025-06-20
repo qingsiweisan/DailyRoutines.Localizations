@@ -1461,6 +1461,8 @@
     "MultiTargetTrackerDescription": "After configuration, continuously track multiple active players' positions using field markers and record historical data",
     "MultiTargetTrackerTitle": "Multi-Target Tracker",
     "Name": "Name",
+    "NameplateIconAdjustmentDescription": "配置完毕后, 调整变更所有对象的头标尺寸缩放与位置偏移",
+    "NameplateIconAdjustmentTitle": "目标标记调整",
     "NeverreapHelperDescription": "After entering the duty Neverreap, automatically talk with Tonu Vanu and get the thunder eggs.",
     "NeverreapHelperTitle": "Neverreap Helper",
     "NextStep": "Next Step",
