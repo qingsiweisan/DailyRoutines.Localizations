@@ -139,6 +139,7 @@
     "AutoConvertMapLinkTitle": "自動轉換地圖坐標資訊",
     "AutoCosmicExplorationLeveling-IgnoreARank": "忽略 A 級任務",
     "AutoCosmicExplorationLeveling-Notification-ActionsEnqueue": "本輪自動生產技能序列 (延遲: {0} 毫秒): {1}",
+    "AutoCosmicExplorationLeveling-Notification-AllJobsLeveled": "全部可用职业都已达到设定最高等级阈值, 已自动停止",
     "AutoCosmicExplorationLeveling-PreCondition-Gears": "請自備各等級裝備並放置於兵裝庫內, 均可在場景內 NPC 處購買\n參考等級閾值:\n\t11、31、51、61、71、(75)、81、(85)、91、(95)",
     "AutoCosmicExplorationLevelingDescription": "配置完畢並點擊開始後, 自動在宇宙探索場景內接取生產職業相關任務練級",
     "AutoCosmicExplorationLevelingTitle": "自動宇宙探索練級",
