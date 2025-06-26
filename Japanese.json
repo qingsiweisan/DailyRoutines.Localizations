@@ -322,6 +322,8 @@
     "AutoImmunizeThinIceTitle": "氷上移動状態を無効化",
     "AutoInDutySelectYesDescription": "コンテンツ内でインタラクト時、自動的に「はい」を選択します。",
     "AutoInDutySelectYesTitle": "コンテンツ交感自動確認",
+    "AutoInventoryTransferDescription": "若当前存在可以互相转移物品的不同页面, 则在按住打断热键并点击任一页面物品时, 自动转移该物品至另一页面",
+    "AutoInventoryTransferTitle": "自动物品页面转移",
     "AutoJoinExitDuty-AlreadyInDutyNotice": "エラー: 現在コンテンツ参加中",
     "AutoJoinExitDuty-AlreadyInParty": "パーティを組んだ状態では使用できません",
     "AutoJoinExitDuty-DutyLockedNotice": "エラー: 未開放コンテンツ {0}",
