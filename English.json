@@ -322,6 +322,8 @@
     "AutoImmunizeThinIceTitle": "Auto immune to Thin Ice",
     "AutoInDutySelectYesDescription": "Auto select yes when interacting with the duty interactive items",
     "AutoInDutySelectYesTitle": "Auto Select Yes In Duty Interactions",
+    "AutoInventoryTransferDescription": "若当前存在可以互相转移物品的不同页面, 则在按住打断热键并点击任一页面物品时, 自动转移该物品至另一页面",
+    "AutoInventoryTransferTitle": "自动物品页面转移",
     "AutoJoinExitDuty-AlreadyInDutyNotice": "Error: Already in a duty now",
     "AutoJoinExitDuty-AlreadyInParty": "Error: Already in a party",
     "AutoJoinExitDuty-DutyLockedNotice": "Error: Duty {0} is locked",
