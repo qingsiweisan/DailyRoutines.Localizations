@@ -139,6 +139,7 @@
     "AutoConvertMapLinkTitle": "座標情報をマップリンクに変換",
     "AutoCosmicExplorationLeveling-IgnoreARank": "忽略 A 级任务",
     "AutoCosmicExplorationLeveling-Notification-ActionsEnqueue": "本轮自动生产技能序列 (延迟: {0} 毫秒): {1}",
+    "AutoCosmicExplorationLeveling-Notification-AllJobsLeveled": "全部可用职业都已达到设定最高等级阈值, 已自动停止",
     "AutoCosmicExplorationLeveling-PreCondition-Gears": "请自备各等级装备并放置于兵装库内, 均可在场景内 NPC 处购买\n参考等级阈值:\n\t11、31、51、61、71、(75)、81、(85)、91、(95)",
     "AutoCosmicExplorationLevelingDescription": "配置完毕并点击开始后, 自动在宇宙探索场景内接取生产职业相关任务练级",
     "AutoCosmicExplorationLevelingTitle": "自动宇宙探索练级",
