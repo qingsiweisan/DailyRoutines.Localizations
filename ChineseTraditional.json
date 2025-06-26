@@ -183,8 +183,6 @@
     "AutoDisplayDutyReadyLeftTimeTitle": "自動顯示準備確認剩餘時間",
     "AutoDisplayMitigationInfoDescription": "當自身擁有減傷效果, 或目標擁有傷害降低效果時, 自動計算等效減傷值, 並在伺服器資訊欄顯示效果一覽",
     "AutoDisplayMitigationInfoTitle": "自動顯示減傷資訊",
-    "AutoDisplayRetainerPlayerNameDescription": "打開市場交易版搜索結果界面時, 自動將已有數據記錄的雇員名稱轉為高亮顯示其所屬玩家名稱",
-    "AutoDisplayRetainerPlayerNameTitle": "自動顯示雇員歸屬玩家名",
     "AutoDrawMotifs-DrawWhenOutOfCombat": "脫戰後自動重新繪製",
     "AutoDrawMotifsDescription": "若當前職業為繪靈法師, 則在進入副本、觸發重新挑戰、脫戰後, 自動使用當前可用的彩繪技能",
     "AutoDrawMotifsTitle": "自動繪畫",
