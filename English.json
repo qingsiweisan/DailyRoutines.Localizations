@@ -183,8 +183,6 @@
     "AutoDisplayDutyReadyLeftTimeTitle": "Auto Display Remaining Time Of Ready Check",
     "AutoDisplayMitigationInfoDescription": "The actual percentage of all the mitigation currently applied, including the mitigation status on the character and the mitigation actions applied on the target, will be displayed in the server info bar.",
     "AutoDisplayMitigationInfoTitle": "Auto Display Mitigation Details",
-    "AutoDisplayRetainerPlayerNameDescription": "Display the actual owners of the retainers selling items on the market board in highlights according the existed data, instead of the names of retainers themselves.",
-    "AutoDisplayRetainerPlayerNameTitle": "Auto Display Owners Of Retainers",
     "AutoDrawMotifs-DrawWhenOutOfCombat": "Auto Redraw When Out of Combat",
     "AutoDrawMotifsDescription": "If the current job is Pictomancer, automatically use available Motiff actions upon entering or recommencing a duty, or exiting combat",
     "AutoDrawMotifsTitle": "Auto Draw Motifs",
