@@ -322,6 +322,8 @@
     "AutoImmunizeThinIceTitle": "自动免疫冰面移动状态",
     "AutoInDutySelectYesDescription": "进入副本后, 自动确认副本内交互物体时出现的对话框",
     "AutoInDutySelectYesTitle": "自动确认副本内物体对话框",
+    "AutoInventoryTransferDescription": "若当前存在可以互相转移物品的不同页面, 则在按住打断热键并点击任一页面物品时, 自动转移该物品至另一页面",
+    "AutoInventoryTransferTitle": "自动物品页面转移",
     "AutoJoinExitDuty-AlreadyInDutyNotice": "错误: 当前已处于副本中",
     "AutoJoinExitDuty-AlreadyInParty": "组队状态下禁止使用",
     "AutoJoinExitDuty-DutyLockedNotice": "错误: 副本 {0} 未解锁",
