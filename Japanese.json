@@ -186,6 +186,8 @@
     "AutoDrawMotifs-DrawWhenOutOfCombat": "戦闘終了後、自動的にピクト〇〇する",
     "AutoDrawMotifsDescription": "現在のジョブがピクトマンサーの時、コンテンツ突入時、リスタート時、戦闘終了後に現在使用可能なピクトスキルを自動的に使用する",
     "AutoDrawMotifsTitle": "【PCT】自動でピクト〇〇",
+    "AutoEliminateFishAwareness-AutoCast": "自动抛竿",
+    "AutoEliminateFishAwareness-AutoCastHelp": "若勾选, 则会在回到原始钓鱼位置后, 先自动抛竿再逐条执行设置的文本指令, 反之, 则只执行文本指令不自动抛竿",
     "AutoEliminateFishAwareness-ExtraCommands": "追加のテキストコマンド (複数のコマンドをサポート、1行に1つ)",
     "AutoEliminateFishAwareness-ExtraCommandsHelp": "ここでのコマンドは、エリアが切り替わった後、再度キャストした際に実行されます",
     "AutoEliminateFishAwarenessDescription": "現在の釣り場で警戒状態が発生した場合、自動的にエリアを切り替えて警戒を解除し、同じ場所で再びキャストする",
