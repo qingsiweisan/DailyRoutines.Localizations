@@ -186,6 +186,8 @@
     "AutoDrawMotifs-DrawWhenOutOfCombat": "Auto Redraw When Out of Combat",
     "AutoDrawMotifsDescription": "If the current job is Pictomancer, automatically use available Motiff actions upon entering or recommencing a duty, or exiting combat",
     "AutoDrawMotifsTitle": "Auto Draw Motifs",
+    "AutoEliminateFishAwareness-AutoCast": "自动抛竿",
+    "AutoEliminateFishAwareness-AutoCastHelp": "若勾选, 则会在回到原始钓鱼位置后, 先自动抛竿再逐条执行设置的文本指令, 反之, 则只执行文本指令不自动抛竿",
     "AutoEliminateFishAwareness-ExtraCommands": "Extra Text Commands (One Per Line)",
     "AutoEliminateFishAwareness-ExtraCommandsHelp": "Commands entered here will execute after switching zones and casting again",
     "AutoEliminateFishAwarenessDescription": "After configuration, if an alert appears in the current fishing spot, switch zones to clear the alert and cast again at the same location",
