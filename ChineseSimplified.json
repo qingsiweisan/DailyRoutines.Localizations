@@ -1341,6 +1341,8 @@
     "IgnoreTransparencyWaitTitle": "自动取消 NPC 淡入淡出等待",
     "IgnoreTurnAndLookAtWaitDescription": "自动取消交互 NPC 时, 若不在其正面一定角度范围内, 则会触发的转身及调整视线的等待时间",
     "IgnoreTurnAndLookAtWaitTitle": "自动取消 NPC 转身及视线调整等待",
+    "IgnoreWindowMinSizeLimitDescription": "自动取消游戏窗口的最小尺寸限制, 使其能被手动缩放得更小",
+    "IgnoreWindowMinSizeLimitTitle": "自动取消游戏窗口最小尺寸限制",
     "ILAverage": "平均装等",
     "ILMaximum": "最高装等",
     "ILMinimum": "最低装等",
