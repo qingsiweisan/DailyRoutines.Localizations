@@ -1341,6 +1341,8 @@
     "IgnoreTransparencyWaitTitle": "NPCのフェードイン・フェードアウト待機をキャンセル",
     "IgnoreTurnAndLookAtWaitDescription": "NPCと自動で対話する際、正面の一定角度範囲外にいる場合に発生する振り向きや視線調整による待機時間をキャンセル",
     "IgnoreTurnAndLookAtWaitTitle": "NPCの振り向きや視線調整の待機を自動でキャンセル",
+    "IgnoreWindowMinSizeLimitDescription": "自动取消游戏窗口的最小尺寸限制, 使其能被手动缩放得更小",
+    "IgnoreWindowMinSizeLimitTitle": "自动取消游戏窗口最小尺寸限制",
     "ILAverage": "平均IL",
     "ILMaximum": "最高IL",
     "ILMinimum": "最低IL",
