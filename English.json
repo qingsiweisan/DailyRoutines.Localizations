@@ -1341,6 +1341,8 @@
     "IgnoreTransparencyWaitTitle": "Auto cancel waiting of NPC fade-in and fade-out",
     "IgnoreTurnAndLookAtWaitDescription": "Cancel the waiting time of NPC turning and sight adjusting while interacting with NPCs if the user isn't within a certain angle in front of NPCs.",
     "IgnoreTurnAndLookAtWaitTitle": "Auto cancel waiting of NPC turn and look",
+    "IgnoreWindowMinSizeLimitDescription": "自动取消游戏窗口的最小尺寸限制, 使其能被手动缩放得更小",
+    "IgnoreWindowMinSizeLimitTitle": "自动取消游戏窗口最小尺寸限制",
     "ILAverage": "Average item level",
     "ILMaximum": "Maximum item level",
     "ILMinimum": "Minimum item level",
