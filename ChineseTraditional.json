@@ -144,6 +144,7 @@
     "AutoCosmicExplorationLevelingDescription": "配置完畢並點擊開始後, 自動在宇宙探索場景內接取生產職業相關任務練級",
     "AutoCosmicExplorationLevelingTitle": "自動宇宙探索練級",
     "AutoCosmicFortune-CommandHelp": "(<次數>) 抽取指定次數的宇宙好運道 (留空則一次性抽完所有的月球信用點)",
+    "AutoCosmicFortune-Pull": "抽奖 {0} 次",
     "AutoCosmicFortuneDescription": "當月球信用點足夠抽取至少一次宇宙好運道時, 自動在宇宙探索面板界面下方顯示懸浮窗用以快捷抽取, 並提供指令 /pdr {0} 執行同樣的操作",
     "AutoCosmicFortuneTitle": "自動宇宙好運道",
     "AutoCountBlacklistedDescription": "以服務器信息欄的形式, 顯示設置範圍內黑名單玩家的數量",
