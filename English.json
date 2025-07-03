@@ -97,6 +97,8 @@
     "AutoCancelGatherAnimationTitle": "Auto Cancel Gathering Animations",
     "AutoCancelNPCEmoteDescription": "Auto cancel NPC emotes and the waiting time they caused during cutscenes.",
     "AutoCancelNPCEmoteTitle": "Auto cancel NPC emotes",
+    "AutoCancelStarContributorDescription": "进入宇宙探索区域场景后, 定期检查自身是否具有 贡献之星 状态效果, 若有则自动取消",
+    "AutoCancelStarContributorTitle": "自动取消贡献之星状态效果",
     "AutoChakraFormShiftDescription": "If the current job is MNK, automatically use Steeled/Forbidden Meditation and Form Shift upon entering a Duty, triggering a Retry, or exiting Combat.",
     "AutoChakraFormShiftTitle": "Auto Meditation and Form Shift",
     "AutoCheckFoodUsage-AddNewPreset": "Add new preset",
