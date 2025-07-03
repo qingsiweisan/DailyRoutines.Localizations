@@ -144,7 +144,7 @@
     "AutoCosmicExplorationLevelingDescription": "Automatically accept quests and level up in Cosmic Exploration for Disciples of the Land or Hand after proper configurations and clicking start.",
     "AutoCosmicExplorationLevelingTitle": "Auto Level Up In Cosmic Exploration",
     "AutoCosmicFortune-CommandHelp": "( < times > ) to roll Cosmic Fortune given times. (roll until Lunar Credits are insufficient if left blank)",
-    "AutoCosmicFortune-Pull": "抽奖 {0} 次",
+    "AutoCosmicFortune-Pull": "Roll {0} times",
     "AutoCosmicFortuneDescription": "A floating window will be displayed below Cosmic Exploration Exotablet for rolling Cosmic Fortune if the current amount of Lunar Credits is enough for at least one roll. A command /pdr {0} for the same purpose will also be provided.",
     "AutoCosmicFortuneTitle": "Auto Cosmic Fortune",
     "AutoCountBlacklistedDescription": "Display the number of players in Blacklist within the set range in the server information bar.",
