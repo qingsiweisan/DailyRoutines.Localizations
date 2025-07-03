@@ -97,6 +97,8 @@
     "AutoCancelGatherAnimationTitle": "採集アニメーションをキャンセル",
     "AutoCancelNPCEmoteDescription": "インタラクションやカットシーン再生時に、NPCの感情アクション再生およびそれに伴う待機時間をキャンセル",
     "AutoCancelNPCEmoteTitle": "NPCの感情アクション再生をキャンセル",
+    "AutoCancelStarContributorDescription": "进入宇宙探索区域场景后, 定期检查自身是否具有 贡献之星 状态效果, 若有则自动取消",
+    "AutoCancelStarContributorTitle": "自动取消贡献之星状态效果",
     "AutoChakraFormShiftDescription": "現在のジョブがモンクの時、コンテンツ突入時、再チャレンジ、戦闘終了後に「鉄山・陰陽闘気」と「演武」が使用されます。",
     "AutoChakraFormShiftTitle": "【MNK】自動闘気と演武",
     "AutoCheckFoodUsage-AddNewPreset": "新しい設定を追加する",
