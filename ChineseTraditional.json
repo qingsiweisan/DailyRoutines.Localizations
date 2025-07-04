@@ -945,6 +945,8 @@
     "BetterFollow-UnMountWhenFollowUnMount": "與跟隨目標一同下坐騎",
     "BetterFollowDescription": "解除遊戲原生自動跟隨的目標限制, 且能夠自動鎖定目標並重新跟隨",
     "BetterFollowTitle": "更好的自動跟隨",
+    "BetterMarketBoard-BatchPurchase": "批量购买",
+    "BetterMarketBoard-BatchPurchase-Info": "已选择 {0} 件商品 / 总数量: {1} / 总价: {2}",
     "BetterMarketBoard-CommandHelp": "切換市場布告板懸浮窗界面開關狀態",
     "BetterMarketBoard-ItemToMonitor": "價格監控物品",
     "BetterMarketBoard-ItemToMonitor-AutoPurchase": "自動購買",
