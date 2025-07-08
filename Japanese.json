@@ -192,6 +192,8 @@
     "AutoDisplayDutyReadyLeftTimeTitle": "コンテンツ突入準備の残り時間を表示",
     "AutoDisplayMitigationInfoDescription": "自身が被ダメ軽減効果を持つ場合、または対象が被ダメ減少効果を持つ場合、ダメージ軽減値を計算し、サーバー情報欄に効果一覧として表示する",
     "AutoDisplayMitigationInfoTitle": "軽減率をリアルタイム表示",
+    "AutoDisplayMSQProgressDescription": "若尚有未完成的主线任务, 则自动在主线向导界面内显示当前剩余的主线任务件数与已完成进度百分比",
+    "AutoDisplayMSQProgressTitle": "自动显示主线任务完成进度",
     "AutoDrawMotifs-DrawWhenOutOfCombat": "戦闘終了後、自動的にピクト〇〇する",
     "AutoDrawMotifsDescription": "現在のジョブがピクトマンサーの時、コンテンツ突入時、リスタート時、戦闘終了後に現在使用可能なピクトスキルを自動的に使用する",
     "AutoDrawMotifsTitle": "【PCT】自動でピクト〇〇",
