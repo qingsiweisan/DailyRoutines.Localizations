@@ -824,7 +824,7 @@
     "AutoSpeedMultiplier-Multiplier": "Speed Multiplier",
     "AutoSpeedMultiplier-Multiplier-InDutyCombat": "During Combat In A Duty",
     "AutoSpeedMultiplier-Multiplier-InDutyNormal": "Default In A Duty",
-    "AutoSpeedMultiplier-Multiplier-OutDutyCombat": "During Combat Not In A Duty",
+    "AutoSpeedMultiplier-Multiplier-OutDutyCombat": "During Combat But Not In A Duty",
     "AutoSpeedMultiplier-Multiplier-OutDutyWithPlayer": "Not In A Duty And Other Players Nearby",
     "AutoSpeedMultiplier-MultiplierHelp": "The following settings would take effective from top to bottom.",
     "AutoSpeedMultiplier-Notification": "Speed Multiplier Set: {0} (Old: {1})",
