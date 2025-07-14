@@ -1799,6 +1799,7 @@
     "WorldTravelCommand-Notice-SameWorld": "目標伺服器與當前伺服器一致, 無法進行跨界傳送",
     "WorldTravelCommand-Notice-TravelTo": "正在跨界傳送至: {0}",
     "WorldTravelCommand-Notice-WorldNoFound": "未找到與 {0} 相關的伺服器",
+    "WorldTravelCommand-ReplaceOrigAddon": "替换游戏原生的 跨界传送 界面",
     "WorldTravelCommandDescription": "添加 /pdr worldtravel <伺服器> (不區分大小寫/部分匹配) 指令,\n用於在三主城內的任意位置進行快捷跨界傳送",
     "WorldTravelCommandTitle": "快捷跨界傳送指令",
     "Yes": "是",
