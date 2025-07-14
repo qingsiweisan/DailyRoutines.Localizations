@@ -1799,6 +1799,7 @@
     "WorldTravelCommand-Notice-SameWorld": "The target world is the same as the current world",
     "WorldTravelCommand-Notice-TravelTo": "World Travelling to {0}",
     "WorldTravelCommand-Notice-WorldNoFound": "No World Found for {0}",
+    "WorldTravelCommand-ReplaceOrigAddon": "替换游戏原生的 跨界传送 界面",
     "WorldTravelCommandDescription": "Add /pdr worldtravel <world> (case insensitive/partial match) command for quick World Travel from any location within the three main cities",
     "WorldTravelCommandTitle": "Quick World Travel Command",
     "Yes": "Yes",
