@@ -1799,6 +1799,7 @@
     "WorldTravelCommand-Notice-SameWorld": "ターゲットサーバーが現在のサーバーと一致しているため、ワールド間テレポは実行できません",
     "WorldTravelCommand-Notice-TravelTo": "ワールド間テレポ実行中: {0}",
     "WorldTravelCommand-Notice-WorldNoFound": "{0} に関連するサーバーが見つかりませんでした",
+    "WorldTravelCommand-ReplaceOrigAddon": "替换游戏原生的 跨界传送 界面",
     "WorldTravelCommandDescription": "/pdr worldtravel <サーバー> (大文字小文字の区別なし/部分一致) コマンドを追加し、三大都市内の任意の場所へのクイックワールド間テレポを実行する",
     "WorldTravelCommandTitle": "クイックワールド間テレポコマンド",
     "Yes": "はい",
