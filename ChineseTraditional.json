@@ -1509,7 +1509,7 @@
     "MoreMessageFilterPresets-Notification-Applied": "已將預設 {0} 應用至消息欄 {1}",
     "MoreMessageFilterPresets-SourceTab": "數據源消息欄",
     "MoreMessageFilterPresets-TargetTab": "目標消息欄",
-    "MoreMessageFilterPresetsDescription": "允許保存無限多的消息欄消息過濾設置，並可將保存的消息過濾設置應用到任意消息欄中",
+    "MoreMessageFilterPresetsDescription": "允许保存无限多的消息栏消息过滤设置，并可将保存的消息过滤设置通过配置界面或消息栏右键菜单等应用到任意消息栏中",
     "MoreMessageFilterPresetsTitle": "更多的消息過濾預設",
     "MoveableDeathStateDescription": "令當前遊玩角色即使處於死亡狀態下, 也可以正常移動",
     "MoveableDeathStateTitle": "死亡狀態可移動",
