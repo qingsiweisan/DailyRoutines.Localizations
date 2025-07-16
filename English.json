@@ -1008,6 +1008,8 @@
     "Color": "Color",
     "Combat": "Combat",
     "Command": "Command",
+    "CommandCompletion-Header": "Daily Routines 指令 (点击以补全)",
+    "CommandCompletion-NoCompletion": "没有匹配的指令",
     "Commands-CommandHelp": "Open the main interface",
     "Commands-CommandHelp-FavOff": "Unload all modules in the favorite",
     "Commands-CommandHelp-FavOn": "Load all modules in the favorite",
