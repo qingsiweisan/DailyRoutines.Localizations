@@ -1509,7 +1509,7 @@
     "MoreMessageFilterPresets-Notification-Applied": "プリセット {0} をメッセージ欄 {1} に適用しました",
     "MoreMessageFilterPresets-SourceTab": "データソースメッセージ欄",
     "MoreMessageFilterPresets-TargetTab": "ターゲットメッセージ欄",
-    "MoreMessageFilterPresetsDescription": "無制限にメッセージ欄のメッセージフィルター設定を保存でき、保存したフィルター設定を任意のメッセージ欄に適用できます",
+    "MoreMessageFilterPresetsDescription": "允许保存无限多的消息栏消息过滤设置，并可将保存的消息过滤设置通过配置界面或消息栏右键菜单等应用到任意消息栏中",
     "MoreMessageFilterPresetsTitle": "追加のメッセージフィルター設定",
     "MoveableDeathStateDescription": "プレイヤーキャラクターが死亡状態でも移動できるようにする",
     "MoveableDeathStateTitle": "死亡状態で移動可能",
