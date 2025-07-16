@@ -1509,7 +1509,7 @@
     "MoreMessageFilterPresets-Notification-Applied": "The preset {0} has been applied to the chat tab {1}.",
     "MoreMessageFilterPresets-SourceTab": "Data Source Chat Tab",
     "MoreMessageFilterPresets-TargetTab": "Target Chat Tab",
-    "MoreMessageFilterPresetsDescription": "Allows the user to save an unlimited number of chat log filter presets and to apply filters to any chat tabs.",
+    "MoreMessageFilterPresetsDescription": "允许保存无限多的消息栏消息过滤设置，并可将保存的消息过滤设置通过配置界面或消息栏右键菜单等应用到任意消息栏中",
     "MoreMessageFilterPresetsTitle": "More Chat Log Filter Presets",
     "MoveableDeathStateDescription": "Allow the current character to move normally even when in a dead state.",
     "MoveableDeathStateTitle": "Moveable After Death",
