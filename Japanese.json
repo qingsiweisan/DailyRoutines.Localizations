@@ -1008,6 +1008,8 @@
     "Color": "色",
     "Combat": "戦闘",
     "Command": "コマンド",
+    "CommandCompletion-Header": "Daily Routines 指令 (点击以补全)",
+    "CommandCompletion-NoCompletion": "没有匹配的指令",
     "Commands-CommandHelp": "メインGUIを開く",
     "Commands-CommandHelp-FavOff": "指定したコレクション内のすべてのモジュールを無効にする",
     "Commands-CommandHelp-FavOn": "指定したコレクション内のすべてのモジュールを有効にする",
