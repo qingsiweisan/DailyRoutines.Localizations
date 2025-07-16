@@ -1008,6 +1008,8 @@
     "Color": "顏色",
     "Combat": "戰鬥",
     "Command": "命令",
+    "CommandCompletion-Header": "Daily Routines 指令 (点击以补全)",
+    "CommandCompletion-NoCompletion": "没有匹配的指令",
     "Commands-CommandHelp": "打開主界面",
     "Commands-CommandHelp-FavOff": "卸載指定的收藏夾內的所有模塊",
     "Commands-CommandHelp-FavOn": "加載指定的收藏夾內的所有模塊",
