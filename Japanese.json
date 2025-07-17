@@ -438,7 +438,7 @@
     "AutoMarksFinder-RelayAetheryte": "エーテライトを経由する",
     "AutoMarksFinder-RelayArgsHelp": "{0} - リスキーモブの位置座標\n{1} - リスキーモブの名前\n{2} - リスキーモブの所在するチャンネル (例：\"インスタンス1\") (インスタンスが存在しない場合、この項目は空白になります)",
     "AutoMarksFinder-RelayChatTypes": "メッセージのアナウンスタイプ",
-    "AutoMarksFinder-RelayInstanceDisplay": "Ins. {0} ",
+    "AutoMarksFinder-RelayInstanceDisplay": "Ins.:{0} ",
     "AutoMarksFinder-RelayPosition": "位置情報をアナウンスする",
     "AutoMarksFinder-RelaySetting": "アナウンス設定",
     "AutoMarksFinder-Routes": "パス",
