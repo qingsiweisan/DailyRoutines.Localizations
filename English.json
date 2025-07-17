@@ -252,7 +252,7 @@
     "AutoFateSync-IgnoreMounting": "Ignore Mounted State",
     "AutoFateSync-IgnoreMountingHelp": "When enabled, auto level sync will not trigger upon entering a FATE range while mounted\nHowever, if you dismount within the FATE range, auto level sync will still occur",
     "AutoFateSyncDescription": "Auto level sync when entering a FATE range",
-    "AutoFateSyncTitle": "Auto Fate Level Sync",
+    "AutoFateSyncTitle": "Auto FATE Level Sync",
     "AutoFateTitle": "Auto FATE",
     "AutoFCWSDeliverDescription": "Open the Material Delivery interface and, upon clicking \"Start,\" automatically deliver all available materials",
     "AutoFCWSDeliverTitle": "Auto FC Workshop Deliver Items",
