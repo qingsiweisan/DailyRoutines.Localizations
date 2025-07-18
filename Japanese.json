@@ -761,7 +761,7 @@
     "AutoRetainerWork-PriceAdjust-ReturnAllToInventory": "すべて回収 (所持品)",
     "AutoRetainerWork-PriceAdjust-ReturnAllToRetainer": "すべて回収 (リテイナー)",
     "AutoRetainerWork-PriceAdjust-SameItemsCount": "同種アイテムの数量",
-    "AutoRetainerWork-PriceAdjust-SendProcessMessage": "価格変更プロセスのメッセージをタブに送信します",
+    "AutoRetainerWork-PriceAdjust-SendProcessMessage": "価格変更メッセージを通知",
     "AutoRetainerWork-PriceAdjust-SortOrder": "表示順序",
     "AutoRetainerWork-PriceAdjust-Title": "自動リテイナー価格変更",
     "AutoRetainerWork-PriceAdjust-UpshelfAuto": "自動出品",
