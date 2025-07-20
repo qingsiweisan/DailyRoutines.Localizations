@@ -80,6 +80,8 @@
     "AutoBlockStatusTitle": "状態効果を無効化",
     "AutoBlockSystemNoticeDescription": "ゲーム内で送信されるシステム通知を自動的にブロックする (紫通知)",
     "AutoBlockSystemNoticeTitle": "システム通知の自動ブロック",
+    "AutoBlockTitleMovieDescription": "自动阻止因在标题界面滞留过久而自动开始播放的各版本动画视频",
+    "AutoBlockTitleMovieTitle": "自动阻止标题界面动画播放",
     "AutoBroadcastActionHitInfo-CHHint": "クリティカルヒット通知",
     "AutoBroadcastActionHitInfo-CustomActionAlias": "カスタムスキル別名",
     "AutoBroadcastActionHitInfo-CustomActionAliasCount": "{0} 個のカスタムスキル名が追加されました",
