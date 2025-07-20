@@ -80,6 +80,8 @@
     "AutoBlockStatusTitle": "Auto Block Status Effect",
     "AutoBlockSystemNoticeDescription": "Automatically block system notifications sent within the game (Purple Word Bulletin)",
     "AutoBlockSystemNoticeTitle": "Auto Block System Notice",
+    "AutoBlockTitleMovieDescription": "自动阻止因在标题界面滞留过久而自动开始播放的各版本动画视频",
+    "AutoBlockTitleMovieTitle": "自动阻止标题界面动画播放",
     "AutoBroadcastActionHitInfo-CHHint": "Critical Hit Hint",
     "AutoBroadcastActionHitInfo-CustomActionAlias": "Custom Actions Alias",
     "AutoBroadcastActionHitInfo-CustomActionAliasCount": "{0} custom action names added",
