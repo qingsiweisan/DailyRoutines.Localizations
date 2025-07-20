@@ -80,6 +80,8 @@
     "AutoBlockStatusTitle": "自动屏蔽状态效果",
     "AutoBlockSystemNoticeDescription": "自动屏蔽游戏内发送的系统通知 (紫字公告)",
     "AutoBlockSystemNoticeTitle": "自动屏蔽系统通知",
+    "AutoBlockTitleMovieDescription": "自动阻止因在标题界面滞留过久而自动开始播放的各版本动画视频",
+    "AutoBlockTitleMovieTitle": "自动阻止标题界面动画播放",
     "AutoBroadcastActionHitInfo-CHHint": "暴击提示语",
     "AutoBroadcastActionHitInfo-CustomActionAlias": "自定义技能别名",
     "AutoBroadcastActionHitInfo-CustomActionAliasCount": "已添加了 {0} 个自定义技能名称",
