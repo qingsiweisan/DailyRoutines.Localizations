@@ -888,7 +888,7 @@
     "AutoTankStance-OnlyAutoStanceWhenOneTank": "Only when the party allows at most one tank job",
     "AutoTankStance-OnlyAutoStanceWhenOneTankHelp": "Selecting this option means: When a dungeon allows only one tank job by default, Tank Stance will be used automatically.\n\nExample: (By default)\n\nWhen entering a Dungeon/Raid, if the party can only have one tank job, Tank Stance will be used automatically.\nWhen entering a Trial/Alliance Raid, if the party can have up to two tank jobs, Tank Stance will not be used automatically.",
     "AutoTankStanceDescription": "If it is currently a protective class, the shield posture is automatically enabled after entering the replica\nAuto tank stance when entering duties if you are tank",
-    "AutoTankStanceTitle": "Auto Tank Stance",
+    "AutoTankStanceTitle": "自动盾姿",
     "AutoTenChiJin-AutoCastNinJiTsu": "Execute the Ninjutsu after making mudras",
     "AutoTenChiJin-HotbarPlacedMessage": "Ninjutsu {0} has been placed in the key {2} of the hotbar {1}.",
     "AutoTenChiJin-Notification": "Now executing {0}:",
