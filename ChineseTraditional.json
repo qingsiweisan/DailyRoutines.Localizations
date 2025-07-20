@@ -888,7 +888,7 @@
     "AutoTankStance-OnlyAutoStanceWhenOneTank": "僅當隊伍最多容納一名防護職業時",
     "AutoTankStance-OnlyAutoStanceWhenOneTankHelp": "勾選本項意為:\n當副本默認狀態下最多只能有一名防護職業時, 自動開啟盾姿\n\n例: (默認狀態下)\n當進入迷宮挑戰/團隊任務時, 隊伍最多只能有一名防護職業, 自動開啟盾姿\n當進入討伐殲滅戰/大型任務時, 隊伍最多能有兩名防護職業, 不自動開啟盾姿",
     "AutoTankStanceDescription": "若當前為防護職業, 則在進入副本後, 自動開啟盾姿",
-    "AutoTankStanceTitle": "自動開啟盾姿",
+    "AutoTankStanceTitle": "自动盾姿",
     "AutoTenChiJin-AutoCastNinJiTsu": "結印完成後自動釋放忍術",
     "AutoTenChiJin-HotbarPlacedMessage": "已將 {0} 放置於快速鍵欄 {1} 第 {2} 欄中",
     "AutoTenChiJin-Notification": "準備發動: {0}",
