@@ -336,6 +336,8 @@
     "AutoHuntingLog-UpdatedOnlineDataSuccessfully": "獲取在線討伐筆記點位數據成功",
     "AutoHuntingLogDescription": "自動完成指定職業/大國防聯軍下的所有/指定等級的非副本怪物討伐任務",
     "AutoHuntingLogTitle": "自動討伐筆記",
+    "AutoIgnoreLoginLockDescription": "自动屏蔽登录角色时, 因取消登录等各种操作而被强制附加的 \"{0}\" 操作冷却锁",
+    "AutoIgnoreLoginLockTitle": "自动取消登录操作冷却锁",
     "AutoIgnorePortraitLimitation-LimitationToIgnore": "可解除的限制包括但不限於",
     "AutoIgnorePortraitLimitationDescription": "自動取消肖像設計過程中可能出現的, 諸如武器不能遮擋臉部等的各種限制",
     "AutoIgnorePortraitLimitationTitle": "自動取消肖像設計限制",
