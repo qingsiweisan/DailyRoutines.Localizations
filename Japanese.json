@@ -888,7 +888,7 @@
     "AutoTankStance-OnlyAutoStanceWhenOneTank": "パーティーにタンクが自分一人しかいない時のみ",
     "AutoTankStance-OnlyAutoStanceWhenOneTankHelp": "このチェックを入れると: \nパーティーに自分１人しかタンクがいない時のみ、自動的にスタンスを入れます。\n\n例: (デフォルトの状態)\nID/アライアンスに入る際、タンクが自分一人しかいないため、自動的にスタンスを入れる。\n討伐討滅/レイドに入る際、タンクが自分含め二人いるため、自動的にスタンスを入れない。",
     "AutoTankStanceDescription": "現在のロールがタンクの場合、コンテンツに進入時に自動的にスタンスを入れる。",
-    "AutoTankStanceTitle": "【タンク】自動スタンス",
+    "AutoTankStanceTitle": "自动盾姿",
     "AutoTenChiJin-AutoCastNinJiTsu": "結印完了後、自動で忍術を発動する。",
     "AutoTenChiJin-HotbarPlacedMessage": "{0} をホットバー {1} の第 {2} スロットに配置しました。",
     "AutoTenChiJin-Notification": "発動準備: {0}",
