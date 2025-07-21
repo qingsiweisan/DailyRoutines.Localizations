@@ -1790,7 +1790,7 @@
     "SpecialRenderMode-Mode-HideChatLog": "「チャット欄」を非表示",
     "SpecialRenderMode-Mode-HideNameplate": "「ネームプレート」を非表示",
     "SpecialRenderMode-Mode-HideTargetInfo": "「ターゲット情報」を非表示",
-    "SpecialRenderModeDescription": "ゲーム内のスクリーンショット撮影やロールプレイ（RP）などの用途に便利なように、ゲーム世界の画面レンダリングを禁止してUIのみを表示するモードや、プレイヤー名札のみを表示して他のUIを隠すモードなど、一連の特殊な画面レンダリングモードを提供します。",
+    "SpecialRenderModeDescription": "ゲーム内のスクリーンショット撮影やロールプレイなどの用途に便利な、ゲーム内の画面レンダリングを禁止してUIのみを表示するモードや、ネームプレートのみを表示して他のUIを隠すモードなど、ゲーム内の画面表示を切り替えられる特殊なモードを提供します。",
     "SpecialRenderModeTitle": "特殊描画モード",
     "Start": "スタート",
     "StartTime": "開始時間",
