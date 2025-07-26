@@ -668,7 +668,6 @@
     "AutoRefreshMarketSearchResultDescription": "マケボの検索結果が \"少し時間をおいてから確認してください\" となったとき、自動的に再検索します",
     "AutoRefreshMarketSearchResultTitle": "マケボ検索結果自動更新",
     "AutoRefreshPartyFinder-OnlyInactive": "非アクティブ状態のみ",
-    "AutoRefreshPartyFinder-RefreshInterval": "更新間隔 ({0} 秒)",
     "AutoRefreshPartyFinderDescription": "PT募集を開くと、一定間隔で募集リストを更新します",
     "AutoRefreshPartyFinderTitle": "PT募集リスト自動更新",
     "AutoRefuseTrade-ExtraCommands": "追加のテキストコマンド (1行に1つ)",
