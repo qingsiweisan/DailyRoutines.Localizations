@@ -668,7 +668,6 @@
     "AutoRefreshMarketSearchResultDescription": "當市場道具搜索結果為 \"請稍後\" 時, 自動重新請求獲取",
     "AutoRefreshMarketSearchResultTitle": "自動刷新市場搜索結果",
     "AutoRefreshPartyFinder-OnlyInactive": "僅未操作狀態下",
-    "AutoRefreshPartyFinder-RefreshInterval": "刷新間隔({0}秒)",
     "AutoRefreshPartyFinderDescription": "打開隊員招募後, 每經過固定間隔時間時, 自動刷新一次招募板",
     "AutoRefreshPartyFinderTitle": "自動刷新招募板",
     "AutoRefuseTrade-ExtraCommands": "額外文本指令 (一行一條)",
