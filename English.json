@@ -668,7 +668,6 @@
     "AutoRefreshMarketSearchResultDescription": "Auto re-requests when the market board item search result is \"Please wait\"",
     "AutoRefreshMarketSearchResultTitle": "Auto Refresh Market Search Results",
     "AutoRefreshPartyFinder-OnlyInactive": "Only Refresh When Inactive",
-    "AutoRefreshPartyFinder-RefreshInterval": "Refresh interval ({0} seconds)",
     "AutoRefreshPartyFinderDescription": "Auto refreshes the recruitment board at a regular interval after opening it",
     "AutoRefreshPartyFinderTitle": "Auto Refresh Party Recruitment",
     "AutoRefuseTrade-ExtraCommands": "Extra Commands (One Per Line)",
