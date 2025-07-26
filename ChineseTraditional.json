@@ -1248,7 +1248,7 @@
     "FastGrandCompanyExchange-CommandHelp": "<物品名 (大小寫不敏感)> (<數量>) 在軍票交換所內交換指定數量指定的物品 (若物品名為 default 則直接使用懸浮窗內的相關配置, 此時無需傳入數量)",
     "FastGrandCompanyExchangeDescription": "在 軍票交換所 界面新增快捷交換懸浮窗, 便於直接使用物品名快捷交換對應的物品",
     "FastGrandCompanyExchangeTitle": "快捷軍票交換所交換物品",
-    "FastJoinAnotherPartyRecruitment-LeaveAndJoin": "退隊並加入",
+    "FastJoinAnotherPartyRecruitment-LeaveAndJoin": "退队并参加",
     "FastJoinAnotherPartyRecruitmentDescription": "為招募詳情界面新增一個按鈕, 點擊以一鍵退出當前隊伍並加入目標招募",
     "FastJoinAnotherPartyRecruitmentTitle": "快捷退隊加入招募",
     "FastObjectInteract-AddToBlacklist": "添加至黑名單",
