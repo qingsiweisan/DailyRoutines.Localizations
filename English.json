@@ -1248,7 +1248,7 @@
     "FastGrandCompanyExchange-CommandHelp": "<Item name (case insensitive)> (< Quantity >) Exchange the specified quantity of the specified item in the Company Seals　Exchange (If the item name is \"default\", the relevant configuration in the floating window is used directly, and there is no need to enter the quantity)",
     "FastGrandCompanyExchangeDescription": "Added a quick exchange floating window in the Company Seals Exchange interface, so you can instantly exchange it for the corresponding item by entering the item name directly.",
     "FastGrandCompanyExchangeTitle": "Quickly Exchange Company Seals for Items",
-    "FastJoinAnotherPartyRecruitment-LeaveAndJoin": "Quit and join",
+    "FastJoinAnotherPartyRecruitment-LeaveAndJoin": "退队并参加",
     "FastJoinAnotherPartyRecruitmentDescription": "A button will be added to the party recruitment details interface that allows you to leave your current party and join the target recruitment with one click.",
     "FastJoinAnotherPartyRecruitmentTitle": "Quickly leave the party and join the recruitment",
     "FastObjectInteract-AddToBlacklist": "Add to blacklist",
