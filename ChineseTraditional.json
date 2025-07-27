@@ -826,6 +826,8 @@
     "AutoShowDutyGuide-TheoryHelp": "進入副本後, 自動從 新大陸見聞錄 拉取對應的副本攻略內容,\n若副本攻略不存在, 則不顯示懸浮窗\n\n可以透過滑鼠右鍵懸浮窗內指定段落來複製整段內容",
     "AutoShowDutyGuideDescription": "進入副本後, 自動以懸浮窗形式顯示來自 新大陸見聞錄 的副本攻略",
     "AutoShowDutyGuideTitle": "自動顯示副本攻略",
+    "AutoShowFrontlineKillCountDescription": "进入纷争前线击倒玩家时, 自动在屏幕左侧强调显示击倒人数, 以加强游玩正反馈",
+    "AutoShowFrontlineKillCountTitle": "自动强调展示纷争前线击倒人数",
     "AutoSkipBuddyFeedSceneDescription": "在餵食寄養在鳥房中的專屬陸行鳥時, 自動跳過其動畫立刻完成餵食操作",
     "AutoSkipBuddyFeedSceneTitle": "自動跳過陸行鳥餵食動畫",
     "AutoSkipLogoDescription": "自動跳過遊戲開始時的 Logo 畫面, 使用戶端直接進入登錄界面",
