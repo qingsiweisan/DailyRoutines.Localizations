@@ -882,6 +882,8 @@
     "AutoSubmarineCollectTitle": "自動收取潛水艇",
     "AutoSummonPetDescription": "若當前職業為召喚師或學者, 則在進入副本或觸發重新挑戰後, 自動召喚召喚獸",
     "AutoSummonPetTitle": "自動召喚召喚獸",
+    "AutoSwitchGlamourJobCategoryDescription": "打开投影台时, 自动切换至与当前职业相符的分类",
+    "AutoSwitchGlamourJobCategoryTitle": "自动切换投影台职业分类",
     "AutoSwitchIMEWhenInput-FailFindGameWindow": "獲取遊戲窗口失敗",
     "AutoSwitchIMEWhenInput-FailObtainIME": "獲取當前輸入法失敗",
     "AutoSwitchIMEWhenInput-FailRefreshIME": "刷新輸入法失敗",
