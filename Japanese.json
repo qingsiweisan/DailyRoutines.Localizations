@@ -885,7 +885,7 @@
     "AutoSummonPetDescription": "現在のジョブが、召喚師/学者/巴術士の場合、コンテンツに進入・リスタート時に自動的にカーバンクル/エオスを召喚します",
     "AutoSummonPetTitle": "【SMN/SCH/ACN】カーバンクル/エオスを自動召喚",
     "AutoSwitchGlamourJobCategoryDescription": "ミラージュプリズム開いた際、現在のジョブに対応するカテゴリへ自動で切り替える",
-    "AutoSwitchGlamourJobCategoryTitle": "自动切换投影台职业分类",
+    "AutoSwitchGlamourJobCategoryTitle": "ミラプリ台ジョブ分類自動切替",
     "AutoSwitchIMEWhenInput-FailFindGameWindow": "ゲームウィンドウの取得に失敗しました",
     "AutoSwitchIMEWhenInput-FailObtainIME": "現在の入力方法の取得に失敗しました",
     "AutoSwitchIMEWhenInput-FailRefreshIME": "入力方法の更新に失敗しました",
