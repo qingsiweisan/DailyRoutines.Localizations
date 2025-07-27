@@ -882,6 +882,8 @@
     "AutoSubmarineCollectTitle": "潜水艦自動回収",
     "AutoSummonPetDescription": "現在のジョブが、召喚師/学者/巴術士の場合、コンテンツに進入・リスタート時に自動的にカーバンクル/エオスを召喚します",
     "AutoSummonPetTitle": "【SMN/SCH/ACN】カーバンクル/エオスを自動召喚",
+    "AutoSwitchGlamourJobCategoryDescription": "打开投影台时, 自动切换至与当前职业相符的分类",
+    "AutoSwitchGlamourJobCategoryTitle": "自动切换投影台职业分类",
     "AutoSwitchIMEWhenInput-FailFindGameWindow": "ゲームウィンドウの取得に失敗しました",
     "AutoSwitchIMEWhenInput-FailObtainIME": "現在の入力方法の取得に失敗しました",
     "AutoSwitchIMEWhenInput-FailRefreshIME": "入力方法の更新に失敗しました",
