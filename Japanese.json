@@ -826,6 +826,8 @@
     "AutoShowDutyGuide-TheoryHelp": "コンテンツに入ると、『新大陸見聞録』から対応するコンテンツ攻略内容を自動で取得します。攻略が存在しない場合は、オーバーレイは表示されません。\n\nオーバーレイ内の指定された段落を右クリックすることで、その内容をコピーできます",
     "AutoShowDutyGuideDescription": "コンテンツに突入すると、自動的にオーバーレイで『新大陸見聞録』のダンジョン攻略が表示される",
     "AutoShowDutyGuideTitle": "自動でコンテンツ攻略を表示する［CNのみ］",
+    "AutoShowFrontlineKillCountDescription": "进入纷争前线击倒玩家时, 自动在屏幕左侧强调显示击倒人数, 以加强游玩正反馈",
+    "AutoShowFrontlineKillCountTitle": "自动强调展示纷争前线击倒人数",
     "AutoSkipBuddyFeedSceneDescription": "厩舎に預けた専用チョコボに餌を与える際、アニメーションを自動でスキップし、即座に給餌を完了させます。",
     "AutoSkipBuddyFeedSceneTitle": "チョコボの餌やりアニメーションをスキップ",
     "AutoSkipLogoDescription": "ゲーム開始時のロゴ画面を自動でスキップし、クライアントが直接ログイン画面に進むようにする",
