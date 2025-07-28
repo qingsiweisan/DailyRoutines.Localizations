@@ -120,6 +120,7 @@
     "AutoCheckItemLevelTitle": "自動檢查裝等",
     "AutoClaimItemIgnoringMismatchJobAndLevelDescription": "領取/交換/購買物品時, 自動確認因職業或等級與目標物品不符而額外產生的提示框",
     "AutoClaimItemIgnoringMismatchJobAndLevelTitle": "自動忽略領取物品時職業等級相符需求",
+    "AutoClaimPVPRewards-Button": "一键领取系列赛奖励",
     "AutoClaimPVPRewardsDescription": "打開星裡路標界面, 並點擊開始後, 自動領取所有待領取的系列賽獎勵",
     "AutoClaimPVPRewardsTitle": "自動領取戰利水晶",
     "AutoCollectableExchangeDescription": "打開收藏品交易界面, 並點擊開始後, 自動交易該欄目下所有可用收藏品",
