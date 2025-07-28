@@ -120,6 +120,7 @@
     "AutoCheckItemLevelTitle": "装備ILの自動チェック",
     "AutoClaimItemIgnoringMismatchJobAndLevelDescription": "アイテム入手する際、ジョブやレベルの不一致によって出る確認ウィンドウを自動的にYesします",
     "AutoClaimItemIgnoringMismatchJobAndLevelTitle": "アイテム入手時ジョブ不一致確認自動Yes",
+    "AutoClaimPVPRewards-Button": "一键领取系列赛奖励",
     "AutoClaimPVPRewardsDescription": "クリスタルコンフリクトのUIを開き、「スタート」をクリックすると、未受領のすべてのシリーズ戦報酬を全て受け取る。",
     "AutoClaimPVPRewardsTitle": "トロフィークリスタル受け取り自動化",
     "AutoCollectableExchangeDescription": "収集品の取引UIを開き、「スタート」をクリックすると、そのカテゴリにあるすべての利用可能な収集品を自動的に取引する",
