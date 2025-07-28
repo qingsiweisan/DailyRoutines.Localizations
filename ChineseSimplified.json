@@ -120,6 +120,7 @@
     "AutoCheckItemLevelTitle": "自动检查装等",
     "AutoClaimItemIgnoringMismatchJobAndLevelDescription": "领取/交换/购买物品时, 自动确认因职业或等级与目标物品不符而额外产生的提示框",
     "AutoClaimItemIgnoringMismatchJobAndLevelTitle": "自动忽略领取物品时职业等级相符需求",
+    "AutoClaimPVPRewards-Button": "一键领取系列赛奖励",
     "AutoClaimPVPRewardsDescription": "打开星里路标界面, 并点击开始后, 自动领取所有待领取的系列赛奖励",
     "AutoClaimPVPRewardsTitle": "自动领取战利水晶",
     "AutoCollectableExchangeDescription": "打开收藏品交易界面, 并点击开始后, 自动交易该栏目下所有可用收藏品",
