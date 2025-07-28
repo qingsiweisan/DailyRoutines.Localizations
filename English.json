@@ -120,6 +120,7 @@
     "AutoCheckItemLevelTitle": "Auto Check Item Level",
     "AutoClaimItemIgnoringMismatchJobAndLevelDescription": "Ignore the warnings popped up caused by the level or the job of the character while purchasing, exchanging or just claiming items from shops.",
     "AutoClaimItemIgnoringMismatchJobAndLevelTitle": "Auto Ignore Lvl And Job Warnings While Purchasing",
+    "AutoClaimPVPRewards-Button": "一键领取系列赛奖励",
     "AutoClaimPVPRewardsDescription": "Auto claim all pending series rewards after open Series Malmstones UI and click start",
     "AutoClaimPVPRewardsTitle": "Auto Claim Trophy Crystals",
     "AutoCollectableExchangeDescription": "Open the Collectables Submission window, and after clicking start, automatically trade all available Collectables in that category",
