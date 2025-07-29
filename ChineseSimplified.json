@@ -828,8 +828,6 @@
     "AutoShowFrontlineKillCountTitle": "自动强调展示纷争前线击倒人数",
     "AutoSkipBuddyFeedSceneDescription": "在喂食寄养在鸟房中的专属陆行鸟时, 自动跳过其动画立刻完成喂食操作",
     "AutoSkipBuddyFeedSceneTitle": "自动跳过陆行鸟喂食动画",
-    "AutoSkipLogoDescription": "自动跳过游戏开始时的 Logo 画面, 使客户端直接进入登录界面",
-    "AutoSkipLogoTitle": "自动跳过 Logo 画面",
     "AutoSnipeQuestDescription": "在游戏尝试开始观察任务时, 自动阻止并将其标记为已完成",
     "AutoSnipeQuestTitle": "自动完成观察任务",
     "AutoSortItems-ArmouryCategoryDesc": "降序情况下: 生产采集装备在前, 战斗装备在后",
