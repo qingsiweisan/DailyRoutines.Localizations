@@ -1584,7 +1584,7 @@
     "OptimizedFreeCompanyChest-ExchangableItemsTotalValue": "Value of exchangeables",
     "OptimizedFreeCompanyChest-FastMove": "Better Shuttling",
     "OptimizedFreeCompanyChest-FastMoveHelp": "Items could be stored or retrieved by right clicking if enabled",
-    "OptimizedFreeCompanyChestDescription": "Provide a better Company Chest which has no mandatory action interval applied, allows users to shuttle items by right clicking, and shows the total value of all the \"Exchangeable for gil\" items.",
+    "OptimizedFreeCompanyChestDescription": "对部队储物柜界面进行优化, 移除操作锁, 并提供右键快捷存取物品、修改默认页面等功能与额外信息显示",
     "OptimizedFreeCompanyChestTitle": "Better Company Chest",
     "OptimizedFriendList-ContextMenuItemName": "Nickname or Comment",
     "OptimizedFriendList-FriendUseNamesFound": "Previous name(s) belong to the friend {0} were as following",
