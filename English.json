@@ -828,8 +828,6 @@
     "AutoShowFrontlineKillCountTitle": "Auto Emphasize KO In Frontline",
     "AutoSkipBuddyFeedSceneDescription": "While feeding your companion in the Chocobo stable, automatically skip the cutscenes and complete the feeding immediately.",
     "AutoSkipBuddyFeedSceneTitle": "Auto skip cutscenes of feeding Chocobo",
-    "AutoSkipLogoDescription": "Auto skip the Logo screen at game startup, taking the client directly to the login screen",
-    "AutoSkipLogoTitle": "Auto Skip Logo",
     "AutoSnipeQuestDescription": "Auto avoid and change snipe quests into completed when starting snipe quests.",
     "AutoSnipeQuestTitle": "Auto Finish Snipe Quest",
     "AutoSortItems-ArmouryCategoryDesc": "In descending order: crafter and gatherer equipment first, combat equipment last",
