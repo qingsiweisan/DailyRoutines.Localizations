@@ -1581,6 +1581,8 @@
     "OptimizedEnemyList-UseCustomGeneralInfo": "Customize Text Content",
     "OptimizedEnemyListDescription": "Provide a better enmity list with detailed information of target health, enmity and action cast in vanilla game interface.",
     "OptimizedEnemyListTitle": "Better Enmity List",
+    "OptimizedFreeCompanyChest-DefaultPage": "默认页面",
+    "OptimizedFreeCompanyChest-DefaultPageHelp": "打开部队储物柜时的默认页面",
     "OptimizedFreeCompanyChest-ExchangableItemsTotalValue": "Value of exchangeables",
     "OptimizedFreeCompanyChest-FastMove": "Better Shuttling",
     "OptimizedFreeCompanyChest-FastMoveHelp": "Items could be stored or retrieved by right clicking if enabled",
