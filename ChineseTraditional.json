@@ -828,8 +828,6 @@
     "AutoShowFrontlineKillCountTitle": "自動強調展示紛爭前線擊倒人數",
     "AutoSkipBuddyFeedSceneDescription": "在餵食寄養在鳥房中的專屬陸行鳥時, 自動跳過其動畫立刻完成餵食操作",
     "AutoSkipBuddyFeedSceneTitle": "自動跳過陸行鳥餵食動畫",
-    "AutoSkipLogoDescription": "自動跳過遊戲開始時的 Logo 畫面, 使用戶端直接進入登錄界面",
-    "AutoSkipLogoTitle": "自動跳過 Logo 畫面",
     "AutoSnipeQuestDescription": "在遊戲嘗試開始觀察任務時, 自動阻止並將其標記為已完成",
     "AutoSnipeQuestTitle": "自動完成觀察任務",
     "AutoSortItems-ArmouryCategoryDesc": "降序情況下: 生產採集裝備在前, 戰鬥裝備在後",
