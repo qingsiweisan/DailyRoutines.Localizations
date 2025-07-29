@@ -1581,6 +1581,8 @@
     "OptimizedEnemyList-UseCustomGeneralInfo": "使用自定义文本信息",
     "OptimizedEnemyListDescription": "对敌对列表界面进行优化, 使其能够以游戏原生元素的方式显示对应敌对目标的体力、仇恨与咏唱的具体信息",
     "OptimizedEnemyListTitle": "敌对列表界面优化",
+    "OptimizedFreeCompanyChest-DefaultPage": "默认页面",
+    "OptimizedFreeCompanyChest-DefaultPageHelp": "打开部队储物柜时的默认页面",
     "OptimizedFreeCompanyChest-ExchangableItemsTotalValue": "变卖用道具总价值",
     "OptimizedFreeCompanyChest-FastMove": "快捷存取",
     "OptimizedFreeCompanyChest-FastMoveHelp": "启用时, 右键物品则会自动存入当前道具箱或取出至背包",
