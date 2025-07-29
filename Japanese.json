@@ -1581,6 +1581,8 @@
     "OptimizedEnemyList-UseCustomGeneralInfo": "ユーザー定義のテキスト情報を使う",
     "OptimizedEnemyListDescription": "敵対リストを改善し、ゲーム内のUIで敵対対象のHP、ヘイト、詠唱の情報を表示できるようにする",
     "OptimizedEnemyListTitle": "敵対リストの改善",
+    "OptimizedFreeCompanyChest-DefaultPage": "默认页面",
+    "OptimizedFreeCompanyChest-DefaultPageHelp": "打开部队储物柜时的默认页面",
     "OptimizedFreeCompanyChest-ExchangableItemsTotalValue": "变卖用道具总价值",
     "OptimizedFreeCompanyChest-FastMove": "快捷存取",
     "OptimizedFreeCompanyChest-FastMoveHelp": "启用时, 右键物品则会自动存入当前道具箱或取出至背包",
