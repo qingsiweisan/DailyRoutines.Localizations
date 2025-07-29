@@ -828,8 +828,6 @@
     "AutoShowFrontlineKillCountTitle": "フロントラインでの撃破数を強調表示する",
     "AutoSkipBuddyFeedSceneDescription": "厩舎に預けた専用チョコボに餌を与える際、アニメーションを自動でスキップし、即座に給餌を完了させます。",
     "AutoSkipBuddyFeedSceneTitle": "チョコボの餌やりアニメーションをスキップ",
-    "AutoSkipLogoDescription": "ゲーム開始時のロゴ画面を自動でスキップし、クライアントが直接ログイン画面に進むようにする",
-    "AutoSkipLogoTitle": "ロゴ画面を自動でスキップする",
     "AutoSnipeQuestDescription": "観察系クエストを開始しようとしたとき、自動的にそれをブロックし、完了済みとしてマークする",
     "AutoSnipeQuestTitle": "観察系クエストを自動的に完了する",
     "AutoSortItems-ArmouryCategoryDesc": "降順の場合: 生成・収集装備が前、戦闘装備が後ろ",
