@@ -902,7 +902,7 @@
     "AutoTenChiJin-AutoCastNinJiTsu": "結印完成後自動釋放忍術",
     "AutoTenChiJin-HotbarPlacedMessage": "已將 {0} 放置於快速鍵欄 {1} 第 {2} 欄中",
     "AutoTenChiJin-Notification": "準備發動: {0}",
-    "AutoTenChiJin-PlaceNinJiTsuToHotbar": "放置忍術技能至快速鍵欄",
+    "AutoTenChiJin-OpenNijutsuActionsAddon": "打开忍术技能界面",
     "AutoTenChiJinDescription": "點擊忍術技能後, 自動按照對應順序使用結印技能, 以一鍵完成結印",
     "AutoTenChiJinTitle": "自動結印",
     "AutoThrottleTenChiJinDescription": "使用忍者結印技能時, 使每個結印技能在本次結印期間僅能被按下一次",
