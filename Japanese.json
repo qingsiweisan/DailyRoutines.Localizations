@@ -902,7 +902,7 @@
     "AutoTenChiJin-AutoCastNinJiTsu": "結印完了後、自動で忍術を発動する。",
     "AutoTenChiJin-HotbarPlacedMessage": "{0} をホットバー {1} の第 {2} スロットに配置しました。",
     "AutoTenChiJin-Notification": "発動準備: {0}",
-    "AutoTenChiJin-PlaceNinJiTsuToHotbar": "忍術スキルをホットバーに配置する。",
+    "AutoTenChiJin-OpenNijutsuActionsAddon": "打开忍术技能界面",
     "AutoTenChiJinDescription": "忍術スキルをクリックすると、自動で対応する順序で結印スキルを使用し、結印を完了する。",
     "AutoTenChiJinTitle": "【NIN】自動印結び",
     "AutoThrottleTenChiJinDescription": "忍者の印を結ぶスキルを使用する際、各結印スキルは今回の結印期間中に一度だけ押せるようにする",
