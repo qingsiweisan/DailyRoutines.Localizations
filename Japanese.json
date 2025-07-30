@@ -677,6 +677,8 @@
     "AutoRemoveAnimationLockPunishmentTitle": "スキルのアニメーションロックを自動で解除",
     "AutoRemoveArmoireItemsFromDresserDescription": "ミラージュドレッサーを開き、「スタート」をクリックすると、ドレッサーから愛蔵品キャビネットに収納できるアイテムを自動的に取り出します。",
     "AutoRemoveArmoireItemsFromDresserTitle": "愛蔵品キャビネット収納可能装備自動取り出し",
+    "AutoRemoveDuplicateGlamoursDescription": "打开投影台界面, 并点击开始后, 自动取出投影台中重复装备",
+    "AutoRemoveDuplicateGlamoursTitle": "自动取出投影台中重复装备",
     "AutoRemoveStatusSpeedPenaltyDescription": "自身の移動速度が低下するデバフを受けた際、自動的にその移動速度低下の効果を無効化する。",
     "AutoRemoveStatusSpeedPenaltyTitle": "デバフによる移動速度低下を無効化",
     "AutoRemoveWalkableCastingActionSpeedPenaltyDescription": "詠唱中に歩行移動が可能なスキルを発動する際、自動で移動速度低下のペナルティを解除します。",
