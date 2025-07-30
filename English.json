@@ -677,6 +677,8 @@
     "AutoRemoveAnimationLockPunishmentTitle": "Auto remove animation lock on actions",
     "AutoRemoveArmoireItemsFromDresserDescription": "Auto remove all the gears that can be stored in the armoire from the glamour dresser after open the glamour dresser interface and click start",
     "AutoRemoveArmoireItemsFromDresserTitle": "Auto Remove Armoire Items From Glamour Dresser",
+    "AutoRemoveDuplicateGlamoursDescription": "打开投影台界面, 并点击开始后, 自动取出投影台中重复装备",
+    "AutoRemoveDuplicateGlamoursTitle": "自动取出投影台中重复装备",
     "AutoRemoveStatusSpeedPenaltyDescription": "When the user is given a status which could slow the user down, the module will automatically make the user immune to the speed penalties caused by the status.",
     "AutoRemoveStatusSpeedPenaltyTitle": "Auto immune to speed penalties from status",
     "AutoRemoveWalkableCastingActionSpeedPenaltyDescription": "Remove the speed reduction while executing the actions which allow players to walk during casting the actions.",
