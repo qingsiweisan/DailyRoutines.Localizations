@@ -902,7 +902,7 @@
     "AutoTenChiJin-AutoCastNinJiTsu": "Execute the Ninjutsu after making mudras",
     "AutoTenChiJin-HotbarPlacedMessage": "Ninjutsu {0} has been placed in the key {2} of the hotbar {1}.",
     "AutoTenChiJin-Notification": "Now executing {0}:",
-    "AutoTenChiJin-PlaceNinJiTsuToHotbar": "Place all the 7 kinds of Ninjutsu in the hotbars",
+    "AutoTenChiJin-OpenNijutsuActionsAddon": "打开忍术技能界面",
     "AutoTenChiJinDescription": "Allow users to set all the 7 kinds of Ninjutsu to the hotbars. The process of making mudras will be automatically completed in order after the user clicks a Ninjutsu.",
     "AutoTenChiJinTitle": "Auto Ninjutsu",
     "AutoThrottleTenChiJinDescription": "When weaving Shinobi, each Shinobi action can only be pressed once during the sequence.",
