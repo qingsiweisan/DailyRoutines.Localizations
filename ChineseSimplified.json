@@ -497,6 +497,7 @@
     "AutoMateriaRetrive-NoItemFound": "未找到符合条件的物品",
     "AutoMateriaRetriveDescription": "回收任一装备的魔晶石时, 自动回收该装备所镶嵌的全部魔晶石",
     "AutoMateriaRetriveTitle": "自动回收魔晶石",
+    "AutoMateriaTransmutation-BatchTransmutate": "批量合成",
     "AutoMateriaTransmutation-BlacklistMateria": "禁止被用于合成的魔晶石",
     "AutoMateriaTransmutation-OpenUI": "打开合成界面",
     "AutoMateriaTransmutationDescription": "打开魔晶石合成界面, 并点击开始后, 自动选择并合成魔晶石",
