@@ -497,6 +497,7 @@
     "AutoMateriaRetrive-NoItemFound": "No Matching Items Found",
     "AutoMateriaRetriveDescription": "When retrieving any gear's materia, retrieve all.",
     "AutoMateriaRetriveTitle": "Auto Retrieve Materia",
+    "AutoMateriaTransmutation-BatchTransmutate": "批量合成",
     "AutoMateriaTransmutation-BlacklistMateria": "Materia prohibited from being used for transmutation.",
     "AutoMateriaTransmutation-OpenUI": "Open Materia transmutation UI",
     "AutoMateriaTransmutationDescription": "Open the Materia Transmutation interface, and after clicking Start, automatically select and transmute Materia.",
