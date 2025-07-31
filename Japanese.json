@@ -497,7 +497,7 @@
     "AutoMateriaRetrive-NoItemFound": "対象商品は見つかりませんでした",
     "AutoMateriaRetriveDescription": "装備からマテリアを回収する場合、その装備品に埋め込まれたマテリアはすべて自動的に回収されます",
     "AutoMateriaRetriveTitle": "マテリア回収自動化",
-    "AutoMateriaTransmutation-BatchTransmutate": "批量合成",
+    "AutoMateriaTransmutation-BatchTransmutate": "一括合成",
     "AutoMateriaTransmutation-BlacklistMateria": "合成に使用できないマテリア",
     "AutoMateriaTransmutation-OpenUI": "合成画面を開く",
     "AutoMateriaTransmutationDescription": "マテリア合成画面を開き、「スタート」をクリックすると、自動でマテリアを選択して合成する",
