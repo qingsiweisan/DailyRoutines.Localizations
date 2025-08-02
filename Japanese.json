@@ -43,7 +43,7 @@
     "AutoAetherialReductionDescription": "精選UIを開き、「スタート」をくりっくすると、自動で霊砂化します。",
     "AutoAetherialReductionTitle": "自動で精選して霊砂化",
     "AutoAethericMimicry-MimicTarget": "コピー対象: {0} {1}",
-    "AutoAethericMimicry-NoAvailableTarget": "条件を満たす利用可能な対象が付近にありません",
+    "AutoAethericMimicry-NoAvailableTarget": "条件を満たす対象が付近にいません",
     "AutoAethericMimicryDescription": "有効な対象を選択していない状態で『エーテルコピー』を使用すると、周囲の指定ロールのプレイヤーをワンクリックで吸収できるショートカット画面が自動的に開きます。",
     "AutoAethericMimicryTitle": "自動エーテルコピー",
     "AutoAllowMultipleGamesDescription": "ゲーム本体による多重起動制限（最大2垢まで）を自動的に解除する",
