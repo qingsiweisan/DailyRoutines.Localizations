@@ -319,6 +319,8 @@
     "AutoGysahlGreensTitle": "ギサールの野菜を自動使用",
     "AutoHandleTeleportStuckDescription": "「{0}」が発生した際、最後に行使されたテレポを実行します。",
     "AutoHandleTeleportStuckTitle": "テレポ重複時の自動処理",
+    "AutoHideExpBarDescription": "若当前职业等级已满, 则自动隐藏经验值栏",
+    "AutoHideExpBarTitle": "自动隐藏经验值栏",
     "AutoHideGameObjects-HideChocobo": "チョコボを非表示にする",
     "AutoHideGameObjects-HideChocoboHelp": "他人のチョコボを非表示にする",
     "AutoHideGameObjects-HidePet": "召喚物を非表示にする",
