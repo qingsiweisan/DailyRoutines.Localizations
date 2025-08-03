@@ -319,6 +319,8 @@
     "AutoGysahlGreensTitle": "自動使用基薩爾野菜",
     "AutoHandleTeleportStuckDescription": "當遭遇 \"{0}\" 的特殊傳送狀態時, 自動執行上一次傳送以脫離",
     "AutoHandleTeleportStuckTitle": "自動處理無法傳送狀態",
+    "AutoHideExpBarDescription": "若当前职业等级已满, 则自动隐藏经验值栏",
+    "AutoHideExpBarTitle": "自动隐藏经验值栏",
     "AutoHideGameObjects-HideChocobo": "隱藏陸行鳥",
     "AutoHideGameObjects-HideChocoboHelp": "隱藏除自身陸行鳥外其他所有的陸行鳥",
     "AutoHideGameObjects-HidePet": "隱藏召喚物",
