@@ -319,6 +319,8 @@
     "AutoGysahlGreensTitle": "Auto Use Gysahl Greens",
     "AutoHandleTeleportStuckDescription": "Automatically execute the teleportation last time if users get stuck in teleportation with the message \"{0}\".",
     "AutoHandleTeleportStuckTitle": "Auto Clear Teleportation Stuck",
+    "AutoHideExpBarDescription": "若当前职业等级已满, 则自动隐藏经验值栏",
+    "AutoHideExpBarTitle": "自动隐藏经验值栏",
     "AutoHideGameObjects-HideChocobo": "Hide Chocobos",
     "AutoHideGameObjects-HideChocoboHelp": "Hide all the chocobos except mine.",
     "AutoHideGameObjects-HidePet": "Hide Pets And Minions",
