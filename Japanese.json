@@ -985,6 +985,7 @@
     "BetterBlacklist-Notification-FailToShare": "分享失败",
     "BetterBlacklist-Notification-ImportedList": "导入黑名单列表成功\n名称: {0}\n玩家数: {1}",
     "BetterBlacklist-Notification-JoinedGroup": "已创建共享组信息, 若信息正确且组内存在任一黑名单玩家, 则代表加入成功, 否则请检查输入的信息",
+    "BetterBlacklist-Notification-MeetBlacklistPlayer": "遇见了黑名单玩家\n名称: {0}\n备注: {1}\n添加时间: {2}\n来源: {3} ({4})",
     "BetterBlacklist-Notification-ShareList": "分享黑名单列表成功:\n唯一 ID: {0} (已复制至剪贴板)\n访问密码: {1}\n过期时间: {2:yyyy/MM/dd HH:mm:ss}",
     "BetterBlacklist-OldRemark": "原备注",
     "BetterBlacklist-PlayerModifier": "修改玩家",
