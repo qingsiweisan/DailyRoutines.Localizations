@@ -1522,6 +1522,8 @@
     "LiveAnonymousMode-WithJobPrefix": "使用职业名称为前缀",
     "LiveAnonymousModeDescription": "混淆游戏内所有出现的玩家名称与玩家模型, 以加密游玩信息 \n(非实际修改, 不影响非模型关联插件, 但请注意其他插件界面可能暴露的信息)",
     "LiveAnonymousModeTitle": "直播匿名模式",
+    "LocalFlightModeDescription": "取消当前区域的所有飞行限制, 使游戏人物能够强行进入本地飞行模式",
+    "LocalFlightModeTitle": "本地飞行模式",
     "LocalModules": "本地模块",
     "Locate": "定位",
     "MacroIntoActionQueueDescription": "令所有技能与物品使用都可以进入技能队列",
