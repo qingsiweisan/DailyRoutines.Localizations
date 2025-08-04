@@ -1522,6 +1522,8 @@
     "LiveAnonymousMode-WithJobPrefix": "With Job Prefix",
     "LiveAnonymousModeDescription": "Obfuscate all player names and models in the game to encrypt gameplay information.\n(This is not an actual modification and does not affect non-model-related plugins, but be aware that other plugin interfaces may still reveal information.)",
     "LiveAnonymousModeTitle": "Live Anonymous Mode",
+    "LocalFlightModeDescription": "取消当前区域的所有飞行限制, 使游戏人物能够强行进入本地飞行模式",
+    "LocalFlightModeTitle": "本地飞行模式",
     "LocalModules": "Local Modules",
     "Locate": "Locate",
     "MacroIntoActionQueueDescription": "Allow all actions and item usages to be queued",
