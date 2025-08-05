@@ -657,7 +657,7 @@
     "AutoPreventDuplicateStatusDescription": "When corresponding actions are used auto-check status already exist for preventing the supply status overlap.",
     "AutoPreventDuplicateStatusTitle": "Auto Prevents Actions Overlap",
     "AutoQTEDescription": "In duties, automatically complete all types of Quick Time Event(QTE).",
-    "AutoQTETitle": "Auto QTE",
+    "AutoQTETitle": "Auto Active Time Maneuvers",
     "AutoQuestAcceptDescription": "Auto clicks the confirm button when the quest access interface appears",
     "AutoQuestAcceptTitle": "Auto Confirm Accept Quests",
     "AutoQuestCompleteDescription": "Auto clicks the confirm button when the quest complete interface appears",
