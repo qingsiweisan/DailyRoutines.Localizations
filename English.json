@@ -1640,7 +1640,7 @@
     "OptimizedTargetInfo-ZeroAlphaHelp": "若设定颜色的不透明度 (α 值) 为 0, 则为不使用自定义颜色",
     "OptimizedTargetInfo-ZeroPrecision": "英文数字表达 (保留整数)",
     "OptimizedTargetInfoDescription": "对目标情报与焦点目标情报界面进行优化, 显示目标体力值与目标技能咏唱剩余时间, 放大自身状态效果, 并支持快捷取消焦点目标",
-    "OptimizedTargetInfoTitle": "目标情报界面优化",
+    "OptimizedTargetInfoTitle": "Better Target Bar",
     "Outdoors": "Outdoor",
     "Output": "output",
     "PartyFinderFilter-AddPreset": "Add",
