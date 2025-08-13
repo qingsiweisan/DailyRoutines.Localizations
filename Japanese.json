@@ -1630,7 +1630,7 @@
     "OptimizedTargetInfo-DisplayStringFormat": "テキスト表示形式",
     "OptimizedTargetInfo-DisplayStringFormatHelp": "{0} - 最大HP\n{1} - 現在HP",
     "OptimizedTargetInfo-FullNumber": "数字表記 (全桁)",
-    "OptimizedTargetInfo-FullNumberSeparators": "数字表記 (桁区切り)",
+    "OptimizedTargetInfo-FullNumberSeparators": "数字表記 (カンマ区切り)",
     "OptimizedTargetInfo-HideAutoAttackIcon": "オートアタックアイコンを非表示",
     "OptimizedTargetInfo-NumberPreview": "プレビュー用の数字",
     "OptimizedTargetInfo-OnePrecision": "SI接頭語 (小数点1桁)",
