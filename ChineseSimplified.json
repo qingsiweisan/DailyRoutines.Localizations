@@ -165,6 +165,7 @@
     "AutoCountPlayers-PlayersAroundCount": "周边人数",
     "AutoCountPlayers-PlayersAroundInfo": "周边玩家列表",
     "AutoCountPlayers-PlayersTargetingMe": "正以你为目标的玩家",
+    "AutoCountPlayers-PlayersZoneCount": "区域人数",
     "AutoCountPlayersDescription": "以服务器信息栏的形式显示当前周边玩家的数量, 并提供一个可以直接搜索的悬浮窗",
     "AutoCountPlayersTitle": "自动显示周边玩家数量",
     "AutoCTSDescription": "交互游戏机后, 自动开始重复游玩强袭水晶塔",
