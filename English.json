@@ -165,6 +165,7 @@
     "AutoCountPlayers-PlayersAroundCount": "Players Nearby",
     "AutoCountPlayers-PlayersAroundInfo": "Nearby Players List",
     "AutoCountPlayers-PlayersTargetingMe": "The player(s) targeting you",
+    "AutoCountPlayers-PlayersZoneCount": "区域人数",
     "AutoCountPlayersDescription": "Display number of nearby players in server info bar, with a searchable overlay",
     "AutoCountPlayersTitle": "Auto Count Players Nearby",
     "AutoCTSDescription": "After interacting with a Crystal Tower Striker game console, auto and repeatedly play the mini-game.",
