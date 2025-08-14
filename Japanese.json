@@ -165,6 +165,7 @@
     "AutoCountPlayers-PlayersAroundCount": "周囲の人数",
     "AutoCountPlayers-PlayersAroundInfo": "周囲のプレイヤーリスト",
     "AutoCountPlayers-PlayersTargetingMe": "あなたをタゲっているプレイヤー",
+    "AutoCountPlayers-PlayersZoneCount": "区域人数",
     "AutoCountPlayersDescription": "サーバー情報バーの形式で現在周囲のプレイヤーの数を表示し、直接検索できる浮動ウィンドウを提供する",
     "AutoCountPlayersTitle": "周囲のプレイヤーの数を自動で表示する",
     "AutoCTSDescription": "筐体をクリック後、自動的にクリスタルタワーストライカーを繰り返してプレイします",
