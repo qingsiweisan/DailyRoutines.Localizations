@@ -1582,6 +1582,7 @@
     "OccultCrescentHelper-CEManager-CEName-InBattle": "Players Joined: {0} / Progress: {1}%",
     "OccultCrescentHelper-CEManager-CEName-Register": "Remaining Time: {0} second(s)",
     "OccultCrescentHelper-CEManager-CEName-WarmUp": "Ready",
+    "OccultCrescentHelper-CEManager-SpecialRewards": "特殊奖励",
     "OccultCrescentHelper-CEManager-Notification-CE": "New CE spotted",
     "OccultCrescentHelper-CEManager-Notification-CEStart": "A CE has started",
     "OccultCrescentHelper-CEManager-Notification-FATE": "New FATE spotted",
