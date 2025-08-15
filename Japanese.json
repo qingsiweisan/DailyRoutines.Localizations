@@ -770,7 +770,7 @@
     "AutoRetainerWork-PriceAdjust-PercentageReduction": "1回あたりの値下げ幅",
     "AutoRetainerWork-PriceAdjust-PriceAdjustSuccessfully": "アイテムの出品価格の変更が成功しました\nアイテム: {0}\nリテイナー: {1}\n原価格: {2}\n現価格: {3} ({4})",
     "AutoRetainerWork-PriceAdjust-PriceExpected": "予想価格",
-    "AutoRetainerWork-PriceAdjust-PriceMaximum": "許容可能な最高価格",
+    "AutoRetainerWork-PriceAdjust-PriceMaximum": "最高許容価格",
     "AutoRetainerWork-PriceAdjust-PriceMaxReduction": "許容できる値下げ額",
     "AutoRetainerWork-PriceAdjust-PriceMinimum": "最低許容価格",
     "AutoRetainerWork-PriceAdjust-ReturnAllToInventory": "すべて回収 (所持品)",
