@@ -1582,6 +1582,7 @@
     "OccultCrescentHelper-CEManager-CEName-InBattle": "参加人数: {0} / 進行度: {1}%",
     "OccultCrescentHelper-CEManager-CEName-Register": "残り時間: {0} 秒",
     "OccultCrescentHelper-CEManager-CEName-WarmUp": "開始準備中",
+    "OccultCrescentHelper-CEManager-SpecialRewards": "特殊奖励",
     "OccultCrescentHelper-CEManager-Notification-CE": "新たにクリティカルエンカウントが発生",
     "OccultCrescentHelper-CEManager-Notification-CEStart": "クリティカルエンカウントが開始しました",
     "OccultCrescentHelper-CEManager-Notification-FATE": "新たにフェイトが発生",
