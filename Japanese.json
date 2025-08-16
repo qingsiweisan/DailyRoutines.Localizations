@@ -933,7 +933,7 @@
     "AutoUnlockAllOrchestrionsListenTitle": "オーケストリオンの試聴を全開放",
     "AutoUnlockExpertDeliveryDescription": "いずれかのグランドカンパニーに参加後に、階級要件を無視し、希少品調達機能をアンロックする",
     "AutoUnlockExpertDeliveryTitle": "希少品調達をアンロックする",
-    "AutoUnlockMapDiscoverZoneDescription": "自动在本地解锁全部地图中所有待探索区域的迷雾, 而无须曾到达过一次",
+    "AutoUnlockMapDiscoverZoneDescription": "一度も到達したことがなくても、ローカルで全マップの未探索エリアの霧を解除する",
     "AutoUnlockMapDiscoverZoneTitle": "自动解锁地图待探索区域",
     "AutoUseCrafterGathererManual-Notification": "マニュアルを自動で使用しました: {0}",
     "AutoUseCrafterGathererManualDescription": "クラフター/ギャザラーで、レベルが最大でなく、有効なサバイバルマニュアルまたはエンジニアマニュアルを所持し、経験値ボーナスがない場合、自動で使用する。",
