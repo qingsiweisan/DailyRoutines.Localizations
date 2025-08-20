@@ -1609,6 +1609,8 @@
     "OccultCrescentHelper-OthersManager-Command-PJob-Help": "<ID / 名稱 (大小寫不敏感, 部分包含)> 切換至對應的輔助職業",
     "OccultCrescentHelper-OthersManager-DragRealActionIcon": "真实技能",
     "OccultCrescentHelper-OthersManager-DragRealActionIcon-Help": "拖拽出来的技能图标是否为真实技能\n\n若勾选, 拖拽出来的技能图标为真实技能, 不会随着辅助职业变更而变更\n若未选, 拖拽出来的技能图标为任务指令, 辅助职业变更时也会一并变更",
+    "OccultCrescentHelper-OthersManager-HideDutyCommand": "隐藏 任务指令 界面",
+    "OccultCrescentHelper-OthersManager-HideDutyCommand-Help": "隐藏新月岛副本区域中用于显示辅助职业技能的 任务指令 界面",
     "OccultCrescentHelper-OthersManager-IslandID": "島 ID",
     "OccultCrescentHelper-OthersManager-IslandIDInChat": "進入時發送包含當前島 ID 的聊天資訊",
     "OccultCrescentHelper-OthersManager-IslandIDInDtr": "在伺服器資訊欄顯示當前島 ID",
