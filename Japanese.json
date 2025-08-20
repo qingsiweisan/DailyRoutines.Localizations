@@ -1609,6 +1609,8 @@
     "OccultCrescentHelper-OthersManager-Command-PJob-Help": "<ID / 名称 (大文字小文字を区別しない、一部一致でも可) > により対応する補助クラスに切り替えます。",
     "OccultCrescentHelper-OthersManager-DragRealActionIcon": "実スキル",
     "OccultCrescentHelper-OthersManager-DragRealActionIcon-Help": "ドラッグして取り出したスキルアイコンが実スキルかどうか\n\nチェックを入れた場合：ドラッグして取り出したスキルアイコンは実スキルとなり、サポートクラスを変更しても変化しません。\nチェックを入れなかった場合：ドラッグして取り出したスキルアイコンはマクロコマンドとなり、サポートクラス変更時に一緒に変化します。",
+    "OccultCrescentHelper-OthersManager-HideDutyCommand": "隐藏 任务指令 界面",
+    "OccultCrescentHelper-OthersManager-HideDutyCommand-Help": "隐藏新月岛副本区域中用于显示辅助职业技能的 任务指令 界面",
     "OccultCrescentHelper-OthersManager-IslandID": "島ID",
     "OccultCrescentHelper-OthersManager-IslandIDInChat": "入場時に、現在の島IDをチャットメッセージを送信",
     "OccultCrescentHelper-OthersManager-IslandIDInDtr": "サーバー情報欄に現在の島IDを表示",
