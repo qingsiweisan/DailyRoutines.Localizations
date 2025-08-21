@@ -1637,6 +1637,7 @@
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure": "Auto Open Coffers Nearby",
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure-DistanceTo-Help": "A excessively high threshold may lead to disconnection due to speed detection deployed on the server.",
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure-Help": "The character will be instantly moved to somewhere around the coffer, open the coffer and then return to the previous location if the character is within the threshold range of a coffer.",
+    "OccultCrescentHelper-TreasureManager-AutoOpenTreasure-Notification-Danger": "距离区域起始地点过近, 请远离后并确认周围无人注意再点击开始",
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure-Notification-End": "The current round of coffer collections has ended.",
     "OccultCrescentHelper-TreasureManager-ShowLinkLine": "Draw Connection Lines",
     "OccultCrescentHelperDescription": "Provide assistance for the duty Occult Crescent including quick teleportation, CE / FATE notifications, auto coffer marking & opening, auto buff renewals, quick job switching, getting instance ID and etc.",
