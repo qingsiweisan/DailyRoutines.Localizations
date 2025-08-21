@@ -1637,6 +1637,7 @@
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure": "周囲の宝箱を自動で開ける",
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure-DistanceTo-Help": "大きいすぎる設定値にすると、宝箱を開ける過程で速度検知のしきい値に引っかかり、サーバーから強制的ログアウトさせられる可能性があります。※8.0程度が限度",
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure-Help": "自分と宝箱の距離が設定した閾値以内になったとき、自動的にパケットを送信して宝箱に近づき、開けたあと元の位置に戻る。",
+    "OccultCrescentHelper-TreasureManager-AutoOpenTreasure-Notification-Danger": "距离区域起始地点过近, 请远离后并确认周围无人注意再点击开始",
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure-Notification-End": "トレジャーハント終了",
     "OccultCrescentHelper-TreasureManager-ShowLinkLine": "接続線を表示",
     "OccultCrescentHelperDescription": "クレセントアイル関連コンテンツのサポート機能を提供します。素早いテレポート、CEやF.A.T.E.の通知、宝箱のマーキングや自動開封、バフの更新、ジョブ切り替え、島IDの表示などが含まれます。",
