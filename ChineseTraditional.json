@@ -1637,6 +1637,7 @@
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure": "自動開啟周圍寶箱",
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure-DistanceTo-Help": "設置過大的閾值可能使你因開箱過程中超出區域移速容忍上限而被伺服器強行登出下線",
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure-Help": "在自身距離寶箱在設置閾值以內時, 自動發包接近寶箱並開啟, 再回到當前位置",
+    "OccultCrescentHelper-TreasureManager-AutoOpenTreasure-Notification-Danger": "距离区域起始地点过近, 请远离后并确认周围无人注意再点击开始",
     "OccultCrescentHelper-TreasureManager-AutoOpenTreasure-Notification-End": "本轮自动寻宝已结束",
     "OccultCrescentHelper-TreasureManager-ShowLinkLine": "繪製連接線",
     "OccultCrescentHelperDescription": "為 蜃景幻界新月島 相關副本提供遊玩輔助, 包括快速傳送、緊急遭遇戰 (CE) / 臨危受命 (FATE) 提醒、自動標記/開啟寶箱、自動續 BUFF、快捷職業切換、顯示島 ID 等功能",
