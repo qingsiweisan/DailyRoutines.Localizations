@@ -1771,6 +1771,7 @@
     "QueueCombatTeleport-Notice-Waiting": "Waiting for delay {0}ms",
     "QueueCombatTeleportDescription": "Automatically ignore the restriction that the teleportation menu couldn't be accessed in combat, hold teleportation requests received during combat for later and respond to those requests immediately after combat.",
     "QueueCombatTeleportTitle": "Auto Hold Teleportation In Combat",
+    "QuickChatPanel-ButtonBackgroundVisible": "按钮背景",
     "QuickChatPanel-ButtonIcon": "Button icon",
     "QuickChatPanel-ButtonOffset": "Button Offset",
     "QuickChatPanel-Buttons": "Buttons",
