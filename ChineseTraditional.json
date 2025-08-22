@@ -1771,6 +1771,7 @@
     "QueueCombatTeleport-Notice-Waiting": "等待中, 設定延遲: {0}ms",
     "QueueCombatTeleportDescription": "解除戰鬥中無法打開傳送界面的限制, 並儲存戰鬥中發出的傳送請求, 在戰鬥結束瞬間自動進行傳送",
     "QueueCombatTeleportTitle": "儲存戰鬥中傳送請求",
+    "QuickChatPanel-ButtonBackgroundVisible": "按钮背景",
     "QuickChatPanel-ButtonIcon": "按鈕圖示",
     "QuickChatPanel-ButtonOffset": "按鈕位置偏移",
     "QuickChatPanel-Buttons": "按鈕",
