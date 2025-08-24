@@ -748,7 +748,7 @@
     "AutoReplyChatBot-SystemPrompt": "系统提示词",
     "AutoReplyChatBot-TestChat": "测试聊天",
     "AutoReplyChatBotDescription": "配置完毕后, 自动使用指定的大语言模型与提示词回复指定频道的聊天消息",
-    "AutoReplyChatBotTitle": "自动回复聊天信息",
+    "AutoReplyChatBotTitle": "Auto Chat Bot Reply",
     "AutoRequestItemSubmit-SubmitHQItem": "Submit HQ Items",
     "AutoRequestItemSubmitDescription": "Auto select items and complete the submission when submitting items",
     "AutoRequestItemSubmitTitle": "Auto Submit Items",
