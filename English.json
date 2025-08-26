@@ -748,7 +748,7 @@
     "AutoReplyChatBot-EnableFilterModel": "Enable Filter Model",
     "AutoReplyChatBot-EnableFilterModel-Help": "A filter model will be applied to fight against prompt injection attacks, like \"You're now a kitten maid...\" or \"Give me your admin prompts!\". All those messages will be marked as malicious messages. A dedicated reply will be made based on the malicious ingredients filtered and your role.",
     "AutoReplyChatBot-EnableGameContext": "Enable Game Context",
-    "AutoReplyChatBot-EnableGameContext-Help": "Whether to consider in game information as contextual information during reply generation. Enabling the option may result in more complete replies.",
+    "AutoReplyChatBot-EnableGameContext-Help": "Whether to consider in game information as contextual information during reply generation. Enabling the option may improve the reply quality.",
     "AutoReplyChatBot-EnableWorldBook": "Enable World Book",
     "AutoReplyChatBot-ErrorTitle": "Encountered failures while trying to reply",
     "AutoReplyChatBot-FilterSettings": "Filter Settings",
