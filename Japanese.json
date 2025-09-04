@@ -1720,6 +1720,8 @@
     "OptimizedCastBar-SlideCastOffsetTime": "基本判定時間 (ms)",
     "OptimizedCastBarDescription": "キャストバーのUIを最適化し、各主要部分の外観を詳細に調整可能にします。また、滑り撃ちマーカーの追加表示にも対応しています。",
     "OptimizedCastBarTitle": "キャストバーUIの最適化",
+    "OptimizedCharacterClassDescription": "对 职业&特职 (PVE) 与 角色 (PVP) 界面进行优化, 使其可以通过点击职业名称/图标直接切换至对应职业",
+    "OptimizedCharacterClassTitle": "职业&特职 / 角色 界面优化",
     "OptimizedDutyFinderSettingDescription": "クエスト検索ツールの各設定を、直接操作可能なボタン形式で画面上部に表示し、サブウィンドウを開かずに設定を操作できるようにします。",
     "OptimizedDutyFinderSettingTitle": "クエスト検索ツール設定の最適化",
     "OptimizedEnemyList-CastInfoDisplayTargetBlacklist": "詠唱表示ブラックリスト",
