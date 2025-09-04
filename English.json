@@ -1720,6 +1720,8 @@
     "OptimizedCastBar-SlideCastOffsetTime": "Slidecast Threshold (ms)",
     "OptimizedCastBarDescription": "Provide a better cast bar with adjustable appearance in many elements and slidecast indicators.",
     "OptimizedCastBarTitle": "Better Cast Bar",
+    "OptimizedCharacterClassDescription": "对 职业&特职 (PVE) 与 角色 (PVP) 界面进行优化, 使其可以通过点击职业名称/图标直接切换至对应职业",
+    "OptimizedCharacterClassTitle": "职业&特职 / 角色 界面优化",
     "OptimizedDutyFinderSettingDescription": "Provide a bar including buttons correspond to Duty Finder settings above the Duty Finder interface in order to make the setting more accessible.",
     "OptimizedDutyFinderSettingTitle": "Better Duty Finder Settings",
     "OptimizedEnemyList-CastInfoDisplayTargetBlacklist": "Cast Information Blacklist",
