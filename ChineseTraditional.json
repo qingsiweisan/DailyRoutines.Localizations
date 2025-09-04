@@ -1720,6 +1720,8 @@
     "OptimizedCastBar-SlideCastOffsetTime": "基礎時間閾值 (ms)",
     "OptimizedCastBarDescription": "對詠唱欄界面進行最佳化, 支持詳細調整各主要部分的外觀效果, 並能額外顯示滑步標記",
     "OptimizedCastBarTitle": "詠唱欄界面最佳化",
+    "OptimizedCharacterClassDescription": "对 职业&特职 (PVE) 与 角色 (PVP) 界面进行优化, 使其可以通过点击职业名称/图标直接切换至对应职业",
+    "OptimizedCharacterClassTitle": "职业&特职 / 角色 界面优化",
     "OptimizedDutyFinderSettingDescription": "使任務搜索器各設置直接以可交互按鈕形式顯示在界面上方, 無需打開二級界面即可交互設置",
     "OptimizedDutyFinderSettingTitle": "任務搜索器設置最佳化",
     "OptimizedEnemyList-CastInfoDisplayTargetBlacklist": "詠唱資訊顯示黑名單",
