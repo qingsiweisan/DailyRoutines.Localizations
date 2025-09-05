@@ -1058,6 +1058,7 @@
     "BetterFollow-FlyingWhenFollowFlying": "Fly with follow target",
     "BetterFollow-FollowDistance": "Recalculation Distance",
     "BetterFollow-ForcedFollowConfig": "Add Force Follow Command ({0})",
+    "BetterFollow-InCombatFollow": "战斗中跟随",
     "BetterFollow-MountWhenFollowMount": "Mount with the follow target",
     "BetterFollow-MoveType": "Following Type",
     "BetterFollow-NavmeshFollow-Help": "Please never disable the vnavmesh plugin while following.\nIf you're following any object using the vnavmesh plugin in a duty, unexpected results may occur when the character gets knocked back or binded.",
