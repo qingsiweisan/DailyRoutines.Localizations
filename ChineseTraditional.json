@@ -1058,6 +1058,7 @@
     "BetterFollow-FlyingWhenFollowFlying": "與跟隨目標一同起飛",
     "BetterFollow-FollowDistance": "重新算路距離",
     "BetterFollow-ForcedFollowConfig": "添加強制跟隨命令 ({0})",
+    "BetterFollow-InCombatFollow": "战斗中跟随",
     "BetterFollow-MountWhenFollowMount": "與跟隨目標一同上坐騎",
     "BetterFollow-MoveType": "尋路方式",
     "BetterFollow-NavmeshFollow-Help": "請勿在跟隨時關閉 vnavmesh 插件\n在副本內使用 vnavmesh 跟隨時遭遇擊退/止步等特殊移動相關狀態時將會發生不可預料的後果",
