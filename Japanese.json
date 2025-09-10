@@ -1653,7 +1653,7 @@
     "OccultCrescentHelper-CEManager-SpecialRewards": "特別報酬",
     "OccultCrescentHelper-Command-PBuff-Help": "サポートナイト、サポートモンク、サポート吟遊詩人それぞれの長時間効果バフスキルを自動で使用します。",
     "OccultCrescentHelper-Command-PCE-Help": "(<abort>) クレセントアイル内のクリティカルエンカウントへ移動する / 移動を放棄する",
-    "OccultCrescentHelper-Command-PFate-Help": "(<abort>) 前往新月岛区域内当前完成进度最低的危命任务 / 放弃前往",
+    "OccultCrescentHelper-Command-PFate-Help": "(<abort>) クレセントアイル内で現在進行度が最も低いF.A.T.E.へ移動する / 移動を中止する",
     "OccultCrescentHelper-Command-PJob-Help": "<ID / 名称 (大文字小文字を区別せず、一部一致でも可)> により、対応するサポートクラスへ切り替えます。",
     "OccultCrescentHelper-Command-PTP-Help": "<索引 / 名称 (大文字小文字を区別せず、一部一致でも可)> により、対応する魔道路/簡易魔道路へテレポートします。",
     "OccultCrescentHelper-Command-PTreasure-Help": "<ルート名 (大文字小文字を区別せず、一部一致でも可) / <abort>> により、指定した自動トレジャーハントルートを実行 / 自動トレジャーハントを中止します。",
