@@ -225,7 +225,7 @@
     "AutoExpertDelivery-ReachdSealCap": "軍票の数が上限を超える場合は納品を停止",
     "AutoExpertDelivery-SkipHQ": "HQアイテムを納品しない",
     "AutoExpertDelivery-SkipMaterias": "マテリアが装着された装備をスキップ",
-    "AutoExpertDelivery-DefaultPage": "默认页面",
+    "AutoExpertDelivery-DefaultPage": "デフォルトページ",
     "AutoExpertDeliveryDescription": "稀少品調達を開き、「スタート」をクリックすると、自動的に装備を軍票に変えます",
     "AutoExpertDeliveryTitle": "自動稀少品調達",
     "AutoFaceCameraDirection-CameraRotation": "カメラの向き",
