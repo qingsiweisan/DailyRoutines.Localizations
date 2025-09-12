@@ -1558,7 +1558,7 @@
     "Locate": "Locate",
     "MacroIntoActionQueueDescription": "Allow all actions and item usages to be queued",
     "MacroIntoActionQueueTitle": "Macro Into Action Queue",
-    "MainWindow-DAU": "{0} Active Users: {1}",
+    "MainWindow-DAU": "DAU on {0}: {1}",
     "Mannequin": "Mannequin",
     "ManualMode": "Manual Mode",
     "Mark": "Mark",
