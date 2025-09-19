@@ -154,7 +154,7 @@
     "AutoCosmicFortune-AutoPullHelp": "当月球信用点 ≥ {0} 时, 自动抽取宇宙好运道 {1} 次",
     "AutoCosmicFortune-CommandHelp": "(<次数>) 抽取指定次数的宇宙好运道 (留空则一次性抽完所有的月球信用点)",
     "AutoCosmicFortune-Pull": "抽奖 {0} 次",
-    "AutoCosmicFortuneDescription": "当月球信用点足够抽取至少一次宇宙好运道时, 自动在宇宙探索面板界面下方显示悬浮窗用以快捷抽取, 并提供指令 /pdr {0} 执行同样的操作",
+    "AutoCosmicFortuneDescription": "当所持信用点足够抽取至少一次宇宙好运道时, 自动在宇宙探索面板界面下方显示悬浮窗用以快捷抽取, 并提供指令 /pdr {0} 执行同样的操作, 支持达到设定限额后自动抽取",
     "AutoCosmicFortuneTitle": "自动宇宙好运道",
     "AutoCountBlacklistedDescription": "以服务器信息栏的形式, 显示设置范围内黑名单玩家的数量",
     "AutoCountBlacklistedTitle": "自动显示周边黑名单玩家数量",
