@@ -154,7 +154,7 @@
     "AutoCosmicFortune-AutoPullHelp": "Automatically roll Cosmic Fortune {1} time(s) whille the amount of Lunar Credits is greater than or equal to {0}.",
     "AutoCosmicFortune-CommandHelp": "( < times > ) to roll Cosmic Fortune given times. (roll until Lunar Credits are insufficient if left blank)",
     "AutoCosmicFortune-Pull": "Roll {0} times",
-    "AutoCosmicFortuneDescription": "A floating window will be displayed below Cosmic Exploration Exotablet for rolling Cosmic Fortune if the current amount of Lunar Credits is enough for at least one roll. A command /pdr {0} for the same purpose will also be provided.",
+    "AutoCosmicFortuneDescription": "当所持信用点足够抽取至少一次宇宙好运道时, 自动在宇宙探索面板界面下方显示悬浮窗用以快捷抽取, 并提供指令 /pdr {0} 执行同样的操作, 支持达到设定限额后自动抽取",
     "AutoCosmicFortuneTitle": "Auto Cosmic Fortune",
     "AutoCountBlacklistedDescription": "Display the number of players in Blacklist within the set range in the server information bar.",
     "AutoCountBlacklistedTitle": "Auto Count Players In Blacklist Nearby",
