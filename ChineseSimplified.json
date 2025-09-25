@@ -871,7 +871,6 @@
     "AutoShopPurchase-UI-AddonInfoHeader": "{0} (包含 {1} 个列表)",
     "AutoShopPurchase-UI-InvisibleList": "(不可见)",
     "AutoShopPurchase-UI-IsSetNumber": "设置数字",
-
     "AutoBuyMaps-Title": "自动购买地图",
     "AutoBuyMaps-Description": "自动从市场板购买缺失的藏宝图",
     "AutoBuyMaps-CommandHelp": "<地图等级/编号> <数量> [最高价格] - 购买指定数量的藏宝图 (例: /pdr buymaps G15 3 或 /pdr buymaps 15 3 50000)",
